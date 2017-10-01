@@ -1,0 +1,2 @@
+cp -R simpleproj ~/shqdir/shq_make/
+cd ~/shqdir/shq_make/

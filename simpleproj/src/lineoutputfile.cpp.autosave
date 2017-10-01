@@ -1,0 +1,11 @@
+#include "lineoutputfile.h"
+
+LineOutputFile::LineOutputFile()
+{
+
+}
+
+void InsertOneLine(const char *pline)
+{
+	
+}
