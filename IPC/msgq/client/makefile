@@ -1,0 +1,23 @@
+APPNAME=msgclient
+
+FILES=main.cpp $(wildcard src/*.cpp)
+
+$(warning $(FILES))
+
+DFILES=$(FILES:.cpp=.d)
+
+ROBJS=$(FILES:.cpp=.o)
+
+DBGOBJS=$(FILES:.cpp=.dbg.o)
+
+Debug:$(DBGOBJS)
+Debug:$(APPNAME)d
+
+$(APPNAME)d:
+	g++ -o $(APPNAME)d -g $(DBGOBJS)
+
+$(DBGOBJS):%.dbg.o:%.cpp
+	g++ -o $@ -g -c $<
+
+clean:
+	rm -rf *.dbg.o *.o $(APPNAME) $(APPNAME)d $(wildcard src/*.dbg.o) $(wildcard src/*.o)

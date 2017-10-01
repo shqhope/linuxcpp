@@ -1,0 +1,4 @@
+
+
+Debug:
+	g++ -o maind -g main.cpp src/functions.cpp -lpthread
