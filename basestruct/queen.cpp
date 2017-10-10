@@ -53,11 +53,11 @@ bool Queen::goodPoint(const int &row, const int &col)
 	return true;
 }
 
-void Queen::GetFrame(int row, int &iframe)
+void Queen::GetFrame(int row)
 {
 	if (row == m_size)
 	{
-		printf("one frame num:%d\n", iframe++);
+		printf("one frame\n");
 		printQ();
 		printf("\n");
 	}
@@ -66,7 +66,7 @@ void Queen::GetFrame(int row, int &iframe)
 		if (goodPoint(row, col))
 		{
 			*(*(ppQueen+row)+col)='*';
-			GetFrame(row+1, iframe);
+			GetFrame(row+1);
 			*(*(ppQueen+row)+col)='0';
 		}
 	}

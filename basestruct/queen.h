@@ -11,7 +11,7 @@ public:
 	Queen();
 	void Init(int size);
 	void printQ();
-	void GetFrame(int row, int &iframe);
+	void GetFrame(int row);
 	bool goodPoint(const int &row, const int &col);
 };
 
