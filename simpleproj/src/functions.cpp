@@ -10,5 +10,6 @@ const char *swap(int *a, int *b)
 
 void queen()
 {
-
+  int bb = 0;
+  static int cc = 100;
 }

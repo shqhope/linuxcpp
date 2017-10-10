@@ -11,6 +11,7 @@ int main(int argc, const char **argv)
 	cout<< "hello world"<<endl;
 	int a = 100,b = 200;
 	cout << swap(&a, &b) << endl;
+	cout << "changge some words"<<endl;
 	cout << time(0) << endl;
 	//LinkList::test();
 	//BTree::run();
