@@ -1,7 +1,10 @@
 APPNAME=test1
 
-APPENDFILES=$(wildcard ../basestruct/*.cpp)
-FILES=main.cpp $(wildcard src/*.cpp) $(APPENDFILES)
+BASESTRUCTFILES=$(wildcard ../basestruct/*.cpp)
+APUEFILES=$(wildcard ../APUE/*.cpp)
+ZWFILES=$(wildcard ../ZW/basefun/*.cpp)
+FILES=main.cpp $(wildcard src/*.cpp) $(BASESTRUCTFILES) $(ZWFILES)
+
 
 #$(warning $(FILES))
 
@@ -11,7 +14,7 @@ ROBJS=$(FILES:.cpp=.o)
 
 DBGOBJS=$(FILES:.cpp=.dbg.o)
 
-HEADS=$(APPENDFILES:.cpp=.h) ../basestruct/heads.h
+HEADS=$(BASESTRUCTFILES:.cpp=.h) ../basestruct/heads.h
 
 Debug:$(HEADS)
 Debug:$(DBGOBJS)
