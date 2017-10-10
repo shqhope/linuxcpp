@@ -3,3 +3,10 @@ src/functions.h
 src/lineoutputfile.cpp
 src/lineoutputfile.h
 main.cpp
+makefile
+../APUE/IO/fileoperation.cpp
+../APUE/IO/fileoperation.h
+../APUE/IO/fileopt.cpp
+../APUE/IO/fileopt.h
+../APUE/SOCKET/Server/sockserver.cpp
+../APUE/SOCKET/Server/sockserver.h
