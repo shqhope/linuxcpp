@@ -26,9 +26,9 @@ int main(int argc, const char **argv)
 	cout << swap(&a, &b) << endl;
 	//LinkList::test();
 	//BTree::run();
-	Queen *queen = new Queen;
-	queen->Init(5);
-	queen->printQ();
-	queen->GetFrame(0);
+//	Queen *queen = new Queen;
+//	queen->Init(5);
+//	queen->printQ();
+//	queen->GetFrame(0);
 	return 0;
 }
