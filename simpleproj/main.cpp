@@ -8,6 +8,7 @@
 #include <sys/types.h>
 #include <sys/stat.h>
 #include <fcntl.h>
+#include <stdio.h>
 
 using namespace std;
 
@@ -22,13 +23,15 @@ int main(int argc, const char **argv)
 		close(iFile);
 	}
 	cout<< "hello world"<<endl;
+	printf("hello world\n");
 	int a = 100,b = 200;
 	cout << swap(&a, &b) << endl;
+
 	//LinkList::test();
 	//BTree::run();
-	Queen *queen = new Queen;
-	queen->Init(5);
-	queen->printQ();
-	queen->GetFrame(0);
+//	Queen *queen = new Queen;
+//	queen->Init(5);
+//	queen->printQ();
+//	queen->GetFrame(0);
 	return 0;
 }
