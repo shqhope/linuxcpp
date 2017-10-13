@@ -13,17 +13,19 @@ unsigned int BaseFun::GetFileArray(const char *path, vector<string> &filearr,
 {
 	unsigned int uFileCount = 0;
 	struct dirent *pdirent = NULL;
+	char buffFullPath[1024];
 	DIR *dir = opendir(path);
 	if (dir != NULL)
 	{
 		while ((pdirent = readdir(dir)) != NULL)
 		{
+			//string strFullPath = string(path) + string("/") + string(pdirent->d_name);
+			sprintf(buffFullPath,"%s/%s", path, pdirent->d_name);
 			struct stat bufstat;
-			lstat(pdirent->d_name, &bufstat);
-			string strFullPath = string(path) + string("/") + string(pdirent->d_name);
+			stat(pdirent->d_name, &bufstat);
 			if (S_ISREG(bufstat.st_mode))
 			{
-				filearr.push_back(strFullPath);
+				filearr.push_back(buffFullPath);
 				uFileCount++;
 			}
 			if (subdir == true)
@@ -33,7 +35,9 @@ unsigned int BaseFun::GetFileArray(const char *path, vector<string> &filearr,
 					if ((strcmp(".", pdirent->d_name) != 0) &&
 							(strcmp("..", pdirent->d_name) != 0))
 					{
-						uFileCount += GetFileArray(strFullPath.c_str(), filearr, extname, subdir);
+					    filearr.push_back(buffFullPath);
+                        uFileCount++;
+						uFileCount += GetFileArray(buffFullPath, filearr, extname, subdir);
 					}
 				}
 			}

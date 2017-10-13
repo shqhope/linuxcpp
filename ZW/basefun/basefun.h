@@ -16,7 +16,7 @@ using namespace std;
 class BaseFun
 {
 	typedef bool (*PFUN_CHECKFILE)(const char *filename, struct stat *pstat);
-private:
+public:
 	static unsigned int GetFileArray(const char *path, vector<string> &filearr,
 							  const char *extname, bool subdir = false);
 	static unsigned int SearchFile(const char *path, vector<string> &filearr, PFUN_CHECKFILE, int iMax,
