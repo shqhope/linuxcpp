@@ -22,7 +22,8 @@ unsigned int BaseFun::GetFileArray(const char *path, vector<string> &filearr,
 			//string strFullPath = string(path) + string("/") + string(pdirent->d_name);
 			sprintf(buffFullPath,"%s/%s", path, pdirent->d_name);
 			struct stat bufstat;
-			stat(pdirent->d_name, &bufstat);
+			//lstat(pdirent->d_name, &bufstat);
+			lstat(buffFullPath, &bufstat);
 			if (S_ISREG(bufstat.st_mode))
 			{
 				filearr.push_back(buffFullPath);

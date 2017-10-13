@@ -28,7 +28,7 @@ int main(int argc, const char **argv)
 	cout << swap(&a, &b) << endl;
 
 	vector<string> vecArr;
-    BaseFun::GetFileArray("/home/cubie/github/linuxcpp/APUE", vecArr, ".cpp", true);
+    BaseFun::GetFileArray("/github/linuxcpp/APUE", vecArr, ".cpp", true);
     for (vector<string>::iterator itor=vecArr.begin(); itor!=vecArr.end();++itor)
     {
         cout<<"filename:"<<itor->c_str()<<endl;
