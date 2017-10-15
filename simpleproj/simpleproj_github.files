@@ -10,3 +10,10 @@ makefile
 ../APUE/IO/fileopt.h
 ../APUE/SOCKET/Server/sockserver.cpp
 ../APUE/SOCKET/Server/sockserver.h
+../basestruct/heads.h
+../basestruct/linklist.cpp
+../basestruct/linklist.h
+../basestruct/queen.cpp
+../basestruct/queen.h
+../basestruct/tree.cpp
+../basestruct/tree.h
