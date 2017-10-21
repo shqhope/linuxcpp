@@ -1,3 +1,6 @@
+/**
+ 链表用于存储数据用的，提前分配好缓冲区，存储数据，分为索引块和数据存储块
+ **/
 #ifndef LINKLIST_H
 #define LINKLIST_H
 #include "heads.h"

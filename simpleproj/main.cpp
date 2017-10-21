@@ -14,7 +14,7 @@ using namespace std;
 
 int main(int argc, const char **argv)
 {
-	BaseFun::test();
+  /*	BaseFun::test();
 	int iFile = open("./main.cpp", O_RDONLY);
 	char buf[512] = {0};
 	if (iFile != -1)
@@ -40,4 +40,6 @@ int main(int argc, const char **argv)
 //	queen->printQ();
 //	queen->GetFrame(0);
 	return 0;
+  */
+  
 }
