@@ -6,6 +6,7 @@
 #include <stdio.h>
 #include <math.h>
 #include <stdlib.h>
+#include "rollqueue.h"
 
 
 #endif // HEADS_H

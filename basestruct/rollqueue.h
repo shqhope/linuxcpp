@@ -1,16 +1,25 @@
 #ifndef ROLLQUEUE_H
 #define ROLLQUEUE_H
+#include <stdio.h>
 
-#define QUEUE_SIZE 1000
+#define QUEUE_SIZE 10000
 
 typedef struct queueELEM
 {
   void *pelem;
 }QELEM;
 
+class RollQueue;
+
+struct queuepara
+{
+	int iqnum;
+	RollQueue *prollq;
+};
+
 class RollQueue
 {
-  void **ppQueue[QUEUE_SIZE];
+  void *ppQueue[QUEUE_SIZE];
   int iCur; //current pos
   int iSize; //size of this queue
   int iCount;

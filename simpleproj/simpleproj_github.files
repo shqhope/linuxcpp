@@ -17,3 +17,12 @@ makefile
 ../basestruct/queen.h
 ../basestruct/tree.cpp
 ../basestruct/tree.h
+../basestruct/heads.h
+../basestruct/linklist.cpp
+../basestruct/linklist.h
+../basestruct/queen.cpp
+../basestruct/queen.h
+../basestruct/rollqueue.cpp
+../basestruct/rollqueue.h
+../basestruct/tree.cpp
+../basestruct/tree.h

@@ -21,7 +21,7 @@ Debug:$(DBGOBJS)
 Debug:$(APPNAME)d
 
 $(APPNAME)d:
-	g++ -o $(APPNAME)d -g $(DBGOBJS)
+	g++ -o $(APPNAME)d -g $(DBGOBJS) -lpthread
 
 $(DBGOBJS):%.dbg.o:%.cpp
 	g++ -o $@ -g -c $<
