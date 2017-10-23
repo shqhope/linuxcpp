@@ -1,6 +1,7 @@
 #ifndef ROLLQUEUE_H
 #define ROLLQUEUE_H
 #include <stdio.h>
+#include <pthread.h>
 
 #define QUEUE_SIZE 10000
 
@@ -19,6 +20,7 @@ struct queuepara
 
 class RollQueue
 {
+  pthread_mutex_t *pLock;
   void *ppQueue[QUEUE_SIZE];
   int iCur; //current pos
   int iSize; //size of this queue

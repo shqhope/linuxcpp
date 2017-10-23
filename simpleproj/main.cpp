@@ -68,5 +68,15 @@ int main(int argc, const char **argv)
 		  exit(0);
 	  }
   }
+  time_t tm_print;
+  for (;;)
+    {
+      if (time(0) - tm_print > 10)
+	{
+	  printf("print tm:%d\n", time(0));
+	  tm_print=time(0);
+	}
+      usleep(100);
+    }
   return 0;
 }

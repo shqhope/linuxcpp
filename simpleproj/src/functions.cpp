@@ -21,7 +21,8 @@ void *ThreadPush(void *p)
 	int tmpval = 0;
 	for (;;)
 	{
-		tmpval = i++%100000;
+	  int *ptmpval = new int;
+	  *ptmpval = i++%100000;
 		para->prollq->Push(&tmpval);
 		usleep(10);
 	}
@@ -30,9 +31,16 @@ void *ThreadPush(void *p)
 
 void *ThreadPop(void *p)
 {
+	queuepara *para = (queuepara*)p;
+	int i = 0;
+	int tmpval = 0;
+  
 	for (;;)
 	{
-
+	  int *pint = (int *)para->prollq->Pop();
+	  printf("pop thread seq[%03d] pop value:%d\n", para->iqnum, *pint);
+	  delete pint;
+	  sleep(1);
 	}
 	return p;
 }
