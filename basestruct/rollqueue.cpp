@@ -6,6 +6,7 @@ RollQueue::RollQueue()
   iEnd=0;
   iCount=0;
   iSize=QUEUE_SIZE;
+  memset(ppQueue, 0, sizeof(void *)*QUEUE_SIZE);
   pLock = new pthread_mutex_t;
   pthread_mutex_init(pLock, 0);
 }
@@ -22,7 +23,7 @@ bool RollQueue::Push(void *pElem)
   if (iCount < iSize)
     {
       ppQueue[iCur]=pElem;
-      iCur=iCur++%iSize;
+      iCur=(iCur+1)%iSize;
       iCount++;
       pthread_mutex_unlock(pLock);
       return true;
@@ -45,8 +46,10 @@ void *RollQueue::Pop()
   else
     {
       int iTmp = iEnd;
-      iEnd=iEnd++%iSize;
+      iEnd=(iEnd+1)%iSize;
+      iCount--;
+      void *pRet = ppQueue[iTmp]; 
       pthread_mutex_unlock(pLock);
-      return ppQueue[iTmp];
+      return pRet;
     }      
 }

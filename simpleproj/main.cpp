@@ -59,7 +59,7 @@ int main(int argc, const char **argv)
   for (int i = 0; i < 10; ++i)
   {
 	  arrqpara[i].iqnum = i;
-	  arrqpara[i].prollq = new RollQueue;
+	  arrqpara[i].prollq = pqueue;
 	  pthread_t thread1;
 	  pthread_create(&thread1, NULL, ThreadPop, arrqpara+i);
 	  if (iRet != 0)
@@ -73,7 +73,7 @@ int main(int argc, const char **argv)
     {
       if (time(0) - tm_print > 10)
 	{
-	  printf("print tm:%d\n", time(0));
+	  printf("print tm:%d qsize:%d\n", time(0), 0);
 	  tm_print=time(0);
 	}
       usleep(100);

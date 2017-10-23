@@ -2,6 +2,7 @@
 #define ROLLQUEUE_H
 #include <stdio.h>
 #include <pthread.h>
+#include <string.h>
 
 #define QUEUE_SIZE 10000
 
