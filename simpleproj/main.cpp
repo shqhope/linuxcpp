@@ -42,41 +42,5 @@ int main(int argc, const char **argv)
 //	queen->GetFrame(0);
 	return 0;
   */
-
-	RollQueue *pqueue = new RollQueue;
-	queuepara qpapush;
-	qpapush.iqnum = 0;
-	qpapush.prollq = pqueue;
-  pthread_t thread0;
-  int iRet = pthread_create(&thread0, NULL, ThreadPush, &qpapush);
-  if (iRet != 0)
-  {
-	  cout<<"error while create thread"<<endl;
-	  exit(0);
-  }
-
-  queuepara arrqpara[10];
-  for (int i = 0; i < 10; ++i)
-  {
-	  arrqpara[i].iqnum = i;
-	  arrqpara[i].prollq = pqueue;
-	  pthread_t thread1;
-	  pthread_create(&thread1, NULL, ThreadPop, arrqpara+i);
-	  if (iRet != 0)
-	  {
-		  cout<<"error while create pop thread"<<endl;
-		  exit(0);
-	  }
-  }
-  time_t tm_print;
-  for (;;)
-    {
-      if (time(0) - tm_print > 10)
-	{
-	  printf("print tm:%d qsize:%d\n", time(0), 0);
-	  tm_print=time(0);
-	}
-      usleep(100);
-    }
   return 0;
 }

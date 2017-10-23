@@ -34,4 +34,7 @@ class RollQueue
   void *Pop();
 };
 
+void *ThreadPop(void *p);
+void *ThreadPush(void *p);
+
 #endif

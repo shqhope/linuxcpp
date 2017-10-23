@@ -53,3 +53,80 @@ void *RollQueue::Pop()
       return pRet;
     }      
 }
+
+
+/**
+   test codes
+ */
+void *ThreadPush(void *p)
+{
+	queuepara *para = (queuepara*)p;
+	int i = 0;
+	for (;;)
+	{
+	  int *ptmpval = new int;
+	  *ptmpval = i++%100000;
+	  para->prollq->Push(ptmpval);
+	  usleep(10);
+	}
+	return p;
+}
+
+void *ThreadPop(void *p)
+{
+	queuepara *para = (queuepara*)p;
+	int i = 0;
+	int tmpval = 0;
+  
+	for (;;)
+	{
+	  int *pint = (int *)para->prollq->Pop();
+	  if (pint != NULL)
+	    {
+	      printf("pop thread seq[%d] pop value:%d\n", para->iqnum, *pint);
+	      delete pint;
+	    }
+	  usleep(100);
+	}
+	return p;
+}
+
+void testRollQueue()
+{
+	RollQueue *pqueue = new RollQueue;
+	queuepara qpapush;
+	qpapush.iqnum = 0;
+	qpapush.prollq = pqueue;
+  pthread_t thread0;
+  int iRet = pthread_create(&thread0, NULL, ThreadPush, &qpapush);
+  if (iRet != 0)
+  {
+	  cout<<"error while create thread"<<endl;
+	  exit(0);
+  }
+
+  queuepara arrqpara[10];
+  for (int i = 0; i < 10; ++i)
+  {
+	  arrqpara[i].iqnum = i;
+	  arrqpara[i].prollq = pqueue;
+	  pthread_t thread1;
+	  pthread_create(&thread1, NULL, ThreadPop, arrqpara+i);
+	  if (iRet != 0)
+	  {
+		  cout<<"error while create pop thread"<<endl;
+		  exit(0);
+	  }
+  }
+  time_t tm_print;
+  for (;;)
+    {
+      if (time(0) - tm_print > 10)
+	{
+	  printf("print tm:%d qsize:%d\n", time(0), 0);
+	  tm_print=time(0);
+	}
+      usleep(100);
+    }
+
+}
