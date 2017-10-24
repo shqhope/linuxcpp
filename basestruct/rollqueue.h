@@ -31,8 +31,8 @@ class RollQueue
 public:
 	RollQueue();
 	~RollQueue();
-	bool Push(void *pElem);
-	void *Pop();
+	bool QPush(void *pElem);
+	void *QPop();
 	static void *ThreadPush(void *p);
 	static void *ThreadPop(void *p);
 	static void test();

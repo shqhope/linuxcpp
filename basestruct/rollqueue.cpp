@@ -17,7 +17,7 @@ RollQueue::~RollQueue()
   delete pLock;
 }
 
-bool RollQueue::Push(void *pElem)
+bool RollQueue::QPush(void *pElem)
 {
   pthread_mutex_lock(pLock);
   if (iCount < iSize)
@@ -35,7 +35,7 @@ bool RollQueue::Push(void *pElem)
     }
 }
 
-void *RollQueue::Pop()
+void *RollQueue::QPop()
 {
   pthread_mutex_lock(pLock);
   if (iCount < 1)
@@ -58,7 +58,7 @@ void *RollQueue::Pop()
 /**
    test codes
  */
-void *ThreadPush(void *p)
+void *RollQueue::ThreadPush(void *p)
 {
 	queuepara *para = (queuepara*)p;
 	int i = 0;
@@ -66,13 +66,13 @@ void *ThreadPush(void *p)
 	{
 	  int *ptmpval = new int;
 	  *ptmpval = i++%100000;
-	  para->prollq->Push(ptmpval);
+	  para->prollq->QPush(ptmpval);
 	  usleep(10);
 	}
 	return p;
 }
 
-void *ThreadPop(void *p)
+void *RollQueue::ThreadPop(void *p)
 {
 	queuepara *para = (queuepara*)p;
 	int i = 0;
@@ -80,7 +80,7 @@ void *ThreadPop(void *p)
   
 	for (;;)
 	{
-	  int *pint = (int *)para->prollq->Pop();
+	  int *pint = (int *)para->prollq->QPop();
 	  if (pint != NULL)
 	    {
 	      printf("pop thread seq[%d] pop value:%d\n", para->iqnum, *pint);
