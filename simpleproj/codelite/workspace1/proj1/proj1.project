@@ -150,4 +150,8 @@
       </Completion>
     </Configuration>
   </Settings>
+  <VirtualDirectory Name="framework">
+    <File Name="../../../../ZW/framework/zwquery.cpp"/>
+    <File Name="../../../../ZW/framework/zwquery.h"/>
+  </VirtualDirectory>
 </CodeLite_Project>
