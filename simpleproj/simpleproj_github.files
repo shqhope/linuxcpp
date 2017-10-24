@@ -26,3 +26,6 @@ makefile
 ../basestruct/rollqueue.h
 ../basestruct/tree.cpp
 ../basestruct/tree.h
+../ZW/framework/zwquery.cpp
+../ZW/framework/zwquery.h
+head.h

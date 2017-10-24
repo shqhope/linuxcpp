@@ -5,7 +5,4 @@
 
 const char *swap(int *a, int *b);
 
-void *ThreadPush(void *p);
-void *ThreadPop(void *p);
-
 #endif

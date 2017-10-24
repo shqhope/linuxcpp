@@ -86,25 +86,25 @@ void *ThreadPop(void *p)
 	      printf("pop thread seq[%d] pop value:%d\n", para->iqnum, *pint);
 	      delete pint;
 	    }
-	  usleep(100);
+	  sleep(2);
 	}
 	return p;
 }
 
-void testRollQueue()
+void RollQueue::test()
 {
-    cout<<"start testrollqueue"<<endl;
+	cout<<"start testrollqueue"<<endl;
 	RollQueue *pqueue = new RollQueue;
 	queuepara qpapush;
 	qpapush.iqnum = 0;
 	qpapush.prollq = pqueue;
-  pthread_t thread0;
-  int iRet = pthread_create(&thread0, NULL, ThreadPush, &qpapush);
-  if (iRet != 0)
-  {
-	  cout<<"error while create thread"<<endl;
-	  exit(0);
-  }
+	pthread_t thread0;
+	int iRet = pthread_create(&thread0, NULL, ThreadPush, &qpapush);
+	if (iRet != 0)
+	{
+		cout<<"error while create thread"<<endl;
+		exit(0);
+	}
 
   queuepara arrqpara[10];
   for (int i = 0; i < 10; ++i)
@@ -124,10 +124,10 @@ void testRollQueue()
     {
       if (time(0) - tm_print > 10)
 	{
-	  printf("print tm:%d qsize:%d\n", time(0), 0);
+	  printf("print tm:%ld qsize:%d\n", time(0), 0);
 	  tm_print=time(0);
 	}
-      usleep(100);
+	  sleep(2);
     }
 
 }

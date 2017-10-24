@@ -9,7 +9,7 @@
 
 typedef struct queueELEM
 {
-  void *pelem;
+	void *pelem;
 }QELEM;
 
 class RollQueue;
@@ -22,21 +22,22 @@ struct queuepara
 
 class RollQueue
 {
-  pthread_mutex_t *pLock;
-  void *ppQueue[QUEUE_SIZE];
-  int iCur; //current pos
-  int iSize; //size of this queue
-  int iCount;
-  int iEnd;  
- public:
-  RollQueue();
-  ~RollQueue();
-  bool Push(void *pElem);
-  void *Pop();
+	pthread_mutex_t *pLock;
+	void *ppQueue[QUEUE_SIZE];
+	int iCur; //current pos
+	int iSize; //size of this queue
+	int iCount;
+	int iEnd;
+public:
+	RollQueue();
+	~RollQueue();
+	bool Push(void *pElem);
+	void *Pop();
+	static void *ThreadPush(void *p);
+	static void *ThreadPop(void *p);
+	static void test();
 };
 
-void *ThreadPop(void *p);
-void *ThreadPush(void *p);
-void testRollQueue();
+
 
 #endif
