@@ -3,6 +3,7 @@
 #include <stdio.h>
 #include <pthread.h>
 #include <string.h>
+#include "heads.h"
 
 #define QUEUE_SIZE 10000
 
@@ -36,5 +37,6 @@ class RollQueue
 
 void *ThreadPop(void *p);
 void *ThreadPush(void *p);
+void testRollQueue();
 
 #endif

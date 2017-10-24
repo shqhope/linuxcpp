@@ -93,6 +93,7 @@ void *ThreadPop(void *p)
 
 void testRollQueue()
 {
+    cout<<"start testrollqueue"<<endl;
 	RollQueue *pqueue = new RollQueue;
 	queuepara qpapush;
 	qpapush.iqnum = 0;
