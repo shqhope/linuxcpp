@@ -17,7 +17,7 @@ RollQueue::~RollQueue()
   delete pLock;
 }
 
-bool RollQueue::Push(void *pElem)
+bool RollQueue::QPush(void *pElem)
 {
   pthread_mutex_lock(pLock);
   if (iCount < iSize)
@@ -35,7 +35,7 @@ bool RollQueue::Push(void *pElem)
     }
 }
 
-void *RollQueue::Pop()
+void *RollQueue::QPop()
 {
   pthread_mutex_lock(pLock);
   if (iCount < 1)
@@ -58,7 +58,7 @@ void *RollQueue::Pop()
 /**
    test codes
  */
-void *ThreadPush(void *p)
+void *RollQueue::ThreadPush(void *p)
 {
 	queuepara *para = (queuepara*)p;
 	int i = 0;
@@ -66,13 +66,13 @@ void *ThreadPush(void *p)
 	{
 	  int *ptmpval = new int;
 	  *ptmpval = i++%100000;
-	  para->prollq->Push(ptmpval);
+	  para->prollq->QPush(ptmpval);
 	  usleep(10);
 	}
 	return p;
 }
 
-void *ThreadPop(void *p)
+void *RollQueue::ThreadPop(void *p)
 {
 	queuepara *para = (queuepara*)p;
 	int i = 0;
@@ -80,31 +80,31 @@ void *ThreadPop(void *p)
   
 	for (;;)
 	{
-	  int *pint = (int *)para->prollq->Pop();
+	  int *pint = (int *)para->prollq->QPop();
 	  if (pint != NULL)
 	    {
 	      printf("pop thread seq[%d] pop value:%d\n", para->iqnum, *pint);
 	      delete pint;
 	    }
-	  usleep(100);
+	  sleep(2);
 	}
 	return p;
 }
 
-void testRollQueue()
+void RollQueue::test()
 {
-    cout<<"start testrollqueue"<<endl;
+	cout<<"start testrollqueue"<<endl;
 	RollQueue *pqueue = new RollQueue;
 	queuepara qpapush;
 	qpapush.iqnum = 0;
 	qpapush.prollq = pqueue;
-  pthread_t thread0;
-  int iRet = pthread_create(&thread0, NULL, ThreadPush, &qpapush);
-  if (iRet != 0)
-  {
-	  cout<<"error while create thread"<<endl;
-	  exit(0);
-  }
+	pthread_t thread0;
+	int iRet = pthread_create(&thread0, NULL, ThreadPush, &qpapush);
+	if (iRet != 0)
+	{
+		cout<<"error while create thread"<<endl;
+		exit(0);
+	}
 
   queuepara arrqpara[10];
   for (int i = 0; i < 10; ++i)
@@ -124,10 +124,10 @@ void testRollQueue()
     {
       if (time(0) - tm_print > 10)
 	{
-	  printf("print tm:%d qsize:%d\n", time(0), 0);
+	  printf("print tm:%ld qsize:%d\n", time(0), 0);
 	  tm_print=time(0);
 	}
-      usleep(100);
+	  sleep(2);
     }
 
 }

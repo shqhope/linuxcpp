@@ -46,7 +46,6 @@ void BTree::run()
 {
 	BTree bt;
 	bt.CreateTree(glbarr, iglbarrsz);
-
-
 }
+
 

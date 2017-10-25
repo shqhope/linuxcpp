@@ -27,10 +27,7 @@ int main(int argc, const char **argv)
     }
 	//LinkList::test();
 	//BTree::run();
-//	Queen *queen = new Queen;
-//	queen->Init(5);
-//	queen->printQ();
-//	queen->GetFrame(0);
+	//RollQueue::test();
 	return 0;
   */
   //testRollQueue();

@@ -7,7 +7,7 @@
 #include <stdio.h>
 #include <string.h>
 
-#define LINKBLKSZ 1024
+#define IDXBLKSZ 1024
 #define BLOCKSZ 4*1024*1024
 
 struct LNode
@@ -39,7 +39,7 @@ public:
 public:
 	LNode *PushBack(const char *pstr);
 	//
-	LNode *GetIdxBlk(int idxsize = LINKBLKSZ);
+	LNode *GetIdxBlk(int idxsize = IDXBLKSZ);
 	LNode *PushBack_DyAllocIdx(const char *pstr);
 	//
 	char *GetBuff(const int buflen);

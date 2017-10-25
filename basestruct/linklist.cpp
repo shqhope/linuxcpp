@@ -38,7 +38,7 @@ LNode* LinkList::PushBack(const char *pstr)
 	}
 }
 
-LNode *LinkList::GetIdxBlk(int idxsize /*= LINKBLKSZ*/)
+LNode *LinkList::GetIdxBlk(int idxsize /*= IDXBLKSZ*/)
 {
 	if (m_iIdxLeft < 1)
 	{
@@ -187,4 +187,5 @@ void LinkList::test()
 
 	return ;
 }
+
 

@@ -71,3 +71,11 @@ void Queen::GetFrame(int row)
 		}
 	}
 }
+
+void testQueen()
+{
+	Queen *queen = new Queen;
+	queen->Init(5);
+	queen->printQ();
+	queen->GetFrame(0);
+}
