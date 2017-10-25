@@ -32,6 +32,8 @@
 		</Compiler>
 		<Unit filename="../../ZW/basefun/basefun.cpp" />
 		<Unit filename="../../ZW/basefun/basefun.h" />
+		<Unit filename="../../basestruct/rollqueue.cpp" />
+		<Unit filename="../../basestruct/rollqueue.h" />
 		<Unit filename="../main.cpp" />
 		<Extensions>
 			<code_completion />
