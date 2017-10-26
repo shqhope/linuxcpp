@@ -12,6 +12,7 @@
 
 struct LNode
 {
+	int iNum;
 	char *pelem;
 	struct LNode *pNext;
 };
@@ -47,6 +48,7 @@ public:
 
 public:
 	static void test();
+	static void testSort0();
 };
 
 #endif

@@ -32,6 +32,6 @@ int main(int argc, const char **argv)
   */
   //testRollQueue();
   cout<<"change some words"<<endl;
-  
+  LinkList::testSort0();
   return 0;
 }

@@ -61,6 +61,10 @@
     <File Name="../../../../basestruct/tree.h"/>
     <File Name="../../../../basestruct/tree.cpp"/>
   </VirtualDirectory>
+  <VirtualDirectory Name="framework">
+    <File Name="../../../../ZW/framework/zwquery.cpp"/>
+    <File Name="../../../../ZW/framework/zwquery.h"/>
+  </VirtualDirectory>
   <Settings Type="Dynamic Library">
     <GlobalSettings>
       <Compiler Options="" C_Options="" Assembler="">
@@ -77,8 +81,7 @@
       </Compiler>
       <Linker Options="" Required="yes"/>
       <ResourceCompiler Options="" Required="no"/>
-      <General OutputFile="" IntermediateDirectory="./Debug" Command="/home/cubie/github/linuxcpp/simpleproj/test1d" CommandArguments="" UseSeparateDebugArgs="no" DebugArguments="" WorkingDirectory="/home/cubie/github/linuxcpp/simpleproj" PauseExecWhenProcTerminates="yes" IsGUIProgram="no" IsEnabled="yes"/>
-      <BuildSystem Name="Default"/>
+      <General OutputFile="" IntermediateDirectory="./Debug" Command="/home/shqhope/github/linuxcpp/simpleproj/test1d" CommandArguments="" UseSeparateDebugArgs="no" DebugArguments="" WorkingDirectory="/home/shqhope/github/linuxcpp/simpleproj" PauseExecWhenProcTerminates="yes" IsGUIProgram="no" IsEnabled="yes"/>
       <Environment EnvVarSetName="&lt;Use Defaults&gt;" DbgSetName="&lt;Use Defaults&gt;">
         <![CDATA[]]>
       </Environment>
@@ -92,7 +95,7 @@
       <CustomBuild Enabled="yes">
         <RebuildCommand/>
         <CleanCommand>make clean</CleanCommand>
-        <BuildCommand>make</BuildCommand>
+        <BuildCommand>make -f makefile0</BuildCommand>
         <PreprocessFileCommand/>
         <SingleFileCommand/>
         <MakefileGenerationCommand/>
@@ -117,7 +120,6 @@
       <Linker Options="-O2" Required="yes"/>
       <ResourceCompiler Options="" Required="no"/>
       <General OutputFile="" IntermediateDirectory="./Release" Command="" CommandArguments="" UseSeparateDebugArgs="no" DebugArguments="" WorkingDirectory="$(IntermediateDirectory)" PauseExecWhenProcTerminates="yes" IsGUIProgram="no" IsEnabled="yes"/>
-      <BuildSystem Name="Default"/>
       <Environment EnvVarSetName="&lt;Use Defaults&gt;" DbgSetName="&lt;Use Defaults&gt;">
         <![CDATA[]]>
       </Environment>
@@ -150,8 +152,4 @@
       </Completion>
     </Configuration>
   </Settings>
-  <VirtualDirectory Name="framework">
-    <File Name="../../../../ZW/framework/zwquery.cpp"/>
-    <File Name="../../../../ZW/framework/zwquery.h"/>
-  </VirtualDirectory>
 </CodeLite_Project>
