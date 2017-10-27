@@ -31,3 +31,97 @@ void DealIPFile()
 		fclose(pfile);
 	}
 }
+
+///测试原子操作和锁的效率
+//volatile
+unsigned long ulStatic = 0;
+volatile int atom;
+pthread_rwlock_t *plock;
+
+void *ThreadAdd(void *p)
+{
+	int *pi = (int *)p;
+	unsigned long istatic;
+	for (;;)
+	{
+		if (*pi == 0)
+		{
+			__sync_fetch_and_add(&atom, 1);
+			while (atom != 1)
+			{
+				__sync_fetch_and_sub(&atom, 1);
+				usleep(5);
+				__sync_fetch_and_add(&atom, 1);
+			}
+			ulStatic ++;
+			__sync_fetch_and_sub(&atom, 1);
+		}
+		else
+		{
+			pthread_rwlock_wrlock(plock);
+			ulStatic++;
+			pthread_rwlock_unlock(plock);
+		}
+		usleep(1);
+	}
+}
+void *ThreadStatic(void *p)
+{
+	int *pi = (int *)p;
+	unsigned long istatic;
+	for (;;)
+	{
+		if (*pi == 0)
+		{
+			__sync_fetch_and_add(&atom, 1);
+			while (atom != 1)
+			{
+				__sync_fetch_and_sub(&atom, 1);
+				usleep(3000);
+				__sync_fetch_and_add(&atom, 1);
+			}
+			istatic = ulStatic;
+			__sync_fetch_and_sub(&atom, 1);
+		}
+		else
+		{
+			pthread_rwlock_rdlock(plock);
+			istatic = ulStatic;
+			pthread_rwlock_unlock(plock);
+		}
+		printf("static val: %ld\n", istatic);
+		sleep(2);
+	}
+}
+
+void Test()
+{
+	plock = new pthread_rwlock_t;
+	pthread_rwlock_init(plock,0);
+	atom = 0;
+	
+	int mode =1;
+	pthread_t thread0;
+	int iRet = pthread_create(&thread0, NULL, ThreadStatic,  &mode);
+	if (iRet != 0)
+	{
+		puts("error thread0");
+		exit(0);
+	}
+	
+	for (int i = 0; i < 20; ++i)
+	{
+		iRet = pthread_create(&thread0, NULL, ThreadAdd,  &mode);
+		if (iRet != 0)
+		{
+			printf("error thread1  %d", i);
+			exit(0);
+		}
+	}
+	
+	for(;;)
+	{
+		sleep(2);
+	}
+	
+}

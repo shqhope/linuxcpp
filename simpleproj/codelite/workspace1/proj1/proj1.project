@@ -5,6 +5,14 @@
       <File Name="../../../../ZW/basefun/basefun.h"/>
       <File Name="../../../../ZW/basefun/basefun.cpp"/>
     </VirtualDirectory>
+    <VirtualDirectory Name="framework">
+      <File Name="../../../../ZW/framework/dmpdata.cpp"/>
+      <File Name="../../../../ZW/framework/dmpdata.h"/>
+      <File Name="../../../../ZW/framework/head.h"/>
+      <File Name="../../../../ZW/framework/zwquery.cpp"/>
+      <File Name="../../../../ZW/framework/zwquery.h"/>
+      <File Name="../../../../ZW/framework/readme.rd"/>
+    </VirtualDirectory>
   </VirtualDirectory>
   <VirtualDirectory Name="IPC">
     <VirtualDirectory Name="msgq">
@@ -64,13 +72,6 @@
     <File Name="../../../../basestruct/rollqueue.cpp"/>
     <File Name="../../../../basestruct/tree.h"/>
     <File Name="../../../../basestruct/tree.cpp"/>
-  </VirtualDirectory>
-  <VirtualDirectory Name="framework">
-    <File Name="../../../../ZW/framework/zwquery.cpp"/>
-    <File Name="../../../../ZW/framework/zwquery.h"/>
-    <File Name="../../../../ZW/framework/dmpdata.h"/>
-    <File Name="../../../../ZW/framework/dmpdata.cpp"/>
-    <File Name="../../../../ZW/framework/head.h"/>
   </VirtualDirectory>
   <Settings Type="Dynamic Library">
     <GlobalSettings>

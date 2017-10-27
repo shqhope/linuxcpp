@@ -204,6 +204,10 @@ void Prn(const LNode *pnode)
 	}
 }
 
+/**
+ * @brief 插入排序
+ * @param head
+ */
 void Sort_Insert(LNode *head)
 {
 	///排序算法
