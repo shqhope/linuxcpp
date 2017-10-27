@@ -1,2 +1,2 @@
 Debug:
-	g++ -o test1d -g main.cpp src/functions.cpp ../ZW/basefun/basefun.cpp
+	g++ -o test1d -g main.cpp src/functions.cpp ../ZW/basefun/basefun.cpp ../basestruct/linklist.cpp

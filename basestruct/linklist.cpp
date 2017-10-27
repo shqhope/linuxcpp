@@ -193,6 +193,44 @@ void LinkList::test()
 	return ;
 }
 
+void Prn(const LNode *pnode)
+{
+	///打印生成的链表
+	if (pnode == NULL)
+		return;
+	for (const LNode *p = pnode->pNext; p!= NULL; p=p->pNext)
+	{
+		printf("pval:%3d\n", p->iNum);
+	}
+}
+
+void Sort_Insert(LNode *head)
+{
+	///排序算法
+	for (LNode *p = head->pNext; p->pNext != NULL; )
+	{
+		LNode *q = p->pNext;
+		if (q->iNum < p->iNum)
+		{
+			LNode *qq = head;
+			for (; qq != p; qq=qq->pNext)
+			{
+				if (q->iNum < qq->pNext->iNum)
+				{
+					break;
+				}
+			}
+			p->pNext = p->pNext->pNext;
+			q->pNext = qq->pNext;
+			qq->pNext = q;
+		}
+		else
+		{
+			p=p->pNext;
+		}
+	}
+}
+
 void LinkList::testSort0()
 {
 	int ilen = 10;
@@ -204,40 +242,13 @@ void LinkList::testSort0()
 		(pnode+i)->pNext = (pnode+i+1);
 	}
 	(pnode+ilen-1)->pNext = NULL;
-
-	///打印生成的链表
-	for (LNode *p = pnode; p!= NULL; p=p->pNext)
-	{
-		printf("pval:%3d\n", p->iNum);
-	}
-
 	///做个头节点
 	LNode *head = new LNode;
 	head->pNext = pnode;
-	///排序算法
-	for (LNode *p = head->pNext; p->pNext!= NULL; p=p->pNext)
-	{
-		LNode *q = p->pNext;
-		if (q->iNum < p->iNum)
-		{
-			LNode *qq = head;
-			for (; qq != p; qq=qq->pNext)
-			{
-				if (q->iNum > qq->pNext->iNum)
-				{
-					break;
-				}
-			}
-			p->pNext = p->pNext->pNext;
-			q->pNext = qq->pNext;
-			qq->pNext = q;
-		}
-	}
-
+	Prn(head);
+	///插入排序
+	Sort_Insert(head);
 	printf("sorted seq:\n");
-	for (LNode *p = head->pNext; p!= NULL; p=p->pNext)
-	{
-		printf("pval:%3d\n", p->iNum);
-	}
+	Prn(head);
 }
 

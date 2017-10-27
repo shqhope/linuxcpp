@@ -88,7 +88,8 @@
       </Compiler>
       <Linker Options="" Required="yes"/>
       <ResourceCompiler Options="" Required="no"/>
-      <General OutputFile="" IntermediateDirectory="./Debug" Command="/home/shqhope/github/linuxcpp/simpleproj/test1d" CommandArguments="" UseSeparateDebugArgs="no" DebugArguments="" WorkingDirectory="/home/shqhope/github/linuxcpp/simpleproj" PauseExecWhenProcTerminates="yes" IsGUIProgram="no" IsEnabled="yes"/>
+      <General OutputFile="" IntermediateDirectory="./Debug" Command="/home/cubie/github/linuxcpp/simpleproj/test1d" CommandArguments="" UseSeparateDebugArgs="no" DebugArguments="" WorkingDirectory="/home/cubie/github/linuxcpp/simpleproj" PauseExecWhenProcTerminates="yes" IsGUIProgram="no" IsEnabled="yes"/>
+      <BuildSystem Name="Default"/>
       <Environment EnvVarSetName="&lt;Use Defaults&gt;" DbgSetName="&lt;Use Defaults&gt;">
         <![CDATA[]]>
       </Environment>
@@ -127,6 +128,7 @@
       <Linker Options="-O2" Required="yes"/>
       <ResourceCompiler Options="" Required="no"/>
       <General OutputFile="" IntermediateDirectory="./Release" Command="" CommandArguments="" UseSeparateDebugArgs="no" DebugArguments="" WorkingDirectory="$(IntermediateDirectory)" PauseExecWhenProcTerminates="yes" IsGUIProgram="no" IsEnabled="yes"/>
+      <BuildSystem Name="Default"/>
       <Environment EnvVarSetName="&lt;Use Defaults&gt;" DbgSetName="&lt;Use Defaults&gt;">
         <![CDATA[]]>
       </Environment>
