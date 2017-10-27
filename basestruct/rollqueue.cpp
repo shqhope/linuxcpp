@@ -2,19 +2,19 @@
 
 RollQueue::RollQueue()
 {
-  iCur=0;
-  iEnd=0;
-  iCount=0;
-  iSize=QUEUE_SIZE;
-  memset(ppQueue, 0, sizeof(void *)*QUEUE_SIZE);
-  pLock = new pthread_mutex_t;
-  pthread_mutex_init(pLock, 0);
+	iCur=0;
+	iEnd=0;
+	iCount=0;
+	iSize=QUEUE_SIZE;
+	memset(ppQueue, 0, sizeof(void *)*QUEUE_SIZE);
+	pLock = new pthread_mutex_t;
+	pthread_mutex_init(pLock, 0);
 }
 
 RollQueue::~RollQueue()
 {
-  pthread_mutex_destroy(pLock);
-  delete pLock;
+	pthread_mutex_destroy(pLock);
+	delete pLock;
 }
 
 bool RollQueue::QPush(void *pElem)

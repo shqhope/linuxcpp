@@ -10,6 +10,7 @@
 typedef struct queueELEM
 {
 	void *pelem;
+	//***用于扩展，添加其他属性或处理方法
 }QELEM;
 
 class RollQueue;

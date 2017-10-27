@@ -1,4 +1,2 @@
-
-
 Debug:
-	g++ -o maind -g main.cpp src/functions.cpp -lpthread
+	g++ -o test1d -g main.cpp src/functions.cpp ../ZW/basefun/basefun.cpp

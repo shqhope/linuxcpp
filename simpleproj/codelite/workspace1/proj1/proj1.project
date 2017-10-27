@@ -49,6 +49,10 @@
   </VirtualDirectory>
   <VirtualDirectory Name="simpleproj">
     <File Name="../../../main.cpp"/>
+    <File Name="../../../makefile1"/>
+    <File Name="../../../makefile0"/>
+    <File Name="../../../test1d"/>
+    <File Name="../../../makefile"/>
   </VirtualDirectory>
   <VirtualDirectory Name="basestruct">
     <File Name="../../../../basestruct/linklist.cpp"/>
@@ -60,6 +64,13 @@
     <File Name="../../../../basestruct/rollqueue.cpp"/>
     <File Name="../../../../basestruct/tree.h"/>
     <File Name="../../../../basestruct/tree.cpp"/>
+  </VirtualDirectory>
+  <VirtualDirectory Name="framework">
+    <File Name="../../../../ZW/framework/zwquery.cpp"/>
+    <File Name="../../../../ZW/framework/zwquery.h"/>
+    <File Name="../../../../ZW/framework/dmpdata.h"/>
+    <File Name="../../../../ZW/framework/dmpdata.cpp"/>
+    <File Name="../../../../ZW/framework/head.h"/>
   </VirtualDirectory>
   <Settings Type="Dynamic Library">
     <GlobalSettings>
@@ -92,7 +103,7 @@
       <CustomBuild Enabled="yes">
         <RebuildCommand/>
         <CleanCommand>make clean</CleanCommand>
-        <BuildCommand>make</BuildCommand>
+        <BuildCommand>make -f makefile0</BuildCommand>
         <PreprocessFileCommand/>
         <SingleFileCommand/>
         <MakefileGenerationCommand/>
@@ -150,8 +161,4 @@
       </Completion>
     </Configuration>
   </Settings>
-  <VirtualDirectory Name="framework">
-    <File Name="../../../../ZW/framework/zwquery.cpp"/>
-    <File Name="../../../../ZW/framework/zwquery.h"/>
-  </VirtualDirectory>
 </CodeLite_Project>
