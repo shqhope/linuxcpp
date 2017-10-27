@@ -29,8 +29,9 @@ int main(int argc, const char **argv)
 	//BTree::run();
 	//RollQueue::test();
 	return 0;
-	*/
-	 cout<<"change some words"<<endl;
-	DealIPFile();
+  */
+  //testRollQueue();
+  cout<<"change some words"<<endl;
+  LinkList::testSort0();
   return 0;
 }

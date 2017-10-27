@@ -29,3 +29,4 @@ makefile
 ../ZW/framework/zwquery.cpp
 ../ZW/framework/zwquery.h
 head.h
+makefiletmp
