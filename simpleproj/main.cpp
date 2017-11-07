@@ -29,10 +29,18 @@ int main(int argc, const char **argv)
 	//BTree::run();
 	//RollQueue::test();
 	return 0;
-  */
-  //testRollQueue();
-  cout<<"change some words"<<endl;
-  //LinkList::testSort0();
-  Test();
-  return 0;
+ */
+	//testRollQueue();
+	cout<<"change some words"<<endl;
+	//LinkList::testSort0();
+	const char *pWords = "hello xiaoming \nnihaoma \nhow do you do\n";
+	char *buffWords = new char[1024];
+	memcpy(buffWords, pWords, strlen(pWords));
+	char *pline = NULL;
+	while ((pline = BaseFun::SplitLineForBlock(buffWords, '\n')) != NULL)
+	{
+		cout<<pline<<endl;
+	}
+	Test();
+	return 0;
 }

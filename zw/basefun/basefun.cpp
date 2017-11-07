@@ -119,6 +119,47 @@ unsigned int BaseFun::SearchFile(const char *path, vector<string> &filearr, PFUN
 	}
 }
 
+char *BaseFun::SplitLineForBlock(char *&pcontent, char sep)
+{
+	if (pcontent == NULL)
+		return NULL;
+	if (pcontent[0] == '\0')
+		return NULL;
+	char *pret = pcontent;
+	pcontent = strchr(pcontent, sep);
+	if (pcontent != NULL)
+		*pcontent++ = '\0';
+	return pret;
+}
+
+int BaseFun::SplitLine(char *pline, char sep, const char **cols, int maxsize)
+{
+	const char *p = pline;
+	int i = 0;
+//	while (p != NULL)
+//	{
+//		cols[i] = p;
+//		p = strchr(p, sep);
+//		*p++ = '\0';
+//	}
+}
+
+unsigned int BaseFun::GetFileLength(const char *pfilename)
+{
+	struct stat buffstat;
+	if (access(pfilename, 0) == 0)
+	{
+		lstat(pfilename, &buffstat);
+		return buffstat.st_size;
+	}
+	return 0;
+}
+
+bool BaseFun::GetFileContent(const char *pfile, char *pbuff, unsigned int &len)
+{
+
+}
+
 void BaseFun::test()
 {
 //	vector<string> vecFiles;

@@ -50,7 +50,7 @@ void *ThreadAdd(void *p)
 			while (atom != 1)
 			{
 				__sync_fetch_and_sub(&atom, 1);
-				usleep(5);
+				usleep(1);
 				__sync_fetch_and_add(&atom, 1);
 			}
 			ulStatic ++;
@@ -77,7 +77,7 @@ void *ThreadStatic(void *p)
 			while (atom != 1)
 			{
 				__sync_fetch_and_sub(&atom, 1);
-				usleep(3000);
+				usleep(300);
 				__sync_fetch_and_add(&atom, 1);
 			}
 			istatic = ulStatic;
@@ -100,7 +100,7 @@ void Test()
 	pthread_rwlock_init(plock,0);
 	atom = 0;
 	
-	int mode =1;
+	int mode = 0;
 	pthread_t thread0;
 	int iRet = pthread_create(&thread0, NULL, ThreadStatic,  &mode);
 	if (iRet != 0)
@@ -109,7 +109,7 @@ void Test()
 		exit(0);
 	}
 	
-	for (int i = 0; i < 20; ++i)
+	for (int i = 0; i < 300; ++i)
 	{
 		iRet = pthread_create(&thread0, NULL, ThreadAdd,  &mode);
 		if (iRet != 0)

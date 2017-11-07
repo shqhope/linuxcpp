@@ -30,3 +30,5 @@ makefile
 ../ZW/framework/zwquery.h
 head.h
 makefiletmp
+../ZW/basefun/basefun.h
+../ZW/basefun/basefun.cpp
