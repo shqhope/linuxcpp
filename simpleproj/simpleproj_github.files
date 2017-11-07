@@ -32,3 +32,7 @@ head.h
 makefiletmp
 ../ZW/basefun/basefun.h
 ../ZW/basefun/basefun.cpp
+../zw/basefun/basefun.cpp.autosave
+../zw/basefun/basefun.cpp
+../apue/char01/char01.h
+../apue/char01/char01.cpp

@@ -157,7 +157,7 @@ unsigned int BaseFun::GetFileLength(const char *pfilename)
 
 bool BaseFun::GetFileContent(const char *pfile, char *pbuff, unsigned int &len)
 {
-
+	int ifile = open(p)
 }
 
 void BaseFun::test()
