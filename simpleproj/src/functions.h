@@ -1,7 +1,7 @@
 #ifndef FUNCTIONS_H
 #define FUNCTIONS_H
 #include "../../basestruct/heads.h"
-#include "../../ZW/basefun/basefun.h"
+#include "../../zw/basefun/basefun.h"
 #include <unistd.h>
 #include <sys/types.h>
 

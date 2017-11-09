@@ -2,7 +2,7 @@
 #include "../basestruct/linklist.h"
 #include "../basestruct/tree.h"
 #include "../basestruct/queen.h"
-#include "../ZW/basefun/basefun.h"
+#include "../zw/basefun/basefun.h"
 
 int main(int argc, const char **argv)
 {

@@ -36,3 +36,7 @@ makefiletmp
 ../zw/basefun/basefun.cpp
 ../apue/char01/char01.h
 ../apue/char01/char01.cpp
+../orilib/httplib/httplib.h
+../orilib/httplib/httplib.cpp
+../orilib/httplib/Readme.md
+../orilib/conf/httplib.dat

@@ -7,3 +7,5 @@ src
 ../ZW/basefun
 ../zw/basefun
 ../apue/char01
+../orilib/httplib
+../orilib/conf

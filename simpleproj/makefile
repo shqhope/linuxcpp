@@ -1,8 +1,8 @@
 APPNAME=test1
 
 BASESTRUCTFILES=$(wildcard ../basestruct/*.cpp)
-APUEFILES=$(wildcard ../APUE/*.cpp)
-ZWFILES=$(wildcard ../ZW/basefun/*.cpp)
+APUEFILES=$(wildcard ../apue/*.cpp)
+ZWFILES=$(wildcard ../zw/basefun/*.cpp)
 FILES=main.cpp $(wildcard src/*.cpp) $(BASESTRUCTFILES) $(ZWFILES)
 
 
