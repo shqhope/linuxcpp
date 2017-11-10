@@ -40,3 +40,4 @@ makefiletmp
 ../orilib/httplib/httplib.cpp
 ../orilib/httplib/Readme.md
 ../orilib/conf/httplib.dat
+../socket/server/server.c

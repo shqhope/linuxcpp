@@ -9,3 +9,4 @@ src
 ../apue/char01
 ../orilib/httplib
 ../orilib/conf
+../socket/server
