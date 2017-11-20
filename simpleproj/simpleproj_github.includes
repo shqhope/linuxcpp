@@ -1,10 +1,6 @@
 src
 .
-../APUE/IO
-../APUE/SOCKET/Server
 ../basestruct
-../ZW/framework
-../ZW/basefun
 ../zw/basefun
 ../apue/char01
 ../orilib/httplib

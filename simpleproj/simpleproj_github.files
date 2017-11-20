@@ -4,12 +4,6 @@ src/lineoutputfile.cpp
 src/lineoutputfile.h
 main.cpp
 makefile
-../APUE/IO/fileoperation.cpp
-../APUE/IO/fileoperation.h
-../APUE/IO/fileopt.cpp
-../APUE/IO/fileopt.h
-../APUE/SOCKET/Server/sockserver.cpp
-../APUE/SOCKET/Server/sockserver.h
 ../basestruct/heads.h
 ../basestruct/linklist.cpp
 ../basestruct/linklist.h
@@ -26,12 +20,8 @@ makefile
 ../basestruct/rollqueue.h
 ../basestruct/tree.cpp
 ../basestruct/tree.h
-../ZW/framework/zwquery.cpp
-../ZW/framework/zwquery.h
 head.h
 makefiletmp
-../ZW/basefun/basefun.h
-../ZW/basefun/basefun.cpp
 ../zw/basefun/basefun.cpp.autosave
 ../zw/basefun/basefun.cpp
 ../apue/char01/char01.h
