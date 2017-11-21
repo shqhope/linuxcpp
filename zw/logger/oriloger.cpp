@@ -13,5 +13,4 @@ void OriLoger::WriteLog(const char *fmt, ...)
 	va_start(args, fmt);
 	int isize = vsnprintf(buffLine, 1022, fmt, args);
 	va_end(args);
-
 }
