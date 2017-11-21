@@ -6,3 +6,4 @@ src
 ../orilib/httplib
 ../orilib/conf
 ../socket/server
+../zw/logger

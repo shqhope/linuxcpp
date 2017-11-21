@@ -31,3 +31,6 @@ makefiletmp
 ../orilib/httplib/Readme.md
 ../orilib/conf/httplib.dat
 ../socket/server/server.c
+../zw/basefun/basefun.h
+../zw/logger/oriloger.cpp
+../zw/logger/oriloger.h
