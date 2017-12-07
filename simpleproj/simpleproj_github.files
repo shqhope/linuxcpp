@@ -34,3 +34,7 @@ makefiletmp
 ../zw/basefun/basefun.h
 ../zw/logger/oriloger.cpp
 ../zw/logger/oriloger.h
+../zw/framework/dmpdata.cpp
+../zw/framework/dmpdata.h
+../zw/framework/head.h
+../zw/framework/zwquery.h

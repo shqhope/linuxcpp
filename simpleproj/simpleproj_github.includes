@@ -7,3 +7,4 @@ src
 ../orilib/conf
 ../socket/server
 ../zw/logger
+../zw/framework

@@ -12,7 +12,6 @@
 #include <sys/stat.h>
 #include <fcntl.h>
 #include <stdio.h>
-#include "rollqueue.h"
 using namespace std;
 
 #endif

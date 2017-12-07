@@ -3,6 +3,7 @@
 #include "../basestruct/tree.h"
 #include "../basestruct/queen.h"
 #include "../zw/basefun/basefun.h"
+#include "../apue/char01/char01.h"
 
 int main(int argc, const char **argv)
 {
@@ -33,7 +34,7 @@ int main(int argc, const char **argv)
 	//testRollQueue();
 	cout<<"change some words"<<endl;
 	//LinkList::testSort0();
-	const char *pWords = "hello xiaoming \nnihaoma \nhow do you do\n";
+/*	const char *pWords = "hello xiaoming \nnihaoma \nhow do you do\n";
 	char *buffWords = new char[1024];
 	memcpy(buffWords, pWords, strlen(pWords));
 	char *pline = NULL;
@@ -42,5 +43,7 @@ int main(int argc, const char **argv)
 		cout<<pline<<endl;
 	}
 	Test();
+ */
+	char01::test();
 	return 0;
 }
