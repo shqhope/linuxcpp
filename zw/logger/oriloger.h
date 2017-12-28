@@ -3,9 +3,12 @@
 #include <stdarg.h>
 #include <string.h>
 #include <stdio.h>
+#include "../basefun/basefun.h"
 
 class OriLoger
 {
+	static string GetLogFileName();
+	static long GetLogSize();
 public:
 	OriLoger();
 

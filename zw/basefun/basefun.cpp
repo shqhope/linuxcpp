@@ -167,12 +167,27 @@ int BaseFun::ExecCmdAndGetRe(const char *pcmd, string &reD, bool bLog)
 	reD.clear();
 	FILE *pfile = NULL;
 	char buff[2048];
-	unsigned int pos = 0;
 
-	if (NULL == (pfile = popen(strCmdCopy.c_str(), "r")))
+	if (NULL != (pfile = popen(strCmdCopy.c_str(), "r")))
 	{
-		return -1;
+		int iRet = 0;
+		if ((iRet = fread(buff, 1, 2048, pfile)) > 0)
+		{
+			reD = buff;
+			return iRet;
+		}
 	}
+	return -1;
+}
+
+string BaseFun::GetCurrentTime()
+{
+	time_t now = time(0);
+	struct tm tmnow;
+	localtime_r(&now, &tmnow);
+	char buffTime[32];
+	strftime(buffTime, 32, "%Y-%m-%d %H:%M:%S", &tmnow);
+	return buffTime;
 }
 
 void BaseFun::test()

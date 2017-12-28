@@ -51,6 +51,8 @@ public:
 	static unsigned int GetFileLength(const char *pfilename);
 	static bool GetFileContent(const char *pfile, char *pbuff, unsigned int &len);
 	static int ExecCmdAndGetRe(const char *pcmd, string &reD, bool bLog);
+
+	static string GetCurrentTime();
 public:
 	static void test();
 };

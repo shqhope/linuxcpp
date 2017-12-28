@@ -4,6 +4,7 @@
 #include "../basestruct/queen.h"
 #include "../zw/basefun/basefun.h"
 #include "../apue/char01/char01.h"
+#include "../zw/logger/oriloger.h"
 
 int main(int argc, const char **argv)
 {
@@ -32,6 +33,9 @@ int main(int argc, const char **argv)
 	return 0;
  */
 	//testRollQueue();
+	OriLoger::WriteLog("wo le ge ca %s", "bbb");
+
+
 	cout<<"change some words"<<endl;
 	//LinkList::testSort0();
 	const char *pWords = "hello xiaoming \nnihaoma \nhow do you do\n";
@@ -44,5 +48,7 @@ int main(int argc, const char **argv)
 	}
 	Test();
 	char01::test();
+
+
 	return 0;
 }
