@@ -160,6 +160,21 @@ bool BaseFun::GetFileContent(const char *pfile, char *pbuff, unsigned int &len)
 //	int ifile = open(p)
 }
 
+int BaseFun::ExecCmdAndGetRe(const char *pcmd, string &reD, bool bLog)
+{
+	string strCmdCopy = pcmd;
+	strCmdCopy += " 2>&1 ";
+	reD.clear();
+	FILE *pfile = NULL;
+	char buff[2048];
+	unsigned int pos = 0;
+
+	if (NULL == (pfile = popen(strCmdCopy.c_str(), "r")))
+	{
+		return -1;
+	}
+}
+
 void BaseFun::test()
 {
 //	vector<string> vecFiles;

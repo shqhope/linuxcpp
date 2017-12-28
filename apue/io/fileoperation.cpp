@@ -1,7 +1,7 @@
 #include "fileoperation.h"
 
 
-
+string FileOperation::sm_strTestFileName = "/root/sq/testfiles.txt";
 FileOperation::FileOperation()
 {
 
