@@ -53,6 +53,8 @@ public:
 	static int ExecCmdAndGetRe(const char *pcmd, string &reD, bool bLog);
 
 	static string GetCurrentTime();
+
+	static void GetDayList(int iBefore, vector<string> &ref);
 public:
 	static void test();
 };

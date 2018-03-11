@@ -38,3 +38,6 @@ makefiletmp
 ../zw/framework/dmpdata.h
 ../zw/framework/head.h
 ../zw/framework/zwquery.h
+../apue/char02/char02.cpp
+../apue/char02/char02.h
+../apue/heads.h

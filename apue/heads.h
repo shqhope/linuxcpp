@@ -5,6 +5,11 @@
 #include <unistd.h>
 #include <pthread.h>
 using namespace std;
+//char02
+#include <stdio.h>
+#include <mntent.h>
+#include <stdlib.h>
+#include <sys/vfs.h>
 
 #endif // HEADS_H
 

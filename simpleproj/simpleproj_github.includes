@@ -8,3 +8,5 @@ src
 ../socket/server
 ../zw/logger
 ../zw/framework
+../apue/char02
+../apue

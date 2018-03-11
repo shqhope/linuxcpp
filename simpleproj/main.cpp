@@ -5,6 +5,7 @@
 #include "../zw/basefun/basefun.h"
 #include "../apue/char01/char01.h"
 #include "../zw/logger/oriloger.h"
+#include "../apue/char02/char02.h"
 
 int main(int argc, const char **argv)
 {
@@ -33,21 +34,22 @@ int main(int argc, const char **argv)
 	return 0;
  */
 	//testRollQueue();
-	OriLoger::WriteLog("wo le ge ca %s", "bbb");
+//	OriLoger::WriteLog("wo le ge ca %s", "bbb");
 
 
-	cout<<"change some words"<<endl;
-	//LinkList::testSort0();
-	const char *pWords = "hello xiaoming \nnihaoma \nhow do you do\n";
-	char *buffWords = new char[1024];
-	memcpy(buffWords, pWords, strlen(pWords));
-	char *pline = NULL;
-	while ((pline = BaseFun::SplitLineForBlock(buffWords, '\n')) != NULL)
-	{
-		cout<<pline<<endl;
-	}
-	Test();
-	char01::test();
+//	cout<<"change some words"<<endl;
+//	//LinkList::testSort0();
+//	const char *pWords = "hello xiaoming \nnihaoma \nhow do you do\n";
+//	char *buffWords = new char[1024];
+//	memcpy(buffWords, pWords, strlen(pWords));
+//	char *pline = NULL;
+//	while ((pline = BaseFun::SplitLineForBlock(buffWords, '\n')) != NULL)
+//	{
+//		cout<<pline<<endl;
+//	}
+//	Test();
+//	char01::test();
+	char02::test();
 
 
 	return 0;
