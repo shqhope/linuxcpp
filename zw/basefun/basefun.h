@@ -46,8 +46,10 @@ public:
 	 * @param sep
 	 * @return 
 	 */
-	static char *SplitLineForBlock(char *&pcontent, char sep);
-	static int SplitLine(char *pline, char sep, const char **cols, int maxsize);
+	static char *SplitLineForBlock(char *&pcontent, const char sep);
+	static char *SplitLineForBlock(char *&pcontent, const char *psep);
+	static int SplitLine(char *pline, const char sep, const char **cols, int maxsize);
+	static int SplitLine(char *pline, const char *psep, const char **cols, int maxsize);
 	static unsigned int GetFileLength(const char *pfilename);
 	static bool GetFileContent(const char *pfile, char *pbuff, unsigned int &len);
 	static int ExecCmdAndGetRe(const char *pcmd, string &reD, bool bLog);

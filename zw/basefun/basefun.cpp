@@ -36,8 +36,8 @@ unsigned int BaseFun::GetFileArray(const char *path, vector<string> &filearr,
 					if ((strcmp(".", pdirent->d_name) != 0) &&
 							(strcmp("..", pdirent->d_name) != 0))
 					{
-					    filearr.push_back(buffFullPath);
-                        uFileCount++;
+						filearr.push_back(buffFullPath);
+						uFileCount++;
 						uFileCount += GetFileArray(buffFullPath, filearr, extname, subdir);
 					}
 				}
@@ -119,12 +119,12 @@ unsigned int BaseFun::SearchFile(const char *path, vector<string> &filearr, PFUN
 	}
 }
 
-char *BaseFun::SplitLineForBlock(char *&pcontent, char sep)
+char *BaseFun::SplitLineForBlock(char *&pcontent, const char sep)
 {
 	if (pcontent == NULL)
 		return NULL;
-	if (pcontent[0] == '\0')
-		return NULL;
+//	if (pcontent[0] == '\0')
+//		return NULL;
 	char *pret = pcontent;
 	pcontent = strchr(pcontent, sep);
 	if (pcontent != NULL)
@@ -132,16 +132,37 @@ char *BaseFun::SplitLineForBlock(char *&pcontent, char sep)
 	return pret;
 }
 
-int BaseFun::SplitLine(char *pline, char sep, const char **cols, int maxsize)
+char *BaseFun::SplitLineForBlock(char *&pcontent, const char *psep)
 {
-	const char *p = pline;
+
+}
+
+int BaseFun::SplitLine(char *pline, const char sep, const char **cols, int maxsize)
+{
+	char *p = pline;
 	int i = 0;
-//	while (p != NULL)
-//	{
-//		cols[i] = p;
-//		p = strchr(p, sep);
-//		*p++ = '\0';
-//	}
+	while (p != NULL)
+	{
+		if (i+1 > maxsize)
+			break;
+		cols[i++] = p;
+		p = strchr(p, sep);
+		if (p != NULL)
+			*p++ = '\0';
+	}
+	return i;
+}
+
+int BaseFun::SplitLine(char *pline, const char *psep, const char **cols, int maxsize)
+{
+	char *p = pline;
+	int icols = 0;
+	int iLenSep = strlen(psep);
+	while (p != NULL)
+	{
+		cols[icols++] = p;
+		p = strstr(p, psep);
+	}
 }
 
 unsigned int BaseFun::GetFileLength(const char *pfilename)
