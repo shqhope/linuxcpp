@@ -91,6 +91,11 @@ void *RollQueue::ThreadPop(void *p)
 	return p;
 }
 
+/**
+ * @brief RollQueue::test
+ * 开启一个队列，一个入队列线程
+ * 10个出队列线程
+ */
 void RollQueue::test()
 {
 	cout<<"start testrollqueue"<<endl;
@@ -106,28 +111,28 @@ void RollQueue::test()
 		exit(0);
 	}
 
-  queuepara arrqpara[10];
-  for (int i = 0; i < 10; ++i)
-  {
-	  arrqpara[i].iqnum = i;
-	  arrqpara[i].prollq = pqueue;
-	  pthread_t thread1;
-	  pthread_create(&thread1, NULL, ThreadPop, arrqpara+i);
-	  if (iRet != 0)
-	  {
-		  cout<<"error while create pop thread"<<endl;
-		  exit(0);
-	  }
-  }
-  time_t tm_print;
-  for (;;)
-    {
-      if (time(0) - tm_print > 10)
+	queuepara arrqpara[10];
+	for (int i = 0; i < 10; ++i)
 	{
-	  printf("print tm:%ld qsize:%d\n", time(0), 0);
-	  tm_print=time(0);
+		arrqpara[i].iqnum = i;
+		arrqpara[i].prollq = pqueue;
+		pthread_t thread1;
+		pthread_create(&thread1, NULL, ThreadPop, arrqpara+i);
+		if (iRet != 0)
+		{
+			cout<<"error while create pop thread"<<endl;
+			exit(0);
+		}
 	}
-	  sleep(2);
-    }
+	time_t tm_print;
+	for (;;)
+	{
+		if (time(0) - tm_print > 10)
+		{
+			printf("print tm:%ld qsize:%d\n", time(0), 0);
+			tm_print=time(0);
+		}
+		sleep(2);
+	}
 
 }

@@ -29,13 +29,14 @@ class RollQueue
 	int iSize; //size of this queue
 	int iCount;
 	int iEnd;
+	static void *ThreadPush(void *p);
+	static void *ThreadPop(void *p);
+
 public:
 	RollQueue();
 	~RollQueue();
 	bool QPush(void *pElem);
 	void *QPop();
-	static void *ThreadPush(void *p);
-	static void *ThreadPop(void *p);
 	static void test();
 };
 
