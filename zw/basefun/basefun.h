@@ -5,12 +5,14 @@
 #include <sys/dir.h>
 #include <sys/types.h>
 #include <sys/stat.h>
+#include <sys/wait.h>
 #include <vector>
 #include <string>
 #include <string.h>
 #include <stdlib.h>
 #include <stdio.h>
 #include <iostream>
+#include <signal.h>
 using namespace std;
 
 class BaseFun
@@ -58,7 +60,14 @@ public:
 
 	static void GetDayList(int iBefore, vector<string> &ref);
 public:
+	static void testThread();
 	static void test();
+
+
+
+//	typedef void (*sighandler_t)(int);
+//	sighandler_t signal(int signum, sighandler_t handler);
+
 };
 
 #endif // BASEFUN_H

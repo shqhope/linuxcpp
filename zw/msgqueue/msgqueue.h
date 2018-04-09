@@ -6,12 +6,15 @@
 #include <sys/msg.h>
 #include <unistd.h>
 #include <string>
+#include <iostream>
+#include <stdlib.h>
+#include <string.h>
 ///消息队列类型
 #define MQ_TYPE         77
 ///消息队列缓冲区大小
 #define MQ_DATA_SIZE    2048
 
-using std::string;
+using namespace std;
 
 ///一个消息的大小
 typedef struct _msgbuff

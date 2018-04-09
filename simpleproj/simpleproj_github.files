@@ -1,3 +1,9 @@
+../zw/basefun/basefun.cpp
+../zw/basefun/basefun.h
+makefile
+makefile0
+makefile1
+makefiletmp
 src/functions.cpp
 src/functions.h
 src/lineoutputfile.cpp

@@ -211,6 +211,56 @@ string BaseFun::GetCurrentTime()
 	return buffTime;
 }
 
+void BaseFun::testThread()
+{
+	int iRet = vfork();
+	int istatus = 0;
+	if (iRet == -1)
+	{
+		cout<<"error while create son process exit"<<endl;
+		exit(0);
+	}
+	else if (iRet == 0)
+	{
+		cout<<"this is son process id:"<<getpid()<<" father processid:"<<getppid()<<endl;
+		cout<<"create 4 grand son process"<<endl;
+		for (int i = 0; i < 4; ++i)
+		{
+			int iRet2 = fork();
+			if (iRet2 == 0)
+			{
+				cout<<"grand son process id:"<<getpid()<<" created"<<endl;
+				for (;;)
+				{
+					cout<<"grand son sleep"<<endl;
+					sleep(5);
+				}
+				exit(0);
+			}
+		}
+	}
+	else if (iRet > 0)
+	{
+		if (waitpid(iRet, &istatus, 0) == iRet)
+		{
+			cout<<"waitpid success processid:"<<iRet<<" son process exited"<<endl;
+		}
+		cout<<"this is father thread process id:"<<getpid()<<" son porcessid:"<<iRet<<endl;
+	}
+	for (;;)
+	{
+		if (iRet == 0)
+		{
+			if (access("/stopson.flg", 0) == 0)
+			{
+				cout<<"check stop son flg"<<endl;
+				exit(0);
+			}
+		}
+		sleep(5);
+	}
+}
+
 void BaseFun::test()
 {
 //	vector<string> vecFiles;
