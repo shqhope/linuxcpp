@@ -11,6 +11,48 @@
 using namespace std;
 
 
+class Scaner
+{
+private:
+	int m_cfd;
+	int m_sfd;
+public:
+	Scaner(int icfd, int isfd):m_cfd(icfd),m_sfd(isfd){}
+	void run()
+	{
+		pthread_t thread0;
+		int iRet = pthread_create(&thread0, NULL, Handler, this);
+		if (iRet != 0)
+		{
+			cout<<"create scaner thread failed"<<endl;
+		}
+		else
+		{
+			cout<<"create thread success, client fd:"<< m_cfd <<endl;
+		}
+	}
+
+	static void *Handler(void *p)
+	{
+		Scaner *para = (Scaner *)p;
+		char buf[BUFSIZ] = {0};
+		int len = 0;
+		for(;;)
+		{
+			len = recv(para->m_cfd ,buf,sizeof(buf),0);
+			if(len <= 0)
+			{
+				break;
+			}
+			cout <<"\n读到数据了\n" <<endl;
+			cout << buf <<endl;
+			send(para->m_cfd,buf,strlen(buf),0);
+			memset(buf,0,sizeof(buf));
+		}
+		return p;
+	}
+};
+
 class Server
 {
 private:
@@ -60,6 +102,24 @@ public:
 		}
 	}
 
+	void ScanAccept()
+	{
+		for (;;)
+		{
+			int icfd = accept(sfd,(struct sockaddr*)&client_addr,&c_len);
+
+			Scaner *tmpScaner = new Scaner(icfd, sfd);
+			tmpScaner->run();
+		}
+	}
+
+/**
+tcp        0      0 0.0.0.0:8888            0.0.0.0:*               LISTEN      8800/sqserver0
+tcp        0      0 127.0.0.1:8888          127.0.0.1:40648         ESTABLISHED 8800/sqserver0
+tcp        0      0 127.0.0.1:8888          127.0.0.1:40644         CLOSE_WAIT  8800/sqserver0
+tcp        0      0 127.0.0.1:8888          127.0.0.1:40646         CLOSE_WAIT  8800/sqserver0
+tcp        0      0 127.0.0.1:40648         127.0.0.1:8888          ESTABLISHED 8835/sqclient0
+*/
 
 	~Server()
 	{
@@ -70,7 +130,6 @@ public:
 			shutdown(cfd,SHUT_RDWR);
 	}
 
-
 };
 
 
@@ -80,7 +139,8 @@ void test()
 	try
 	{
 		s = new Server;
-		s->run();
+		//s->run();
+		s->ScanAccept();
 	}
 	catch(char const*str)
 	{
