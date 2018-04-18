@@ -80,7 +80,7 @@ void test()
 	try
 	{
 		s = new Server;
-	  s->run();
+		s->run();
 	}
 	catch(char const*str)
 	{
