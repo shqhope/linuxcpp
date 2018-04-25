@@ -1,5 +1,7 @@
 ../zw/basefun/basefun.cpp
 ../zw/basefun/basefun.h
+../zw/basefun/crc16.cpp
+../zw/basefun/crc16.h
 ../zw/basefun/md5.cpp
 ../zw/basefun/md5.h
 makefile
