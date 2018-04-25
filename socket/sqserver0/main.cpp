@@ -5,8 +5,12 @@
 #include <arpa/inet.h>
 #include <cstring>
 #include <unistd.h>
+#include <sys/stat.h>
+#include <fcntl.h>
 #include <cstdio>
 
+#define FLG_START "#$$START"
+#define FLG_END	"#$#END"
 
 using namespace std;
 
@@ -68,39 +72,54 @@ public:
 	{
 		Scaner *para = (Scaner *)p;
 		char buf[BUFSIZ] = {0};
+		char buffline[2048];
 		int len = 0;
-		const char *pfilename = NULL;
+		char buffDestname[1024];
+		const char *pEndname = NULL;
+		int ifile = -1;
+		int isize = 0;
 		for(;;)
 		{
 			len = recv(para->m_cfd ,buf,sizeof(buf),0);
+			buf[len] = '\0';
 
-			if (strncasecmp(buf, "#$#", 3) == 0)
+			if (strncasecmp(buf, FLG_END, strlen(FLG_END)) == 0)
 			{
 				cout<<"recv end flags"<<endl;
-				close(para->m_cfd);
-				break;
+			//	close(para->m_cfd);
 			}
 
-			if (strncasecmp(buf, "#$$", 3) == 0)
+			if (strncasecmp(buf, FLG_START, strlen(FLG_START)) == 0)
 			{
 				cout<<"recv start flags"<<endl;
 				cout<<"start to receive data"<<endl;
-				pfilename = ""
+				pEndname = strrchr(buf, '/') + 1;
+				sprintf(buffDestname, "/home/sdzw/eclipse.bak");
+				ifile = open(buffDestname, O_RDWR|O_CREAT);
+				if (ifile < 0)
+				{
+					cout<<"open file error:"<<buffDestname<<endl;
+					return NULL;
+				}
+				else
+				{
+					while ((len = recv(para->m_cfd ,buffline,2000,0)) > 0)
+					{
+						if (strncasecmp(buffline,  FLG_END, strlen(FLG_END)) == 0)
+						{
+							cout<<"recv end flags2"<<endl;
+						//	close(para->m_cfd);
+							break;
+						}
+						write(ifile, buffline, len);
+						isize += len;
+						memset(buffline,0,sizeof(buffline));
+					}
+					close(ifile);
+					cout<<"len:"<<isize<<endl;
+				}
 			}
 
-			if(len <= 0)
-			{
-				cout<<"recv len less than 0"<<endl;
-				close(para->m_cfd);
-			//	shutdown(para->m_cfd, SHUT_RDWR);
-				break;
-			}
-
-			int iFile = open()
-
-			cout <<"\n读到数据了\n" <<endl;
-
-			memset(buf,0,sizeof(buf));
 		}
 		return p;
 	}

@@ -9,6 +9,8 @@
 #include <signal.h>
 #include <unistd.h>
 
+#define FLG_START "#$$START"
+#define FLG_END	"#$#END"
 
 
 using namespace std;
@@ -86,12 +88,13 @@ class Client
 			char buf[1024] = {0};
 			char buffstart[1024] = {0};
 			signal(SIGPIPE,SIG_IGN);
+			int isize = 0;
 			while(1)
 			{
 				cout << "entry your file name:" << endl;
 				scanf("%s",buf);
-				sprintf(buffstart, "%s%s", )
-				if (send(sfd, "#$$", 3, 0) != 3)
+				sprintf(buffstart, "%s%s", FLG_START, buf);
+				if (send(sfd, buffstart, strlen(buffstart), 0) != strlen(buffstart))
 				{
 					cout<<"error while sending startflg"<<endl;
 					break;
@@ -114,6 +117,7 @@ class Client
 						{
 							cout<<"error while sending file"<<endl;
 						}
+						isize+=iRead;
 						bzero(buffFile, 2048);
 					}
 
@@ -123,11 +127,13 @@ class Client
 						{
 							cout<<"error while sending file"<<endl;
 						}
+						isize+=iRead;
 					}
 					close(ifile);
+					cout<<"filesize:"<<isize<<endl;
 				}
 
-				if (send(sfd, "#$#", 3, 0) != 3)
+				if (send(sfd,  FLG_END, strlen(FLG_END), 0) != strlen(FLG_END))
 				{
 					cout<<"error while sending endflg"<<endl;
 					break;
@@ -153,7 +159,8 @@ int main(int argc, char *argv[])
 	try
 	{
 		Client *c = new Client;
-		c->sendpost();
+		//c->sendpost();
+		c->sendpost2();
 		delete c;
 
 
