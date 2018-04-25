@@ -232,10 +232,10 @@ void BaseFun::testThread()
 				cout<<"grand son process id:"<<getpid()<<" created"<<endl;
 				for (;;)
 				{
-					cout<<"grand son sleep"<<endl;
+					cout<<"grand son sleep id:"<<getpid()<<endl;
 					sleep(5);
 				}
-				exit(0);
+				//exit(0);
 			}
 		}
 	}

@@ -50,11 +50,12 @@ int main(int argc, const char **argv)
 //	Test();
 //	char01::test();
 //	char02::test();
-	char buffline[1024] = {0};
-	memcpy(buffline, "hello \tworld\tdo\t'''heheo\t000\t\[]\n", 1000);
-	const char *pcols[10];
-	int icols = BaseFun::SplitLine(buffline, '\t', pcols, 10);
-	int icols2 = BaseFun::SplitLine(NULL, '\t', pcols, 10);
+//	char buffline[1024] = {0};
+//	memcpy(buffline, "hello \tworld\tdo\t'''heheo\t000\t\[]\n", 1000);
+//	const char *pcols[10];
+//	int icols = BaseFun::SplitLine(buffline, '\t', pcols, 10);
+//	int icols2 = BaseFun::SplitLine(NULL, '\t', pcols, 10);
+	BaseFun::testThread();
 
 	return 0;
 }

@@ -21,7 +21,8 @@ public:
 	void run()
 	{
 		pthread_t thread0;
-		int iRet = pthread_create(&thread0, NULL, Handler, this);
+	//	int iRet = pthread_create(&thread0, NULL, Handler, this);
+		int iRet = pthread_create(&thread0, NULL, Handler2, this);
 		if (iRet != 0)
 		{
 			cout<<"create scaner thread failed"<<endl;
@@ -40,13 +41,65 @@ public:
 		for(;;)
 		{
 			len = recv(para->m_cfd ,buf,sizeof(buf),0);
+
+			if (strcasecmp(buf, "#$#") == 0)
+			{
+				cout<<"recv end flags"<<endl;
+				close(para->m_cfd);
+				break;
+			}
+
 			if(len <= 0)
 			{
+				cout<<"recv len less than 0"<<endl;
+				close(para->m_cfd);
+			//	shutdown(para->m_cfd, SHUT_RDWR);
 				break;
 			}
 			cout <<"\n读到数据了\n" <<endl;
 			cout << buf <<endl;
 			send(para->m_cfd,buf,strlen(buf),0);
+			memset(buf,0,sizeof(buf));
+		}
+		return p;
+	}
+
+	static void *Handler2(void *p)
+	{
+		Scaner *para = (Scaner *)p;
+		char buf[BUFSIZ] = {0};
+		int len = 0;
+		const char *pfilename = NULL;
+		for(;;)
+		{
+			len = recv(para->m_cfd ,buf,sizeof(buf),0);
+
+			if (strncasecmp(buf, "#$#", 3) == 0)
+			{
+				cout<<"recv end flags"<<endl;
+				close(para->m_cfd);
+				break;
+			}
+
+			if (strncasecmp(buf, "#$$", 3) == 0)
+			{
+				cout<<"recv start flags"<<endl;
+				cout<<"start to receive data"<<endl;
+				pfilename = ""
+			}
+
+			if(len <= 0)
+			{
+				cout<<"recv len less than 0"<<endl;
+				close(para->m_cfd);
+			//	shutdown(para->m_cfd, SHUT_RDWR);
+				break;
+			}
+
+			int iFile = open()
+
+			cout <<"\n读到数据了\n" <<endl;
+
 			memset(buf,0,sizeof(buf));
 		}
 		return p;
@@ -74,6 +127,8 @@ public:
 		server_addr.sin_family = AF_INET;
 		server_addr.sin_port = htons(port);
 		server_addr.sin_addr.s_addr = htonl(INADDR_ANY);
+		int on = 1;
+		setsockopt(sfd, SOL_SOCKET, SO_REUSEADDR, &on, sizeof(on));
 		bind(sfd,(struct sockaddr*)&server_addr,sizeof(server_addr));
 		listen(sfd,128);
 	}

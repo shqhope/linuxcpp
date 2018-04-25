@@ -7,7 +7,7 @@
 #include <cstring>
 #include <cstdio>
 #include <signal.h>
-
+#include <unistd.h>
 
 
 
@@ -59,17 +59,82 @@ class Client
 				{
 					break;
 				}
+
+//				if (strcasecmp(buf, "#$#") == 0)
+//				{
+//					cout<<"end flg"<<endl;
+//					break;
+//				}
+
 				memset(buf,0,sizeof(buf));
 				//接收数据
 				while(recv(sfd,buf,sizeof(buf),0) == 0)
 				{
+					cout<<"recv empty"<<endl;
 					break;
 				}
 				cout << buf << endl;
+
+
 				memset(buf,0,sizeof(buf));
 			}
 		}
 
+		//发送数据
+		void sendpost2()
+		{
+			char buf[1024] = {0};
+			char buffstart[1024] = {0};
+			signal(SIGPIPE,SIG_IGN);
+			while(1)
+			{
+				cout << "entry your file name:" << endl;
+				scanf("%s",buf);
+				sprintf(buffstart, "%s%s", )
+				if (send(sfd, "#$$", 3, 0) != 3)
+				{
+					cout<<"error while sending startflg"<<endl;
+					break;
+				}
+
+				if (access(buf, 0) != 0)
+				{
+					cout<<"file not exists"<<endl;
+					continue;
+				}
+
+				int ifile = open(buf, O_RDONLY);
+				if (ifile > 0)
+				{
+					char buffFile[2048] = {0};
+					int iRead = 0;
+					while ((iRead = read(ifile, buffFile, 2048)) == 2048)
+					{
+						if (send(sfd, buffFile, iRead, 0) != iRead)
+						{
+							cout<<"error while sending file"<<endl;
+						}
+						bzero(buffFile, 2048);
+					}
+
+					if (iRead > 0)
+					{
+						if (send(sfd, buffFile, iRead, 0) != iRead)
+						{
+							cout<<"error while sending file"<<endl;
+						}
+					}
+					close(ifile);
+				}
+
+				if (send(sfd, "#$#", 3, 0) != 3)
+				{
+					cout<<"error while sending endflg"<<endl;
+					break;
+				}
+
+			}
+		}
 
 		~Client()
 		{
