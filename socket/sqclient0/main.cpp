@@ -8,6 +8,8 @@
 #include <cstdio>
 #include <signal.h>
 #include <unistd.h>
+#include <netinet/in.h>
+#include <netinet/tcp.h>
 
 #define FLG_START "#$$START"
 #define FLG_END	"#$#END"
@@ -29,6 +31,19 @@ class Client
 		Client(int port=8888):port(port)
 		{
 			sfd = socket(AF_INET,SOCK_STREAM,0);
+
+			unsigned int chOpt=1;
+			int nErr=setsockopt(sfd, SOL_SOCKET, SO_KEEPALIVE, &chOpt, sizeof(unsigned int));//使用KEEPALIVE;
+			if(nErr==-1)
+			{
+				cout<<"set tcpnodealy failed0:"<<errno<<" str:"<<strerror(errno)<<endl;
+			}
+			nErr=setsockopt(sfd, IPPROTO_TCP, TCP_NODELAY, &chOpt, sizeof(unsigned int));//禁用NAGLE算法
+			if(nErr==-1)
+			{
+				cout<<"set tcpnodealy failed1:"<<errno<<" str:"<<strerror(errno)<<endl;
+			}
+
 			int ret = 0;
 			if(-1 == sfd)
 			{
@@ -44,6 +59,7 @@ class Client
 			{
 				throw "连接失败";
 			}
+
 		}
 
 
@@ -88,9 +104,9 @@ class Client
 			char buf[1024] = {0};
 			char buffstart[1024] = {0};
 			signal(SIGPIPE,SIG_IGN);
-			int isize = 0;
 			while(1)
-			{
+			{/// /home/sdzw/testsocket/eclipse.tar.gz /home/sdzw/testsocket/aaa.txt
+				int isize = 0;
 				cout << "entry your file name:" << endl;
 				scanf("%s",buf);
 				sprintf(buffstart, "%s%s", FLG_START, buf);
@@ -129,14 +145,25 @@ class Client
 						}
 						isize+=iRead;
 					}
+
 					close(ifile);
 					cout<<"filesize:"<<isize<<endl;
-				}
+					sleep(1);
 
-				if (send(sfd,  FLG_END, strlen(FLG_END), 0) != strlen(FLG_END))
+					if (send(sfd,  FLG_END, strlen(FLG_END), 0) != strlen(FLG_END))
+					{
+						cout<<"error while sending endflg"<<endl;
+						break;
+					}
+					else
+					{
+						cout<<"send endflg:"<<FLG_END<<endl;
+					}
+
+				}
+				else
 				{
-					cout<<"error while sending endflg"<<endl;
-					break;
+					cout<<strerror(errno)<<endl;
 				}
 
 			}

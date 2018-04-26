@@ -8,12 +8,29 @@
 #include <sys/stat.h>
 #include <fcntl.h>
 #include <cstdio>
+#include <netinet/in.h>
+#include <netinet/tcp.h>
 
 #define FLG_START "#$$START"
 #define FLG_END	"#$#END"
+#define SAVEPATH "/home/sdzw/testsocket"
 
 using namespace std;
 
+
+typedef struct recallfun
+{
+	const char *ptype;
+	void *(*pfun)(void *);
+}RECall;
+
+RECall g_recall[] =
+{
+	"str", NULL,
+	"file", NULL
+};
+
+int g_irecalllen = sizeof(g_recall)/sizeof(RECall);
 
 class Scaner
 {
@@ -26,7 +43,7 @@ public:
 	{
 		pthread_t thread0;
 	//	int iRet = pthread_create(&thread0, NULL, Handler, this);
-		int iRet = pthread_create(&thread0, NULL, Handler2, this);
+		int iRet = pthread_create(&thread0, NULL, HandlerFileTransport, this);
 		if (iRet != 0)
 		{
 			cout<<"create scaner thread failed"<<endl;
@@ -35,6 +52,28 @@ public:
 		{
 			cout<<"create thread success, client fd:"<< m_cfd <<endl;
 		}
+	}
+
+	static void *HandlerCommon(void *p)
+	{
+		Scaner *para = (Scaner *)p;
+		char buff[BUFSIZ] = {0};
+		int len = 0;
+		for (;;)
+		{
+			len = recv(para->m_cfd, buff, sizeof(buff), 0);
+			if (len > 0)
+			{
+				for (int i = 0; i < g_irecalllen; ++i)
+				{
+					if (strcasecmp(buff, g_recall[i].ptype) == 0)
+					{
+						(g_recall[i].pfun)(para);
+					}
+				}
+			}
+		}
+		return p;
 	}
 
 	static void *Handler(void *p)
@@ -68,33 +107,32 @@ public:
 		return p;
 	}
 
-	static void *Handler2(void *p)
+	static void *HandlerFileTransport(void *p)
 	{
 		Scaner *para = (Scaner *)p;
 		char buf[BUFSIZ] = {0};
 		char buffline[2048];
 		int len = 0;
 		char buffDestname[1024];
-		const char *pEndname = NULL;
 		int ifile = -1;
+		int iseq = 0;
 		int isize = 0;
 		for(;;)
 		{
 			len = recv(para->m_cfd ,buf,sizeof(buf),0);
-			buf[len] = '\0';
 
-			if (strncasecmp(buf, FLG_END, strlen(FLG_END)) == 0)
+			if (len <= 0)
 			{
-				cout<<"recv end flags"<<endl;
-			//	close(para->m_cfd);
+				cout<<"close client"<<endl;
+				close(para->m_cfd);
+				return NULL;
 			}
 
 			if (strncasecmp(buf, FLG_START, strlen(FLG_START)) == 0)
 			{
 				cout<<"recv start flags"<<endl;
 				cout<<"start to receive data"<<endl;
-				pEndname = strrchr(buf, '/') + 1;
-				sprintf(buffDestname, "/home/sdzw/eclipse.bak");
+				sprintf(buffDestname, "%s/recv_%010d_%03d.bak", SAVEPATH, time(0), iseq++);
 				ifile = open(buffDestname, O_RDWR|O_CREAT);
 				if (ifile < 0)
 				{
@@ -105,18 +143,18 @@ public:
 				{
 					while ((len = recv(para->m_cfd ,buffline,2000,0)) > 0)
 					{
-						if (strncasecmp(buffline,  FLG_END, strlen(FLG_END)) == 0)
+						if (memcmp(buffline,  FLG_END, sizeof(FLG_END)) == 0)
 						{
 							cout<<"recv end flags2"<<endl;
-						//	close(para->m_cfd);
+							close(ifile);
+							cout<<"recv file:"<<buf<<" file len:"<<isize<<endl;
 							break;
 						}
 						write(ifile, buffline, len);
+						cout<<"buffline:==="<<buffline<<"==="<<endl;
 						isize += len;
 						memset(buffline,0,sizeof(buffline));
 					}
-					close(ifile);
-					cout<<"len:"<<isize<<endl;
 				}
 			}
 
@@ -148,6 +186,7 @@ public:
 		server_addr.sin_addr.s_addr = htonl(INADDR_ANY);
 		int on = 1;
 		setsockopt(sfd, SOL_SOCKET, SO_REUSEADDR, &on, sizeof(on));
+
 		bind(sfd,(struct sockaddr*)&server_addr,sizeof(server_addr));
 		listen(sfd,128);
 	}
@@ -182,6 +221,17 @@ public:
 		{
 			int icfd = accept(sfd,(struct sockaddr*)&client_addr,&c_len);
 
+			unsigned int chOpt=1;
+			int nErr=setsockopt(icfd, SOL_SOCKET, SO_KEEPALIVE, &chOpt, sizeof(unsigned int));//使用KEEPALIVE;
+			if(nErr==-1)
+			{
+				cout<<"set tcpnodealy failed0:"<<errno<<" str:"<<strerror(errno)<<endl;
+			}
+			nErr=setsockopt(icfd, IPPROTO_TCP, TCP_NODELAY, &chOpt, sizeof(unsigned int));//禁用NAGLE算法
+			if(nErr==-1)
+			{
+				cout<<"set tcpnodealy failed1:"<<errno<<" str:"<<strerror(errno)<<endl;
+			}
 			Scaner *tmpScaner = new Scaner(icfd, sfd);
 			tmpScaner->run();
 		}
@@ -206,8 +256,7 @@ tcp        0      0 127.0.0.1:40648         127.0.0.1:8888          ESTABLISHED 
 
 };
 
-
-void test()
+int main(int argc, char *argv[])
 {
 	Server *s = NULL;
 	try
@@ -225,11 +274,5 @@ void test()
 		cout<<"万能捕获"<<endl;
 	}
 	delete s;
-}
-
-
-int main(int argc, char *argv[])
-{
-	test();
 	return 0;
 }
