@@ -27,7 +27,7 @@ $(DBGOBJS):%.dbg.o:%.cpp
 	g++ -o $@ -g -c $<
 
 $(APPNAME)d:
-	g++ -o $(APPNAME)d -g $(DBGOBJS) -lpthread
+	g++ -o $(APPNAME)d -g $(DBGOBJS)
 
 clean:
 	rm -rf *.dbg.o *.o $(APPNAME) $(APPNAME)d $(DBGOBJS)

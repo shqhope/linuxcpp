@@ -7,12 +7,13 @@ class Queen
 {
 	char **ppQueen;
 	int m_size;
+	bool goodPoint(const int &row, const int &col);
+
 public:
 	Queen();
 	void Init(int size);
 	void printQ();
 	void GetFrame(int row);
-	bool goodPoint(const int &row, const int &col);
 };
 
 #endif // QUEEN_H

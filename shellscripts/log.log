@@ -1,0 +1,1868 @@
+root      2696  0.0  0.9 132944 19624 ?        Sl   Mar12   0:01 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     16687  2.2  1.2 127108 26144 pts/0    Sl+  10:54   0:01 /root/ZHY630YUYANG/App YiNuoAppStore
+root     16711  9.7  1.6 393920 33084 pts/0    Sl+  10:54   0:05 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     16778  1.4  1.4 153432 30284 pts/0    Sl+  10:54   0:00 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     16786  6.1  1.6 208380 34144 pts/0    Sl+  10:54   0:02 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+root     16994  0.0  0.0   5844   840 pts/1    S    10:55   0:00 grep ZHY630YUYANG
+20190313105525
+root      2696  0.0  0.9 132944 19624 ?        Sl   Mar12   0:01 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     16687  2.3  1.2 127212 26248 pts/0    Sl+  10:54   0:01 /root/ZHY630YUYANG/App YiNuoAppStore
+root     16711  9.7  1.6 393920 33344 pts/0    Sl+  10:54   0:05 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     16778  1.4  1.4 153432 30284 pts/0    Sl+  10:54   0:00 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     16786  5.9  1.6 208380 34144 pts/0    Sl+  10:54   0:03 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+root     17017  0.0  0.0   5844   840 pts/1    S    10:55   0:00 grep ZHY630YUYANG
+20190313105530
+root      2696  0.0  0.9 132944 19624 ?        Sl   Mar12   0:01 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     16687  2.4  1.2 127316 26352 pts/0    Sl+  10:54   0:01 /root/ZHY630YUYANG/App YiNuoAppStore
+root     16711  9.8  1.6 393920 33344 pts/0    Sl+  10:54   0:06 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     16778  1.3  1.4 153432 30284 pts/0    Sl+  10:54   0:00 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     16786  5.7  1.6 208380 34144 pts/0    Sl+  10:54   0:03 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+root     17039  0.0  0.0   5844   836 pts/1    S    10:55   0:00 grep ZHY630YUYANG
+20190313105535
+root      2696  0.0  0.9 132944 19624 ?        Sl   Mar12   0:01 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     16687  2.4  1.2 127316 26448 pts/0    Sl+  10:54   0:01 /root/ZHY630YUYANG/App YiNuoAppStore
+root     16711  9.7  1.6 393920 33344 pts/0    Sl+  10:54   0:06 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     16778  1.3  1.4 153432 30284 pts/0    Sl+  10:54   0:00 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     16786  5.5  1.6 208244 34032 pts/0    Sl+  10:54   0:03 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+root     17062  0.0  0.0   5844   836 pts/1    S    10:55   0:00 grep ZHY630YUYANG
+20190313105540
+root      2696  0.0  0.9 132944 19624 ?        Sl   Mar12   0:01 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     16687  2.3  1.2 127448 26508 pts/0    Sl+  10:54   0:01 /root/ZHY630YUYANG/App YiNuoAppStore
+root     16711  9.7  1.6 394716 34744 pts/0    Sl+  10:54   0:06 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     16778  1.2  1.4 153432 30284 pts/0    Sl+  10:54   0:00 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     16786  5.3  1.6 208244 34032 pts/0    Sl+  10:54   0:03 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+root     17084  0.0  0.0   5844   840 pts/1    S    10:55   0:00 grep ZHY630YUYANG
+20190313105545
+root      2696  0.0  0.9 132944 19624 ?        Sl   Mar12   0:01 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     16687  2.3  1.2 127572 26608 pts/0    Sl+  10:54   0:01 /root/ZHY630YUYANG/App YiNuoAppStore
+root     16711  9.6  1.6 394716 34804 pts/0    Sl+  10:54   0:07 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     16778  1.2  1.4 153276 30172 pts/0    Sl+  10:54   0:00 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     16786  5.1  1.6 208244 34032 pts/0    Sl+  10:54   0:03 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+root     17108  0.0  0.0   5844   840 pts/1    S    10:55   0:00 grep ZHY630YUYANG
+20190313105550
+root      2696  0.0  0.9 132944 19624 ?        Sl   Mar12   0:01 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     16687  2.3  1.2 127572 26676 pts/0    Sl+  10:54   0:02 /root/ZHY630YUYANG/App YiNuoAppStore
+root     16711  9.7  1.7 394716 35064 pts/0    Sl+  10:54   0:07 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     16778  1.2  1.4 153276 30172 pts/0    Sl+  10:54   0:00 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     16786  5.0  1.6 208244 34032 pts/0    Sl+  10:54   0:03 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+root     17130  0.0  0.0   5844   836 pts/1    S    10:55   0:00 grep ZHY630YUYANG
+20190313105555
+root      2696  0.0  0.9 132944 19624 ?        Sl   Mar12   0:01 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     16687  2.3  1.2 127704 26780 pts/0    Sl+  10:54   0:02 /root/ZHY630YUYANG/App YiNuoAppStore
+root     16711  9.9  1.9 399932 40816 pts/0    Sl+  10:54   0:08 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     16778  1.2  1.4 152800 29828 pts/0    Sl+  10:54   0:01 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     16786  5.0  1.6 208072 33880 pts/0    Sl+  10:54   0:04 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+root     17154  0.0  0.0   5844   840 pts/1    S    10:56   0:00 grep ZHY630YUYANG
+20190313105600
+root      2696  0.0  0.9 132944 19624 ?        Sl   Mar12   0:01 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     16687  2.3  1.3 127808 26848 pts/0    Sl+  10:54   0:02 /root/ZHY630YUYANG/App YiNuoAppStore
+root     16711 10.0  1.9 398920 40060 pts/0    Sl+  10:54   0:09 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     16778  1.2  1.4 152800 29828 pts/0    Sl+  10:54   0:01 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     16786  4.9  1.6 208072 33880 pts/0    Sl+  10:54   0:04 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+root     17176  0.0  0.0   5844   836 pts/1    S    10:56   0:00 grep ZHY630YUYANG
+20190313105605
+root      2696  0.0  0.9 132944 19624 ?        Sl   Mar12   0:01 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     16687  2.3  1.3 127908 26948 pts/0    Sl+  10:54   0:02 /root/ZHY630YUYANG/App YiNuoAppStore
+root     16711 10.1  1.9 398920 40060 pts/0    Sl+  10:54   0:09 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     16778  1.2  1.4 152800 29828 pts/0    Sl+  10:54   0:01 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     16786  4.8  1.6 208072 33880 pts/0    Sl+  10:54   0:04 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+root     17199  0.0  0.0   5844   840 pts/1    S    10:56   0:00 grep ZHY630YUYANG
+20190313105610
+root      2696  0.0  0.9 132944 19624 ?        Sl   Mar12   0:01 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     16687  2.2  1.3 127908 27016 pts/0    Sl+  10:54   0:02 /root/ZHY630YUYANG/App YiNuoAppStore
+root     16711 10.0  1.9 398992 40120 pts/0    Sl+  10:54   0:10 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     16778  1.1  1.4 152800 29828 pts/0    Sl+  10:54   0:01 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     16786  4.7  1.6 208072 33880 pts/0    Sl+  10:54   0:04 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+root     17221  0.0  0.0   5844   836 pts/1    S    10:56   0:00 grep ZHY630YUYANG
+20190313105615
+root      2696  0.0  0.9 132944 19624 ?        Sl   Mar12   0:01 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     16687  2.3  1.3 128040 27120 pts/0    Sl+  10:54   0:02 /root/ZHY630YUYANG/App YiNuoAppStore
+root     16711 10.0  1.9 398992 40120 pts/0    Sl+  10:54   0:10 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     16778  1.1  1.4 152800 29828 pts/0    Sl+  10:54   0:01 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     16786  4.7  1.6 208072 33880 pts/0    Sl+  10:54   0:04 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+root     17245  0.0  0.0   5844   836 pts/1    S    10:56   0:00 grep ZHY630YUYANG
+20190313105620
+root      2696  0.0  0.9 132944 19624 ?        Sl   Mar12   0:01 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     16687  2.2  1.3 128172 27216 pts/0    Sl+  10:54   0:02 /root/ZHY630YUYANG/App YiNuoAppStore
+root     16711 10.0  1.9 398992 40120 pts/0    Sl+  10:54   0:11 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     16778  1.1  1.4 152800 29828 pts/0    Sl+  10:54   0:01 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     16786  4.6  1.6 208072 33880 pts/0    Sl+  10:54   0:05 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+root     17267  0.0  0.0   5844   836 pts/1    S    10:56   0:00 grep ZHY630YUYANG
+20190313105625
+root      2696  0.0  0.9 132944 19624 ?        Sl   Mar12   0:01 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     16687  2.2  1.3 128172 27216 pts/0    Sl+  10:54   0:02 /root/ZHY630YUYANG/App YiNuoAppStore
+root     16711 10.0  1.9 398992 40120 pts/0    Sl+  10:54   0:11 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     16778  1.1  1.4 152800 29828 pts/0    Sl+  10:54   0:01 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     16786  4.6  1.6 208072 33880 pts/0    Sl+  10:54   0:05 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+root     17273  0.0  0.0   5844   840 pts/1    S    10:56   0:00 grep ZHY630YUYANG
+20190313105626
+root      2696  0.0  0.9 132944 19624 ?        Sl   Mar12   0:01 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     17296  0.0  0.0   5844   836 pts/1    S    10:56   0:00 grep ZHY630YUYANG
+20190313105630
+root      2696  0.0  0.9 132944 19624 ?        Sl   Mar12   0:01 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+20190313105631
+root      2696  0.0  0.9 132944 19624 ?        Sl   Mar12   0:01 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     17306  0.0  0.0   5844   840 pts/1    S    10:56   0:00 grep ZHY630YUYANG
+20190313105635
+root      2696  0.0  0.9 132944 19624 ?        Sl   Mar12   0:01 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     17311  0.0  0.0   5844   836 pts/1    S    10:56   0:00 grep ZHY630YUYANG
+20190313105636
+root      2696  0.0  0.9 132944 19624 ?        Sl   Mar12   0:01 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     17316  0.0  0.0   5844   836 pts/1    S    10:56   0:00 grep ZHY630YUYANG
+20190313105640
+root      2696  0.0  0.9 132944 19624 ?        Sl   Mar12   0:01 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     17320  0.0  0.0   5844   836 pts/1    R    10:56   0:00 grep ZHY630YUYANG
+20190313105641
+root      2696  0.0  0.9 132944 19624 ?        Sl   Mar12   0:01 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     17329  0.0  0.0   5844   836 pts/1    S    10:56   0:00 grep ZHY630YUYANG
+20190313105645
+root      2696  0.0  0.9 132944 19624 ?        Sl   Mar12   0:01 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     17333  0.0  0.0   5844   840 pts/1    S    10:56   0:00 grep ZHY630YUYANG
+20190313105646
+root      2696  0.0  0.9 132944 19624 ?        Sl   Mar12   0:01 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     17343  0.0  0.0   5844   836 pts/1    S    10:56   0:00 grep ZHY630YUYANG
+20190313105650
+root      2696  0.0  0.9 132944 19624 ?        Sl   Mar12   0:01 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     17347  0.0  0.0   5844   840 pts/1    S    10:56   0:00 grep ZHY630YUYANG
+20190313105651
+root      2696  0.0  0.9 132944 19624 ?        Sl   Mar12   0:01 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     17353  0.0  0.0   5844   840 pts/1    S    10:56   0:00 grep ZHY630YUYANG
+20190313105655
+root      2696  0.0  0.9 132944 19624 ?        Sl   Mar12   0:01 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     17357  0.0  0.0   5844   836 pts/1    S    10:56   0:00 grep ZHY630YUYANG
+20190313105656
+root      2696  0.0  0.9 132944 19624 ?        Sl   Mar12   0:01 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     17361  0.0  0.0   5844   836 pts/1    S    10:57   0:00 grep ZHY630YUYANG
+20190313105700
+root      2696  0.0  0.9 132944 19624 ?        Sl   Mar12   0:01 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     17365  0.0  0.0   5844   840 pts/1    S    10:57   0:00 grep ZHY630YUYANG
+20190313105701
+root      2696  0.0  0.9 132944 19624 ?        Sl   Mar12   0:01 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     17370  0.0  0.0   5844   836 pts/1    S    10:57   0:00 grep ZHY630YUYANG
+20190313105705
+root      2696  0.0  0.9 132944 19624 ?        Sl   Mar12   0:01 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+20190313105707
+root      2696  0.0  0.9 132944 19624 ?        Sl   Mar12   0:01 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+20190313105710
+root      2696  0.0  0.9 132944 19624 ?        Sl   Mar12   0:01 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     17382  0.0  0.0   5844   836 pts/1    S    10:57   0:00 grep ZHY630YUYANG
+20190313105712
+root      2696  0.0  0.9 132944 19624 ?        Sl   Mar12   0:01 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     17386  0.0  0.0   5844   840 pts/1    S    10:57   0:00 grep ZHY630YUYANG
+20190313105716
+root      2696  0.0  0.9 132944 19624 ?        Sl   Mar12   0:01 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     17390  0.0  0.0   5844   840 pts/1    S    10:57   0:00 grep ZHY630YUYANG
+20190313105717
+root      2696  0.0  0.9 132944 19624 ?        Sl   Mar12   0:01 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     17450  0.0  0.0   5844   840 pts/1    S    10:57   0:00 grep ZHY630YUYANG
+20190313105721
+root      2696  0.0  0.9 132944 19624 ?        Sl   Mar12   0:01 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+20190313105722
+root      2696  0.0  0.9 132944 19624 ?        Sl   Mar12   0:01 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     17536  0.0  0.0   5844   836 pts/1    S    10:57   0:00 grep ZHY630YUYANG
+20190313105726
+root      2696  0.0  0.9 132944 19624 ?        Sl   Mar12   0:01 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     17540  0.0  0.0   5844   836 pts/1    S    10:57   0:00 grep ZHY630YUYANG
+20190313105727
+root      2696  0.0  0.9 132944 19624 ?        Sl   Mar12   0:01 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     17640  0.0  0.0   5844   840 pts/1    S    10:57   0:00 grep ZHY630YUYANG
+20190313105732
+root      2696  0.0  0.9 132944 19624 ?        Sl   Mar12   0:01 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     17666  0.0  0.0   5844   836 pts/1    R    10:57   0:00 grep ZHY630YUYANG
+20190313105733
+root      2696  0.0  0.9 132944 19624 ?        Sl   Mar12   0:01 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     17728  0.0  0.0   5844   840 pts/1    S    10:57   0:00 grep ZHY630YUYANG
+20190313105737
+root      2696  0.0  0.9 132944 19624 ?        Sl   Mar12   0:01 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     17732  0.0  0.0   5844   840 pts/1    S    10:57   0:00 grep ZHY630YUYANG
+20190313105738
+root      2696  0.0  0.9 132944 19624 ?        Sl   Mar12   0:01 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+20190313105742
+root      2696  0.0  0.9 132944 19624 ?        Sl   Mar12   0:01 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     17740  0.0  0.0   5844   836 pts/1    S    10:57   0:00 grep ZHY630YUYANG
+20190313105743
+root      2696  0.0  0.9 132944 19624 ?        Sl   Mar12   0:01 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     17744  0.0  0.0   5844   840 pts/1    S    10:57   0:00 grep ZHY630YUYANG
+20190313105747
+root      2696  0.0  0.9 132944 19624 ?        Sl   Mar12   0:01 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+20190313105748
+root      2696  0.0  0.9 132944 19624 ?        Sl   Mar12   0:01 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+20190313105752
+root      2696  0.0  0.9 132944 19624 ?        Sl   Mar12   0:01 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     17758  0.0  0.0   5844   840 pts/1    S    10:57   0:00 grep ZHY630YUYANG
+20190313105753
+root     17762  0.0  0.0   5844   836 pts/1    S    10:57   0:00 grep ZHY630YUYANG
+20190313105757
+root     17766  0.0  0.0   5844   840 pts/1    S    10:57   0:00 grep ZHY630YUYANG
+20190313105758
+root     17770  0.0  0.0   5844   836 pts/1    S    10:58   0:00 grep ZHY630YUYANG
+20190313105802
+root     17774  0.0  0.0   5844   836 pts/1    S    10:58   0:00 grep ZHY630YUYANG
+20190313105803
+root     17778  0.0  0.0   5844   840 pts/1    S    10:58   0:00 grep ZHY630YUYANG
+20190313105807
+root     17782  0.0  0.0   5844   840 pts/1    S    10:58   0:00 grep ZHY630YUYANG
+20190313105808
+root     17786  0.0  0.0   5844   836 pts/1    S    10:58   0:00 grep ZHY630YUYANG
+20190313105812
+root     17790  0.0  0.0   5844   836 pts/1    S    10:58   0:00 grep ZHY630YUYANG
+20190313105813
+root     17794  0.0  0.0   5844   836 pts/1    S    10:58   0:00 grep ZHY630YUYANG
+20190313105817
+root     17798  0.0  0.0   5844   836 pts/1    S    10:58   0:00 grep ZHY630YUYANG
+20190313105818
+root     17802  0.0  0.0   5844   836 pts/1    S    10:58   0:00 grep ZHY630YUYANG
+20190313105822
+root     17806  0.0  0.0   5844   836 pts/1    S    10:58   0:00 grep ZHY630YUYANG
+20190313105823
+root     17810  0.0  0.0   5844   840 pts/1    R    10:58   0:00 grep ZHY630YUYANG
+20190313105827
+root     17814  0.0  0.0   5844   836 pts/1    S    10:58   0:00 grep ZHY630YUYANG
+20190313105828
+20190313105832
+root     17822  0.0  0.0   5844   836 pts/1    S    10:58   0:00 grep ZHY630YUYANG
+20190313105833
+root     17826  0.0  0.0   5844   840 pts/1    S    10:58   0:00 grep ZHY630YUYANG
+20190313105837
+root     17830  0.0  0.0   5844   836 pts/1    R    10:58   0:00 grep ZHY630YUYANG
+20190313105838
+root     17834  0.0  0.0   5844   836 pts/1    S    10:58   0:00 grep ZHY630YUYANG
+20190313105842
+root     17838  0.0  0.0   5844   840 pts/1    S    10:58   0:00 grep ZHY630YUYANG
+20190313105843
+root     17842  0.0  0.0   5844   836 pts/1    S    10:58   0:00 grep ZHY630YUYANG
+20190313105847
+20190313105848
+root     17850  0.0  0.0   5844   836 pts/1    S    10:58   0:00 grep ZHY630YUYANG
+20190313105852
+root     17854  0.0  0.0   5844   836 pts/1    S    10:58   0:00 grep ZHY630YUYANG
+20190313105853
+20190313105857
+root     17862  0.0  0.0   5844   840 pts/1    S    10:58   0:00 grep ZHY630YUYANG
+20190313105858
+root     17866  0.0  0.0   5844   840 pts/1    S    10:59   0:00 grep ZHY630YUYANG
+20190313105902
+root     17870  0.0  0.0   5844   836 pts/1    S    10:59   0:00 grep ZHY630YUYANG
+20190313105903
+root     17874  0.0  0.0   5844   836 pts/1    S    10:59   0:00 grep ZHY630YUYANG
+20190313105907
+root     17878  0.0  0.0   5844   836 pts/1    S    10:59   0:00 grep ZHY630YUYANG
+20190313105908
+20190313105912
+root     17886  0.0  0.0   5844   840 pts/1    S    10:59   0:00 grep ZHY630YUYANG
+20190313105913
+root     17890  0.0  0.0   5844   840 pts/1    S    10:59   0:00 grep ZHY630YUYANG
+20190313105917
+20190313105919
+root     17898  0.0  0.0   5844   840 pts/1    S    10:59   0:00 grep ZHY630YUYANG
+20190313105922
+root     17902  0.0  0.0   5844   840 pts/1    S    10:59   0:00 grep ZHY630YUYANG
+20190313105924
+root     17906  0.0  0.0   5844   840 pts/1    R    10:59   0:00 grep ZHY630YUYANG
+20190313105928
+root     17910  0.0  0.0   5844   840 pts/1    S    10:59   0:00 grep ZHY630YUYANG
+20190313105929
+root     17913 14.0  1.1 107636 24368 pts/0    Sl+  10:59   0:00 /root/ZHY630YUYANG/App YiNuoAppStore
+root     17919  0.0  0.0   5844   840 pts/1    S    10:59   0:00 grep ZHY630YUYANG
+20190313105933
+root     17913  9.3  1.1 107636 24368 pts/0    Sl+  10:59   0:00 /root/ZHY630YUYANG/App YiNuoAppStore
+root     17923  0.0  0.0   5844   836 pts/1    S    10:59   0:00 grep ZHY630YUYANG
+20190313105934
+root     17913  5.0  1.2 116856 25168 pts/0    Sl+  10:59   0:00 /root/ZHY630YUYANG/App YiNuoAppStore
+root     17949 32.0  1.7 132700 36928 pts/0    Sl+  10:59   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     17973  0.0  0.0   5844   840 pts/1    S    10:59   0:00 grep ZHY630YUYANG
+20190313105938
+root     17913  4.3  1.2 116856 25168 pts/0    Sl+  10:59   0:00 /root/ZHY630YUYANG/App YiNuoAppStore
+root     17949 18.0  1.7 132700 37048 pts/0    Sl+  10:59   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     17977  0.0  0.0   5844   836 pts/1    R    10:59   0:00 grep ZHY630YUYANG
+20190313105939
+root     17913  3.3  1.2 126136 25228 pts/0    Sl+  10:59   0:00 /root/ZHY630YUYANG/App YiNuoAppStore
+root     17949  6.0  1.7 132700 37076 pts/0    Sl+  10:59   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     17998 24.0  1.5 150432 32164 pts/0    Sl+  10:59   0:00 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     18018  0.0  0.0   5844   840 pts/1    S    10:59   0:00 grep ZHY630YUYANG
+20190313105943
+root     17913  3.0  1.2 126136 25228 pts/0    Sl+  10:59   0:00 /root/ZHY630YUYANG/App YiNuoAppStore
+root     17949  5.1  1.7 132700 37076 pts/0    Sl+  10:59   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     17998 12.0  1.5 150432 32164 pts/0    Sl+  10:59   0:00 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+20190313105944
+root     17913  2.6  1.2 126136 25256 pts/0    Sl+  10:59   0:00 /root/ZHY630YUYANG/App YiNuoAppStore
+root     17949  3.3  1.7 132700 37076 pts/0    Sl+  10:59   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     17998  4.0  1.5 150432 32164 pts/0    Sl+  10:59   0:00 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     18031 35.0  1.4 153428 30120 pts/0    Sl+  10:59   0:00 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     18039  135  1.6 207940 33140 pts/0    Sl+  10:59   0:01 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+root     18073  0.0  0.0   5844   840 pts/1    S    10:59   0:00 grep ZHY630YUYANG
+20190313105948
+root     17913  2.5  1.2 126136 25256 pts/0    Sl+  10:59   0:00 /root/ZHY630YUYANG/App YiNuoAppStore
+root     17949  2.8  1.7 132700 37076 pts/0    Sl+  10:59   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     17998  3.0  1.5 150432 32164 pts/0    Sl+  10:59   0:00 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     18031 12.0  1.4 153428 30120 pts/0    Sl+  10:59   0:00 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     18039 46.0  1.6 207940 33140 pts/0    Sl+  10:59   0:01 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+root     18077  0.0  0.0   5844   840 pts/1    S    10:59   0:00 grep ZHY630YUYANG
+20190313105949
+root     17913  2.5  1.2 126268 25320 pts/0    Sl+  10:59   0:00 /root/ZHY630YUYANG/App YiNuoAppStore
+root     17949  2.3  1.7 132700 37084 pts/0    Sl+  10:59   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     17998  2.1  1.5 150432 32164 pts/0    Sl+  10:59   0:00 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     18031  6.8  1.4 153428 30120 pts/0    Sl+  10:59   0:00 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     18039 25.1  1.6 207940 33140 pts/0    Sl+  10:59   0:01 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+root     18099  0.0  0.0   5844   840 pts/1    S    10:59   0:00 grep ZHY630YUYANG
+20190313105953
+root     17913  2.4  1.2 126412 25368 pts/0    Sl+  10:59   0:00 /root/ZHY630YUYANG/App YiNuoAppStore
+root     17949  2.0  1.7 132700 37084 pts/0    Sl+  10:59   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     17998  1.8  1.5 150432 32164 pts/0    Sl+  10:59   0:00 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     18031  5.2  1.4 153428 30120 pts/0    Sl+  10:59   0:00 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     18039 19.3  1.6 207940 33140 pts/0    Sl+  10:59   0:01 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+root     18103  0.0  0.0   5844   840 pts/1    S    10:59   0:00 grep ZHY630YUYANG
+20190313105954
+root     17913  2.3  1.2 126412 25468 pts/0    Sl+  10:59   0:00 /root/ZHY630YUYANG/App YiNuoAppStore
+root     17949  1.6  1.7 132700 37084 pts/0    Sl+  10:59   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     17998  1.4  1.5 150432 32172 pts/0    Sl+  10:59   0:00 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     18031  3.7  1.4 153428 30120 pts/0    Sl+  10:59   0:00 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     18039 14.0  1.6 207940 33140 pts/0    Sl+  10:59   0:01 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+root     18125  0.0  0.0   5844   836 pts/1    S    10:59   0:00 grep ZHY630YUYANG
+20190313105958
+root     17913  2.4  1.2 126412 25468 pts/0    Sl+  10:59   0:00 /root/ZHY630YUYANG/App YiNuoAppStore
+root     17949  1.6  1.7 132700 37084 pts/0    Sl+  10:59   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     17998  1.3  1.5 150432 32172 pts/0    Sl+  10:59   0:00 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     18031  3.5  1.4 153428 30120 pts/0    Sl+  10:59   0:00 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     18039 13.2  1.6 207940 33140 pts/0    Sl+  10:59   0:01 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+20190313105959
+root     17913  2.4  1.2 126528 25556 pts/0    Rl+  10:59   0:00 /root/ZHY630YUYANG/App YiNuoAppStore
+root     17949  1.3  1.7 132700 37084 pts/0    Sl+  10:59   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     17998  1.0  1.5 150432 32172 pts/0    Sl+  10:59   0:00 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     18031  2.8  1.4 153428 30128 pts/0    Sl+  10:59   0:00 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     18039 11.0  1.6 207940 33148 pts/0    Sl+  10:59   0:01 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+root     18151  0.0  0.0   5844   836 pts/1    S    11:00   0:00 grep ZHY630YUYANG
+20190313110003
+root     17913  2.5  1.2 126528 25556 pts/0    Sl+  10:59   0:00 /root/ZHY630YUYANG/App YiNuoAppStore
+root     17949  1.3  1.7 132700 37084 pts/0    Sl+  10:59   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     17998  1.0  1.5 150432 32172 pts/0    Sl+  10:59   0:00 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     18031  2.7  1.4 153428 30128 pts/0    Sl+  10:59   0:00 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     18039 10.9  1.6 207940 33148 pts/0    Sl+  10:59   0:01 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+root     18155  0.0  0.0   5844   836 pts/1    S    11:00   0:00 grep ZHY630YUYANG
+20190313110004
+root     17913  2.5  1.2 126660 25652 pts/0    Sl+  10:59   0:00 /root/ZHY630YUYANG/App YiNuoAppStore
+root     17949  1.1  1.7 132700 37084 pts/0    Sl+  10:59   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     17998  0.8  1.5 150432 32172 pts/0    Sl+  10:59   0:00 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     18031  2.4  1.4 153428 30128 pts/0    Sl+  10:59   0:00 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     18039  9.6  1.6 207940 33148 pts/0    Sl+  10:59   0:02 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+root     18177  0.0  0.0   5844   836 pts/1    S    11:00   0:00 grep ZHY630YUYANG
+20190313110008
+root     17913  2.5  1.2 126660 25652 pts/0    Sl+  10:59   0:01 /root/ZHY630YUYANG/App YiNuoAppStore
+root     17949  1.1  1.7 132700 37084 pts/0    Sl+  10:59   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     17998  0.8  1.5 150432 32172 pts/0    Sl+  10:59   0:00 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     18031  2.3  1.4 153428 30128 pts/0    Sl+  10:59   0:00 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     18039  9.3  1.6 207940 33148 pts/0    Sl+  10:59   0:02 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+root     18181  0.0  0.0   5844   840 pts/1    R    11:00   0:00 grep ZHY630YUYANG
+20190313110009
+root     17913  2.6  1.2 126660 25748 pts/0    Sl+  10:59   0:01 /root/ZHY630YUYANG/App YiNuoAppStore
+root     17949  1.0  1.7 132700 37084 pts/0    Sl+  10:59   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     17998  1.0  1.5 181672 32968 pts/0    Sl+  10:59   0:00 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     18031  2.1  1.4 153428 30128 pts/0    Sl+  10:59   0:00 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     18039  8.6  1.6 207940 33148 pts/0    Sl+  10:59   0:02 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+root     18211  0.0  0.0   5844   836 pts/1    S    11:00   0:00 grep ZHY630YUYANG
+20190313110013
+root     17913  2.6  1.2 126660 25748 pts/0    Sl+  10:59   0:01 /root/ZHY630YUYANG/App YiNuoAppStore
+root     17949  0.9  1.7 132700 37084 pts/0    Sl+  10:59   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     17998  1.1  1.5 181672 32968 pts/0    Sl+  10:59   0:00 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     18031  2.1  1.4 153428 30128 pts/0    Sl+  10:59   0:00 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     18039  8.4  1.6 207940 33148 pts/0    Sl+  10:59   0:02 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+root     18215  0.0  0.0   5844   836 pts/1    S    11:00   0:00 grep ZHY630YUYANG
+20190313110014
+root     17913  2.5  1.2 126792 25848 pts/0    Sl+  10:59   0:01 /root/ZHY630YUYANG/App YiNuoAppStore
+root     17949  0.8  1.7 132700 37084 pts/0    Sl+  10:59   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     17998  1.1  1.5 214460 32968 pts/0    Sl+  10:59   0:00 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     18031  1.9  1.4 153428 30128 pts/0    Sl+  10:59   0:00 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     18039  7.8  1.6 207940 33148 pts/0    Sl+  10:59   0:02 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+root     18241  0.0  0.0   5844   840 pts/1    S    11:00   0:00 grep ZHY630YUYANG
+20190313110018
+root     17913  2.5  1.2 126792 25848 pts/0    Sl+  10:59   0:01 /root/ZHY630YUYANG/App YiNuoAppStore
+root     17949  0.8  1.7 132700 37084 pts/0    Sl+  10:59   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     17998  1.1  1.5 214460 32968 pts/0    Sl+  10:59   0:00 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     18031  1.9  1.4 153428 30128 pts/0    Sl+  10:59   0:00 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     18039  7.6  1.6 207940 33148 pts/0    Sl+  10:59   0:02 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+20190313110019
+root     17913  2.5  1.2 126792 25848 pts/0    Sl+  10:59   0:01 /root/ZHY630YUYANG/App YiNuoAppStore
+root     17949  0.8  1.7 132700 37084 pts/0    Sl+  10:59   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     17998  1.1  1.5 214460 32968 pts/0    Sl+  10:59   0:00 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     18031  1.9  1.4 153428 30128 pts/0    Sl+  10:59   0:00 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     18039  7.6  1.6 207940 33148 pts/0    Sl+  10:59   0:02 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+root     18251  0.0  0.0   5844   836 pts/1    S    11:00   0:00 grep ZHY630YUYANG
+20190313110019
+root     18273  0.0  0.0   5844   836 pts/1    S    11:00   0:00 grep ZHY630YUYANG
+20190313110023
+root     18277  0.0  0.0   5844   836 pts/1    S    11:00   0:00 grep ZHY630YUYANG
+20190313110024
+root     18281  0.0  0.0   5844   836 pts/1    S    11:00   0:00 grep ZHY630YUYANG
+20190313110024
+root     18290  0.0  0.0   5844   836 pts/1    S    11:00   0:00 grep ZHY630YUYANG
+20190313110028
+root     18295  0.0  0.0   5844   840 pts/1    S    11:00   0:00 grep ZHY630YUYANG
+20190313110029
+root     18299  0.0  0.0   5844   836 pts/1    S    11:00   0:00 grep ZHY630YUYANG
+20190313110029
+20190313110033
+root     18307  0.0  0.0   5844   836 pts/1    S    11:00   0:00 grep ZHY630YUYANG
+20190313110034
+root     18311  0.0  0.0   5844   840 pts/1    S    11:00   0:00 grep ZHY630YUYANG
+20190313110034
+root     18315  0.0  0.0   5844   840 pts/1    S    11:00   0:00 grep ZHY630YUYANG
+20190313110038
+root     18319  0.0  0.0   5844   836 pts/1    R    11:00   0:00 grep ZHY630YUYANG
+20190313110039
+20190313110039
+root     18327  0.0  0.0   5844   840 pts/1    R    11:00   0:00 grep ZHY630YUYANG
+20190313110043
+root     18331  0.0  0.0   5844   836 pts/1    S    11:00   0:00 grep ZHY630YUYANG
+20190313110044
+root     18335  0.0  0.0   5844   840 pts/1    S    11:00   0:00 grep ZHY630YUYANG
+20190313110044
+root     18339  0.0  0.0   5844   840 pts/1    S    11:00   0:00 grep ZHY630YUYANG
+20190313110048
+root     18343  0.0  0.0   5844   836 pts/1    R    11:00   0:00 grep ZHY630YUYANG
+20190313110049
+root     18347  0.0  0.0   5844   840 pts/1    S    11:00   0:00 grep ZHY630YUYANG
+20190313110049
+root     18352  0.0  0.0   5844   840 pts/1    R    11:00   0:00 grep ZHY630YUYANG
+20190313110053
+20190313110054
+root     18360  0.0  0.0   5844   836 pts/1    S    11:00   0:00 grep ZHY630YUYANG
+20190313110054
+root     18364  0.0  0.0   5844   840 pts/1    S    11:00   0:00 grep ZHY630YUYANG
+20190313110058
+root     18368  0.0  0.0   5844   840 pts/1    S    11:00   0:00 grep ZHY630YUYANG
+20190313110059
+root     18371  0.0  0.0   5844   836 pts/1    S    11:00   0:00 grep ZHY630YUYANG
+20190313110059
+root     18376  0.0  0.0   5844   840 pts/1    S    11:01   0:00 grep ZHY630YUYANG
+20190313110103
+20190313110104
+20190313110104
+root     18388  0.0  0.0   5844   840 pts/1    S    11:01   0:00 grep ZHY630YUYANG
+20190313110108
+root     18392  0.0  0.0   5844   840 pts/1    S    11:01   0:00 grep ZHY630YUYANG
+20190313110109
+root     18396  0.0  0.0   5844   836 pts/1    S    11:01   0:00 grep ZHY630YUYANG
+20190313110109
+20190313110113
+root     18407  0.0  0.0   5844   836 pts/1    S    11:01   0:00 grep ZHY630YUYANG
+20190313110114
+root     18411  0.0  0.0   5844   836 pts/1    S    11:01   0:00 grep ZHY630YUYANG
+20190313110114
+root     18416  0.0  0.0   5844   836 pts/1    S    11:01   0:00 grep ZHY630YUYANG
+20190313110118
+20190313110119
+root     18423  0.0  0.0   5844   840 pts/1    S    11:01   0:00 grep ZHY630YUYANG
+20190313110119
+root     18428  0.0  0.0   5844   840 pts/1    R    11:01   0:00 grep ZHY630YUYANG
+20190313110123
+root     18432  0.0  0.0   5844   840 pts/1    S    11:01   0:00 grep ZHY630YUYANG
+20190313110125
+root     18435  0.0  0.0   5844   840 pts/1    S    11:01   0:00 grep ZHY630YUYANG
+20190313110125
+root     18440  0.0  0.0   5844   836 pts/1    S    11:01   0:00 grep ZHY630YUYANG
+20190313110128
+root     18444  0.0  0.0   5844   840 pts/1    S    11:01   0:00 grep ZHY630YUYANG
+20190313110130
+root     18448  0.0  0.0   5844   836 pts/1    S    11:01   0:00 grep ZHY630YUYANG
+20190313110130
+root     18452  0.0  0.0   5844   840 pts/1    S    11:01   0:00 grep ZHY630YUYANG
+20190313110133
+root     18456  0.0  0.0   5844   836 pts/1    S    11:01   0:00 grep ZHY630YUYANG
+20190313110135
+root     18460  0.0  0.0   5844   840 pts/1    S    11:01   0:00 grep ZHY630YUYANG
+20190313110135
+20190313110139
+root     18469  0.0  0.0   5844   836 pts/1    S    11:01   0:00 grep ZHY630YUYANG
+20190313110140
+root     18473  0.0  0.0   5844   840 pts/1    S    11:01   0:00 grep ZHY630YUYANG
+20190313110140
+root     18477  0.0  0.0   5844   836 pts/1    S    11:01   0:00 grep ZHY630YUYANG
+20190313110144
+root     18481  0.0  0.0   5844   836 pts/1    S    11:01   0:00 grep ZHY630YUYANG
+root     18483  0.0  0.0   5844   836 pts/1    R    11:01   0:00 grep ZHY630YUYANG
+20190313110145
+20190313110145
+20190313110149
+root     18493  0.0  0.0   5844   836 pts/1    R    11:01   0:00 grep ZHY630YUYANG
+root     18495  0.0  0.0   5844   840 pts/1    S    11:01   0:00 grep ZHY630YUYANG
+20190313110150
+root     18495  0.0  0.0   5844   840 pts/1    S    11:01   0:00 grep ZHY630YUYANG
+20190313110150
+20190313110154
+root     18505  0.0  0.0   5844   840 pts/1    S    11:01   0:00 grep ZHY630YUYANG
+20190313110155
+root     18507  0.0  0.0   5844   840 pts/1    S    11:01   0:00 grep ZHY630YUYANG
+20190313110155
+root     18513  0.0  0.0   5844   836 pts/1    S    11:01   0:00 grep ZHY630YUYANG
+20190313110159
+root     18517  0.0  0.0   5844   840 pts/1    S    11:02   0:00 grep ZHY630YUYANG
+20190313110200
+root     18521  0.0  0.0   5844   840 pts/1    S    11:02   0:00 grep ZHY630YUYANG
+20190313110200
+20190313110204
+root     18529  0.0  0.0   5844   840 pts/1    S    11:02   0:00 grep ZHY630YUYANG
+20190313110205
+root     18533  0.0  0.0   5844   840 pts/1    S    11:02   0:00 grep ZHY630YUYANG
+20190313110205
+root     18537  0.0  0.0   5844   840 pts/1    S    11:02   0:00 grep ZHY630YUYANG
+20190313110209
+root     18541  0.0  0.0   5844   836 pts/1    R    11:02   0:00 grep ZHY630YUYANG
+20190313110210
+root     18543  0.0  0.0   5844   836 pts/1    S    11:02   0:00 grep ZHY630YUYANG
+20190313110210
+20190313110214
+root     18553  0.0  0.0   5844   840 pts/1    S    11:02   0:00 grep ZHY630YUYANG
+20190313110215
+root     18555  0.0  0.0   5844   840 pts/1    S    11:02   0:00 grep ZHY630YUYANG
+20190313110215
+root     18561  0.0  0.0   5844   836 pts/1    S    11:02   0:00 grep ZHY630YUYANG
+20190313110219
+root     18565  0.0  0.0   5844   840 pts/1    S    11:02   0:00 grep ZHY630YUYANG
+20190313110220
+root     18569  0.0  0.0   5844   836 pts/1    S    11:02   0:00 grep ZHY630YUYANG
+20190313110220
+root     18573  0.0  0.0   5844   836 pts/1    S    11:02   0:00 grep ZHY630YUYANG
+20190313110224
+root     18577  0.0  0.0   5844   840 pts/1    S    11:02   0:00 grep ZHY630YUYANG
+root     18579  0.0  0.0   5844   840 pts/1    R    11:02   0:00 grep ZHY630YUYANG
+20190313110225
+root     18579  0.0  0.0   5844   840 pts/1    S    11:02   0:00 grep ZHY630YUYANG
+20190313110225
+root     18585  0.0  0.0   5844   836 pts/1    S    11:02   0:00 grep ZHY630YUYANG
+20190313110229
+root     18589  0.0  0.0   5844   836 pts/1    S    11:02   0:00 grep ZHY630YUYANG
+20190313110230
+root     18591  0.0  0.0   5844   836 pts/1    S    11:02   0:00 grep ZHY630YUYANG
+20190313110230
+root     18597  0.0  0.0   5844   840 pts/1    S    11:02   0:00 grep ZHY630YUYANG
+20190313110234
+root     18601  0.0  0.0   5844   840 pts/1    R    11:02   0:00 grep ZHY630YUYANG
+root     18603  0.0  0.0   5844   840 pts/1    R    11:02   0:00 grep ZHY630YUYANG
+root     18601  0.0  0.0   5844   840 pts/1    R    11:02   0:00 grep ZHY630YUYANG
+root     18603  0.0  0.0   5844   840 pts/1    R    11:02   0:00 grep ZHY630YUYANG
+20190313110235
+20190313110235
+root     18609  0.0  0.0   5844   836 pts/1    R    11:02   0:00 grep ZHY630YUYANG
+20190313110239
+root     18613  0.0  0.0   5844   836 pts/1    S    11:02   0:00 grep ZHY630YUYANG
+20190313110240
+root     18617  0.0  0.0   5844   836 pts/1    S    11:02   0:00 grep ZHY630YUYANG
+20190313110240
+root     18621  0.0  0.0   5844   840 pts/1    R    11:02   0:00 grep ZHY630YUYANG
+20190313110244
+root     18625  0.0  0.0   5844   840 pts/1    S    11:02   0:00 grep ZHY630YUYANG
+20190313110245
+root     18629  0.0  0.0   5844   836 pts/1    S    11:02   0:00 grep ZHY630YUYANG
+20190313110245
+root     18634  0.0  0.0   5844   836 pts/1    S    11:02   0:00 grep ZHY630YUYANG
+20190313110249
+20190313110250
+root     18642  0.0  0.0   5844   836 pts/1    S    11:02   0:00 grep ZHY630YUYANG
+20190313110250
+20190313110254
+root     18652  0.0  0.0   5844   840 pts/1    R    11:02   0:00 grep ZHY630YUYANG
+20190313110255
+root     18656  0.0  0.0   5844   836 pts/1    S    11:02   0:00 grep ZHY630YUYANG
+20190313110256
+20190313110259
+20190313110300
+root     18669  0.0  0.0   5844   840 pts/1    S    11:03   0:00 grep ZHY630YUYANG
+20190313110301
+root     18675  0.0  0.0   5844   840 pts/1    S    11:03   0:00 grep ZHY630YUYANG
+20190313110304
+20190313110306
+root     18683  0.0  0.0   5844   840 pts/1    S    11:03   0:00 grep ZHY630YUYANG
+20190313110306
+root     18687  0.0  0.0   5844   840 pts/1    S    11:03   0:00 grep ZHY630YUYANG
+20190313110309
+root     18692  0.0  0.0   5844   840 pts/1    S    11:03   0:00 grep ZHY630YUYANG
+20190313110311
+root     18696  0.0  0.0   5844   836 pts/1    S    11:03   0:00 grep ZHY630YUYANG
+20190313110311
+root     18701  0.0  0.0   5844   836 pts/1    S    11:03   0:00 grep ZHY630YUYANG
+20190313110314
+root     18705  0.0  0.0   5844   840 pts/1    S    11:03   0:00 grep ZHY630YUYANG
+20190313110316
+root     18709  0.0  0.0   5844   836 pts/1    S    11:03   0:00 grep ZHY630YUYANG
+20190313110316
+root     18713  0.0  0.0   5844   836 pts/1    S    11:03   0:00 grep ZHY630YUYANG
+20190313110319
+root     18717  0.0  0.0   5844   840 pts/1    R    11:03   0:00 grep ZHY630YUYANG
+20190313110321
+root     18721  0.0  0.0   5844   840 pts/1    S    11:03   0:00 grep ZHY630YUYANG
+20190313110321
+root     18725  0.0  0.0   5844   840 pts/1    S    11:03   0:00 grep ZHY630YUYANG
+20190313110324
+root     18729  0.0  0.0   5844   836 pts/1    R    11:03   0:00 grep ZHY630YUYANG
+20190313110326
+root     18733  0.0  0.0   5844   836 pts/1    S    11:03   0:00 grep ZHY630YUYANG
+20190313110326
+root     18737  0.0  0.0   5844   836 pts/1    S    11:03   0:00 grep ZHY630YUYANG
+20190313110329
+root     18741  0.0  0.0   5844   836 pts/1    S    11:03   0:00 grep ZHY630YUYANG
+20190313110331
+root     18745  0.0  0.0   5844   840 pts/1    S    11:03   0:00 grep ZHY630YUYANG
+20190313110331
+root     18752  0.0  0.0   5844   840 pts/1    S    11:03   0:00 grep ZHY630YUYANG
+20190313110334
+root     18756  0.0  0.0   5844   840 pts/1    S    11:03   0:00 grep ZHY630YUYANG
+20190313110336
+root     18760  0.0  0.0   5844   836 pts/1    S    11:03   0:00 grep ZHY630YUYANG
+20190313110336
+root     18766  0.0  0.0   5844   840 pts/1    S    11:03   0:00 grep ZHY630YUYANG
+20190313110339
+root     18770  0.0  0.0   5844   840 pts/1    S    11:03   0:00 grep ZHY630YUYANG
+root     18770  0.0  0.0   5844   840 pts/1    S    11:03   0:00 grep ZHY630YUYANG
+20190313110341
+20190313110341
+root     18778  0.0  0.0   5844   836 pts/1    R    11:03   0:00 grep ZHY630YUYANG
+20190313110344
+root     18782  0.0  0.0   5844   840 pts/1    R    11:03   0:00 grep ZHY630YUYANG
+root     18784  0.0  0.0   5844   840 pts/1    S    11:03   0:00 grep ZHY630YUYANG
+20190313110346
+root     18784  0.0  0.0   5844   840 pts/1    S    11:03   0:00 grep ZHY630YUYANG
+20190313110346
+root     18790  0.0  0.0   5844   836 pts/1    R    11:03   0:00 grep ZHY630YUYANG
+20190313110349
+root     18794  0.0  0.0   5844   840 pts/1    R    11:03   0:00 grep ZHY630YUYANG
+20190313110351
+root     18796  0.0  0.0   5844   836 pts/1    S    11:03   0:00 grep ZHY630YUYANG
+20190313110351
+root     18802  0.0  0.0   5844   840 pts/1    R    11:03   0:00 grep ZHY630YUYANG
+20190313110354
+root     18806  0.0  0.0   5844   840 pts/1    S    11:03   0:00 grep ZHY630YUYANG
+20190313110356
+root     18808  0.0  0.0   5844   840 pts/1    S    11:03   0:00 grep ZHY630YUYANG
+20190313110356
+20190313110400
+root     18822  0.0  0.0   5844   840 pts/1    R    11:04   0:00 grep ZHY630YUYANG
+root     18824  0.0  0.0   5844   840 pts/1    R    11:04   0:00 grep ZHY630YUYANG
+root     18822  0.0  0.0   5844   840 pts/1    R    11:04   0:00 grep ZHY630YUYANG
+20190313110401
+20190313110401
+20190313110405
+20190313110406
+20190313110406
+20190313110410
+root     18847  0.0  0.0   5844   840 pts/1    S    11:04   0:00 grep ZHY630YUYANG
+root     18849  0.0  0.0   5844   840 pts/1    S    11:04   0:00 grep ZHY630YUYANG
+20190313110411
+root     18849  0.0  0.0   5844   840 pts/1    S    11:04   0:00 grep ZHY630YUYANG
+20190313110411
+root     18855  0.0  0.0   5844   836 pts/1    S    11:04   0:00 grep ZHY630YUYANG
+20190313110415
+root     18858  0.0  1.1 107640 24364 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App YiNuoAppStore
+root     18864  0.0  0.0   5844   840 pts/1    S    11:04   0:00 grep ZHY630YUYANG
+20190313110416
+root     18858  0.0  1.1 107640 24364 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App YiNuoAppStore
+root     18866  0.0  0.0   5844   836 pts/1    S    11:04   0:00 grep ZHY630YUYANG
+20190313110416
+root     18858  6.3  1.1 107640 24364 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App YiNuoAppStore
+root     18873  0.0  0.0   5844   836 pts/1    S    11:04   0:00 grep ZHY630YUYANG
+20190313110420
+root     18858  4.4  1.2 116860 25096 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App YiNuoAppStore
+root     18898  0.0  0.5  71716 11760 pts/0    Rl+  11:04   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     18906  0.0  0.0   5844   840 pts/1    S    11:04   0:00 grep ZHY630YUYANG
+root     18909  0.0  0.0   5844   840 pts/1    S    11:04   0:00 grep ZHY630YUYANG
+root     18858  4.4  1.2 116860 25096 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App YiNuoAppStore
+root     18898  0.0  0.5  71716 11760 pts/0    Rl+  11:04   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     18906  0.0  0.0   5844   840 pts/1    S    11:04   0:00 grep ZHY630YUYANG
+20190313110421
+20190313110421
+root     18858  2.7  1.2 116860 25096 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App YiNuoAppStore
+root     18898  8.6  1.7 132644 37008 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     18927  0.0  0.0   5828   816 pts/1    R    11:04   0:00 grep ZHY630YUYANG
+20190313110425
+root     18858  2.6  1.2 126140 25212 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App YiNuoAppStore
+root     18898  5.2  1.7 132644 37032 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     18948  0.0  0.9  99716 19008 pts/0    Rl+  11:04   0:00 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     18962  0.0  0.0   5844   840 pts/1    S    11:04   0:00 grep ZHY630YUYANG
+root     18963  0.0  0.0   5844   840 pts/1    S    11:04   0:00 grep ZHY630YUYANG
+root     18858  2.6  1.2 126140 25212 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App YiNuoAppStore
+root     18898  5.2  1.7 132644 37032 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     18948  0.0  0.9  99716 19008 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     18962  0.0  0.0   5844   840 pts/1    S    11:04   0:00 grep ZHY630YUYANG
+root     18963  0.0  0.0   5848   840 pts/1    S    11:04   0:00 grep ZHY630YUYANG
+20190313110426
+20190313110426
+root     18858  1.8  1.2 126140 25212 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App YiNuoAppStore
+root     18898  2.8  1.7 132644 37032 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     18948  6.2  1.5 150428 32176 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     18974  0.0  0.0   5844   836 pts/1    S    11:04   0:00 grep ZHY630YUYANG
+20190313110430
+root     18858  2.3  1.2 126140 25212 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App YiNuoAppStore
+root     18898  2.6  1.7 132644 37032 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     18948  5.0  1.5 150428 32176 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     18983  0.0  1.0 122272 21672 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     18991  0.0  0.7  92272 15436 pts/0    Rl+  11:04   0:00 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+root     19011  0.0  0.0   5844   836 pts/1    S    11:04   0:00 grep ZHY630YUYANG
+20190313110431
+root     18858  2.3  1.2 126140 25212 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App YiNuoAppStore
+root     18898  2.6  1.7 132644 37032 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     18948  5.0  1.5 150428 32176 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     18983  0.0  1.0 122272 21904 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     18991  0.0  0.7  97820 16224 pts/0    Rl+  11:04   0:00 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+root     19014  0.0  0.0   5844   836 pts/1    S    11:04   0:00 grep ZHY630YUYANG
+20190313110431
+root     18858  1.8  1.2 126140 25220 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App YiNuoAppStore
+root     18898  1.8  1.7 132644 37032 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     18948  2.7  1.5 150428 32176 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     18983  8.2  1.3 152284 28040 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     18991 56.0  1.6 212604 33548 pts/0    Rl+  11:04   0:02 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+root     19030  0.0  0.0   5844   840 pts/1    S    11:04   0:00 grep ZHY630YUYANG
+20190313110435
+root     18858  1.9  1.2 126140 25232 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App YiNuoAppStore
+root     18898  1.7  1.7 132644 37032 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     18948  2.5  1.5 150428 32176 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     18983  7.0  1.3 152284 28040 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     18991 59.2  1.6 208164 33288 pts/0    Sl+  11:04   0:02 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+root     19052  0.0  0.0   5844   840 pts/1    S    11:04   0:00 grep ZHY630YUYANG
+20190313110436
+root     18858  1.9  1.2 126140 25232 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App YiNuoAppStore
+root     18898  1.7  1.7 132644 37032 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     18948  2.5  1.5 150428 32176 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     18983  7.0  1.3 152284 28040 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     18991 59.2  1.6 208164 33288 pts/0    Sl+  11:04   0:02 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+root     19056  0.0  0.0   5844   840 pts/1    S    11:04   0:00 grep ZHY630YUYANG
+20190313110436
+root     18858  1.5  1.2 126140 25232 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App YiNuoAppStore
+root     18898  1.3  1.7 132644 37040 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     18948  1.7  1.5 150428 32176 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     18983  4.2  1.3 152284 28040 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     18991 49.7  1.6 212604 33292 pts/0    Rl+  11:04   0:04 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+root     19061  0.0  0.0   5844   840 pts/1    S    11:04   0:00 grep ZHY630YUYANG
+20190313110440
+root     18858  1.7  1.2 126140 25232 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App YiNuoAppStore
+root     18898  1.3  1.7 132644 37040 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     18948  1.6  1.5 150428 32176 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     18983  3.8  1.3 152284 28040 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     18991 51.5  1.6 208164 33288 pts/0    Sl+  11:04   0:05 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+root     19083  0.0  0.0   5844   840 pts/1    S    11:04   0:00 grep ZHY630YUYANG
+root     19085  0.0  0.0   5844   840 pts/1    S    11:04   0:00 grep ZHY630YUYANG
+20190313110441
+root     18858  1.7  1.2 126140 25232 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App YiNuoAppStore
+root     18898  1.3  1.7 132644 37040 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     18948  1.6  1.5 150428 32176 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     18983  3.8  1.3 152284 28040 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     18991 51.5  1.6 208164 33288 pts/0    Sl+  11:04   0:05 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+root     19085  0.0  0.0   5844   840 pts/1    S    11:04   0:00 grep ZHY630YUYANG
+20190313110441
+root     18858  1.5  1.2 126140 25232 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App YiNuoAppStore
+root     18898  1.0  1.7 132644 37040 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     18948  1.3  1.5 150428 32184 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     18983  2.8  1.3 152284 28040 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     18991 47.5  1.6 208164 33288 pts/0    Sl+  11:04   0:06 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+root     19091  0.0  0.0   5844   840 pts/1    S    11:04   0:00 grep ZHY630YUYANG
+20190313110445
+root     18858  1.6  1.2 126140 25232 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App YiNuoAppStore
+root     18898  1.0  1.7 132644 37040 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     18948  1.2  1.5 150428 32184 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     18983  2.8  1.3 152284 28040 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     18991 49.1  1.6 212604 33292 pts/0    Rl+  11:04   0:07 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+root     19113  0.0  0.0   5844   836 pts/1    S    11:04   0:00 grep ZHY630YUYANG
+20190313110446
+root     18858  1.6  1.2 126140 25232 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App YiNuoAppStore
+root     18898  1.0  1.7 132644 37040 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     18948  1.2  1.5 150428 32184 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     18983  2.8  1.3 152284 28040 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     18991 49.3  1.6 212656 33292 pts/0    Rl+  11:04   0:07 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+root     19115  0.0  0.0   5844   840 pts/1    S    11:04   0:00 grep ZHY630YUYANG
+20190313110446
+root     18858  1.4  1.2 126140 25232 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App YiNuoAppStore
+root     18898  0.8  1.7 132644 37040 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     18948  1.0  1.5 150428 32184 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     18983  2.3  1.3 152284 28048 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     18991 46.5  1.6 212596 33300 pts/0    Rl+  11:04   0:08 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+root     19121  0.0  0.0   5844   840 pts/1    R    11:04   0:00 grep ZHY630YUYANG
+20190313110450
+root     18858  1.4  1.2 126140 25232 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App YiNuoAppStore
+root     18898  0.8  1.7 132644 37040 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     18948  1.0  1.5 150428 32184 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     18983  2.2  1.3 152284 28048 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     18991 47.6  1.6 212596 33300 pts/0    Rl+  11:04   0:09 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+root     19143  0.0  0.0   5844   836 pts/1    R    11:04   0:00 grep ZHY630YUYANG
+20190313110451
+root     18858  1.4  1.2 126140 25232 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App YiNuoAppStore
+root     18898  0.8  1.7 132644 37040 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     18948  1.0  1.5 150428 32184 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     18983  2.2  1.3 152284 28048 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     18991 47.8  1.6 212596 33300 pts/0    Rl+  11:04   0:09 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+root     19147  0.0  0.0   5844   840 pts/1    S    11:04   0:00 grep ZHY630YUYANG
+20190313110452
+root     18858  1.3  1.2 126140 25232 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App YiNuoAppStore
+root     18898  0.7  1.7 132644 37040 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     18948  0.8  1.5 150428 32184 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     18983  1.9  1.3 152284 28048 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     18991 46.3  1.6 212848 33296 pts/0    Rl+  11:04   0:11 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+20190313110455
+root     18858  1.4  1.2 126140 25232 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App YiNuoAppStore
+root     18898  0.7  1.7 132644 37040 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     18948  0.9  1.5 181644 32948 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     18983  1.9  1.3 152284 28048 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     18991 47.2  1.6 208164 33296 pts/0    Sl+  11:04   0:11 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+root     19179  0.0  0.0   5844   840 pts/1    S    11:04   0:00 grep ZHY630YUYANG
+20190313110457
+root     18858  1.4  1.2 126140 25232 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App YiNuoAppStore
+root     18898  0.7  1.7 132644 37040 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     18948  0.9  1.5 181644 32948 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     18983  1.9  1.3 152284 28048 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     18991 47.2  1.6 208164 33296 pts/0    Sl+  11:04   0:11 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+root     19184  0.0  0.0   5844   840 pts/1    S    11:04   0:00 grep ZHY630YUYANG
+20190313110457
+root     18858  1.2  1.2 126140 25232 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App YiNuoAppStore
+root     18898  0.6  1.7 132644 37040 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     18948  1.0  1.5 181644 32948 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     18983  1.7  1.3 152284 28048 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     18991 46.1  1.6 208164 33296 pts/0    Sl+  11:04   0:13 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+root     19189  0.0  0.0   5844   840 pts/1    S    11:05   0:00 grep ZHY630YUYANG
+20190313110500
+root     18858  1.2  1.2 126140 25236 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App YiNuoAppStore
+root     18898  0.6  1.7 132644 37040 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     18948  1.0  1.5 214432 32948 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     18983  1.7  1.3 152284 28048 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     18991 46.9  1.6 208164 33300 pts/0    Sl+  11:04   0:14 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+root     19215  0.0  0.0   5844   836 pts/1    R    11:05   0:00 grep ZHY630YUYANG
+20190313110502
+root     18858  1.2  1.2 126140 25236 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App YiNuoAppStore
+root     18898  0.6  1.7 132644 37040 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     18948  1.0  1.5 214432 32948 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     18983  1.7  1.3 152284 28048 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     18991 46.9  1.6 208164 33300 pts/0    Sl+  11:04   0:14 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+root     19219  0.0  0.0   5844   836 pts/1    S    11:05   0:00 grep ZHY630YUYANG
+20190313110502
+root     18858  1.1  1.2 126140 25236 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App YiNuoAppStore
+root     18898  0.5  1.7 132644 37040 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     18948  1.0  1.5 214432 32948 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     18983  1.6  1.3 152284 28048 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     18991 45.7  1.6 208164 33300 pts/0    Sl+  11:04   0:15 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+root     19223  0.0  0.0   5844   840 pts/1    S    11:05   0:00 grep ZHY630YUYANG
+20190313110505
+root     18858  1.2  1.2 126140 25236 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App YiNuoAppStore
+root     18898  0.5  1.7 132644 37040 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     18948  1.0  1.5 214432 32948 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     18983  1.6  1.3 152284 28048 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     18991 46.3  1.6 208164 33300 pts/0    Sl+  11:04   0:16 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+root     19245  0.0  0.0   5844   840 pts/1    S    11:05   0:00 grep ZHY630YUYANG
+20190313110507
+root     18858  1.2  1.2 126140 25236 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App YiNuoAppStore
+root     18898  0.5  1.7 132644 37040 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     18948  1.0  1.5 214432 32948 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     18983  1.6  1.3 152284 28048 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     18991 46.3  1.6 208164 33300 pts/0    Sl+  11:04   0:16 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+root     19249  0.0  0.0   5844   836 pts/1    R    11:05   0:00 grep ZHY630YUYANG
+20190313110507
+root     18858  1.1  1.2 126140 25236 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App YiNuoAppStore
+root     18898  0.5  1.7 132644 37040 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     18948  0.9  1.5 214432 32948 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     18983  1.5  1.3 152284 28048 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     18991 45.4  1.6 208164 33300 pts/0    Sl+  11:04   0:17 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+20190313110510
+root     18858  1.2  1.2 126140 25236 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App YiNuoAppStore
+root     18898  0.5  1.7 132644 37040 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     18948  1.0  1.5 214432 32964 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     18983  1.5  1.3 152284 28048 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     18991 46.0  1.6 208164 33300 pts/0    Sl+  11:04   0:18 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+root     19276  0.0  0.0   5844   840 pts/1    S    11:05   0:00 grep ZHY630YUYANG
+20190313110512
+root     18858  1.2  1.2 126140 25236 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App YiNuoAppStore
+root     18898  0.5  1.7 132644 37040 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     18948  1.0  1.5 214432 32964 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     18983  1.5  1.3 152284 28048 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     18991 46.0  1.6 208164 33300 pts/0    Sl+  11:04   0:18 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+root     19280  0.0  0.0   5844   836 pts/1    S    11:05   0:00 grep ZHY630YUYANG
+20190313110512
+root     18858  1.1  1.2 126140 25236 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App YiNuoAppStore
+root     18898  0.4  1.7 132644 37040 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     18948  1.0  1.5 214432 32964 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     18983  1.4  1.3 152284 28048 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     18991 45.2  1.6 212604 33304 pts/0    Rl+  11:04   0:19 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+20190313110515
+root     18858  1.1  1.2 126140 25236 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App YiNuoAppStore
+root     18898  0.4  1.7 132644 37040 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     18948  1.0  1.5 214432 32964 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     18983  1.4  1.3 152284 28048 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     18991 45.7  1.6 208164 33300 pts/0    Sl+  11:04   0:20 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+20190313110517
+root     18858  1.1  1.2 126140 25236 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App YiNuoAppStore
+root     18898  0.4  1.7 132644 37040 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     18948  1.0  1.5 214432 32964 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     18983  1.4  1.3 152284 28048 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     18991 45.9  1.6 212596 33304 pts/0    Rl+  11:04   0:20 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+root     19310  0.0  0.0   5844   836 pts/1    S    11:05   0:00 grep ZHY630YUYANG
+20190313110517
+root     18858  1.0  1.2 126140 25236 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App YiNuoAppStore
+root     18898  0.4  1.7 132644 37040 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     18948  1.0  1.5 214432 32964 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     18983  1.3  1.3 152284 28048 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     18991 45.1  1.6 212596 33304 pts/0    Rl+  11:04   0:22 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+root     19314  0.0  0.0   5844   836 pts/1    S    11:05   0:00 grep ZHY630YUYANG
+20190313110520
+root     18858  1.1  1.2 126140 25236 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App YiNuoAppStore
+root     18898  0.4  1.7 132644 37040 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     18948  1.0  1.5 214432 32968 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     18983  1.3  1.3 152284 28048 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     18991 45.5  1.6 212348 33308 pts/0    Rl+  11:04   0:22 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+root     19337  0.0  0.0   5844   840 pts/1    S    11:05   0:00 grep ZHY630YUYANG
+20190313110522
+root     18858  1.0  1.2 126140 25236 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App YiNuoAppStore
+root     18898  0.4  1.7 132644 37040 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     18948  1.0  1.5 214432 32968 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     18983  1.3  1.3 152284 28048 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     18991 44.7  1.6 212604 33304 pts/0    Rl+  11:04   0:22 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+root     19341  0.0  0.0   5844   840 pts/1    S    11:05   0:00 grep ZHY630YUYANG
+20190313110522
+root     18858  1.0  1.2 126140 25236 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App YiNuoAppStore
+root     18898  0.4  1.7 132644 37040 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     18948  1.0  1.5 214432 32968 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     18983  1.3  1.3 152284 28048 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     18991 44.9  1.6 208164 33300 pts/0    Sl+  11:04   0:24 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+root     19345  0.0  0.0   5844   840 pts/1    S    11:05   0:00 grep ZHY630YUYANG
+20190313110525
+root     18858  1.0  1.2 126140 25236 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App YiNuoAppStore
+root     18898  0.4  1.7 132644 37040 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     18948  1.0  1.5 214432 32968 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     18983  1.2  1.3 152284 28048 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     18991 45.3  1.6 212596 33304 pts/0    Rl+  11:04   0:24 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+20190313110527
+root     18858  1.0  1.2 126140 25236 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App YiNuoAppStore
+root     18898  0.3  1.7 132644 37040 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     18948  1.0  1.5 214432 32968 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     18983  1.2  1.3 152284 28048 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     18991 44.6  1.6 208164 33300 pts/0    Sl+  11:04   0:24 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+root     19371  0.0  0.0   5844   836 pts/1    R    11:05   0:00 grep ZHY630YUYANG
+20190313110527
+root     18858  1.0  1.2 126140 25236 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App YiNuoAppStore
+root     18898  0.3  1.7 132644 37040 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     18948  1.0  1.5 214432 32968 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     18983  1.2  1.3 152284 28048 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     18991 44.7  1.6 212596 33304 pts/0    Rl+  11:04   0:26 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+root     19375  0.0  0.0   5844   836 pts/1    S    11:05   0:00 grep ZHY630YUYANG
+20190313110530
+root     18858  1.0  1.2 126140 25236 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App YiNuoAppStore
+root     18898  0.3  1.7 132644 37040 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     18948  1.0  1.5 214432 32968 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     18983  1.2  1.3 152284 28048 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     18991 44.4  1.6 212468 33168 pts/0    Rl+  11:04   0:27 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+root     19398  0.0  0.0   5844   840 pts/1    S    11:05   0:00 grep ZHY630YUYANG
+20190313110532
+root     18858  1.0  1.2 126140 25236 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App YiNuoAppStore
+root     18898  0.3  1.7 132644 37040 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     18948  1.0  1.5 214432 32968 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     18983  1.2  1.3 152284 28048 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     18991 44.5  1.6 208028 33164 pts/0    Sl+  11:04   0:27 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+root     19402  0.0  0.0   5844   836 pts/1    S    11:05   0:00 grep ZHY630YUYANG
+20190313110532
+root     18858  0.9  1.2 126140 25236 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App YiNuoAppStore
+root     18898  0.3  1.7 132644 37040 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     18948  1.0  1.5 214432 32968 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     18983  1.2  1.3 152284 28048 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     18991 44.7  1.6 208028 33164 pts/0    Rl+  11:04   0:28 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+root     19406  0.0  0.0   5844   836 pts/1    R    11:05   0:00 grep ZHY630YUYANG
+20190313110535
+root     18858  1.0  1.2 126140 25236 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App YiNuoAppStore
+root     18898  0.3  1.7 132644 37040 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     18948  0.9  1.5 214432 32968 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     18983  1.2  1.3 152284 28048 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     18991 44.5  1.6 212468 33168 pts/0    Rl+  11:04   0:29 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+root     19428  0.0  0.0   5844   836 pts/1    S    11:05   0:00 grep ZHY630YUYANG
+20190313110537
+root     18858  1.0  1.2 126140 25236 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App YiNuoAppStore
+root     18898  0.3  1.7 132644 37040 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     18948  0.9  1.5 214432 32968 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     18983  1.2  1.3 152284 28048 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     18991 44.5  1.6 208028 33164 pts/0    Sl+  11:04   0:29 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+root     19432  0.0  0.0   5844   836 pts/1    S    11:05   0:00 grep ZHY630YUYANG
+20190313110537
+root     18858  0.9  1.2 126140 25236 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App YiNuoAppStore
+root     18898  0.3  1.7 132644 37040 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     18948  1.0  1.5 214432 32968 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     18983  1.2  1.3 152284 28048 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     18991 44.7  1.6 212468 33168 pts/0    Rl+  11:04   0:30 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+root     19447  0.0  0.0   5844   840 pts/1    S    11:05   0:00 grep ZHY630YUYANG
+20190313110540
+root     18858  0.9  1.2 126140 25236 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App YiNuoAppStore
+root     18898  0.3  1.7 132644 37040 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     18948  1.0  1.6 214432 33004 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     18983  1.1  1.3 152284 28048 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     18991 44.4  1.6 208028 33164 pts/0    Sl+  11:04   0:31 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+root     19472  0.0  0.0   5844   836 pts/1    S    11:05   0:00 grep ZHY630YUYANG
+20190313110542
+root     18858  0.9  1.2 126140 25236 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App YiNuoAppStore
+root     18898  0.3  1.7 132644 37040 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     18948  1.0  1.6 214432 33004 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     18983  1.1  1.3 152284 28048 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     18991 44.5  1.6 212468 33168 pts/0    Rl+  11:04   0:31 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+root     19476  0.0  0.0   5844   840 pts/1    S    11:05   0:00 grep ZHY630YUYANG
+20190313110542
+root     18858  0.9  1.2 126140 25236 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App YiNuoAppStore
+root     18898  0.3  1.7 132644 37040 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     18948  1.0  1.6 214432 33004 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     18983  1.2  1.3 152284 28048 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     18991 44.8  1.6 208028 33164 pts/0    Sl+  11:04   0:33 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+20190313110545
+root     18858  0.9  1.2 126140 25236 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App YiNuoAppStore
+root     18898  0.3  1.7 132644 37040 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     18948  1.0  1.6 214432 33004 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     18983  1.1  1.3 152284 28048 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     18991 44.5  1.6 208028 33164 pts/0    Sl+  11:04   0:33 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+20190313110547
+root     18858  0.9  1.2 126140 25236 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App YiNuoAppStore
+root     18898  0.3  1.7 132644 37040 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     18948  1.0  1.6 214432 33004 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     18983  1.1  1.3 152284 28048 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     18991 44.6  1.6 208028 33164 pts/0    Sl+  11:04   0:33 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+root     19506  0.0  0.0   5844   836 pts/1    S    11:05   0:00 grep ZHY630YUYANG
+20190313110547
+root     18858  0.9  1.2 126140 25236 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App YiNuoAppStore
+root     18898  0.2  1.7 132644 37040 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     18948  1.0  1.6 214432 33004 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     18983  1.1  1.3 152284 28048 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     18991 44.7  1.6 208028 33164 pts/0    Sl+  11:04   0:35 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+root     19510  0.0  0.0   5844   840 pts/1    S    11:05   0:00 grep ZHY630YUYANG
+20190313110550
+root     18858  0.9  1.2 126140 25236 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App YiNuoAppStore
+root     18898  0.2  1.7 132644 37040 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     18948  1.0  1.6 214432 33004 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     18983  1.1  1.3 152284 28048 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     18991 44.4  1.5 211992 32880 pts/0    Rl+  11:04   0:35 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+root     19533  0.0  0.0   5844   840 pts/1    S    11:05   0:00 grep ZHY630YUYANG
+20190313110552
+root     18858  0.9  1.2 126140 25236 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App YiNuoAppStore
+root     18898  0.2  1.7 132644 37040 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     18948  1.0  1.6 214432 33004 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     18983  1.1  1.3 152284 28048 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     18991 44.4  1.5 207560 32876 pts/0    Sl+  11:04   0:36 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+root     19537  0.0  0.0   5844   836 pts/1    S    11:05   0:00 grep ZHY630YUYANG
+20190313110552
+root     18858  0.9  1.2 126140 25236 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App YiNuoAppStore
+root     18898  0.2  1.7 132644 37040 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     18948  1.0  1.6 214432 33004 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     18983  1.1  1.3 152284 28048 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     18991 44.6  1.5 207560 32876 pts/0    Sl+  11:04   0:37 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+root     19541  0.0  0.0   5844   840 pts/1    S    11:05   0:00 grep ZHY630YUYANG
+20190313110555
+root     18858  0.9  1.2 126140 25236 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App YiNuoAppStore
+root     18898  0.2  1.7 132644 37040 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     18948  1.0  1.6 214432 33004 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     18983  1.1  1.3 152284 28048 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     18991 44.3  1.5 207560 32876 pts/0    Sl+  11:04   0:38 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+root     19563  0.0  0.0   5844   840 pts/1    S    11:05   0:00 grep ZHY630YUYANG
+20190313110557
+root     18858  0.9  1.2 126140 25236 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App YiNuoAppStore
+root     18898  0.2  1.7 132644 37040 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     18948  1.0  1.6 214432 33004 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     18983  1.1  1.3 152284 28048 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     18991 44.4  1.5 211992 32880 pts/0    Rl+  11:04   0:38 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+root     19567  0.0  0.0   5844   840 pts/1    S    11:05   0:00 grep ZHY630YUYANG
+20190313110557
+root     18858  0.8  1.2 126140 25236 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App YiNuoAppStore
+root     18898  0.2  1.7 132644 37040 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     18948  1.0  1.6 214432 33004 pts/0    Sl+  11:04   0:01 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     18983  1.1  1.3 152284 28048 pts/0    Sl+  11:04   0:01 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     18991 44.6  1.5 211992 32880 pts/0    Rl+  11:04   0:39 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+20190313110600
+root     18858  0.9  1.2 126140 25236 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App YiNuoAppStore
+root     18898  0.2  1.7 132644 37040 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     18948  1.0  1.6 214432 33004 pts/0    Sl+  11:04   0:01 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     18983  1.1  1.3 152284 28048 pts/0    Sl+  11:04   0:01 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     18991 44.3  1.5 207560 32876 pts/0    Sl+  11:04   0:40 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+root     19595  0.0  0.0   5844   836 pts/1    S    11:06   0:00 grep ZHY630YUYANG
+20190313110602
+root     18858  0.9  1.2 126140 25236 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App YiNuoAppStore
+root     18898  0.2  1.7 132644 37040 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     18948  1.0  1.6 214432 33004 pts/0    Sl+  11:04   0:01 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     18983  1.1  1.3 152284 28048 pts/0    Sl+  11:04   0:01 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     18991 44.4  1.5 212000 32880 pts/0    Rl+  11:04   0:40 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+root     19599  0.0  0.0   5844   836 pts/1    S    11:06   0:00 grep ZHY630YUYANG
+20190313110602
+root     18858  0.8  1.2 126140 25236 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App YiNuoAppStore
+root     18898  0.2  1.7 132644 37040 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     18948  1.1  1.6 214432 33004 pts/0    Sl+  11:04   0:01 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     18983  1.1  1.3 152284 28048 pts/0    Sl+  11:04   0:01 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     18991 44.6  1.5 207560 32876 pts/0    Sl+  11:04   0:41 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+root     19603  0.0  0.0   5844   836 pts/1    S    11:06   0:00 grep ZHY630YUYANG
+20190313110606
+root     18858  0.9  1.2 126140 25236 pts/0    Sl+  11:04   0:01 /root/ZHY630YUYANG/App YiNuoAppStore
+root     18898  0.2  1.7 132644 37040 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     18948  1.1  1.6 214432 33004 pts/0    Sl+  11:04   0:01 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     18983  1.1  1.3 152284 28048 pts/0    Sl+  11:04   0:01 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     18991 44.3  1.5 211992 32880 pts/0    Rl+  11:04   0:42 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+root     19626  0.0  0.0   5844   840 pts/1    S    11:06   0:00 grep ZHY630YUYANG
+20190313110607
+root     18858  0.9  1.2 126140 25236 pts/0    Sl+  11:04   0:01 /root/ZHY630YUYANG/App YiNuoAppStore
+root     18898  0.2  1.7 132644 37040 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     18948  1.1  1.6 214432 33004 pts/0    Sl+  11:04   0:01 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     18983  1.1  1.3 152284 28048 pts/0    Sl+  11:04   0:01 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     18991 44.4  1.6 212000 33136 pts/0    Rl+  11:04   0:42 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+root     19630  0.0  0.0   5844   836 pts/1    S    11:06   0:00 grep ZHY630YUYANG
+20190313110607
+root     18858  0.8  1.2 126140 25236 pts/0    Sl+  11:04   0:01 /root/ZHY630YUYANG/App YiNuoAppStore
+root     18898  0.2  1.7 132644 37040 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     18948  1.1  1.6 214432 33004 pts/0    Sl+  11:04   0:01 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     18983  1.1  1.3 152284 28048 pts/0    Sl+  11:04   0:01 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     18991 44.5  1.5 207560 32876 pts/0    Sl+  11:04   0:44 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+root     19634  0.0  0.0   5844   836 pts/1    S    11:06   0:00 grep ZHY630YUYANG
+20190313110611
+root     18858  0.8  1.2 126140 25236 pts/0    Sl+  11:04   0:01 /root/ZHY630YUYANG/App YiNuoAppStore
+root     18898  0.2  1.7 132644 37040 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     18948  1.1  1.6 214432 33004 pts/0    Sl+  11:04   0:01 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     18983  1.0  1.3 152284 28048 pts/0    Sl+  11:04   0:01 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     18991 44.3  1.6 212000 33136 pts/0    Rl+  11:04   0:44 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+root     19657  0.0  0.0   5844   836 pts/1    R    11:06   0:00 grep ZHY630YUYANG
+20190313110612
+root     18858  0.8  1.2 126140 25236 pts/0    Sl+  11:04   0:01 /root/ZHY630YUYANG/App YiNuoAppStore
+root     18898  0.2  1.7 132644 37040 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     18948  1.1  1.6 214432 33004 pts/0    Sl+  11:04   0:01 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     18983  1.0  1.3 152284 28048 pts/0    Sl+  11:04   0:01 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     18991 44.4  1.5 211992 32880 pts/0    Rl+  11:04   0:44 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+root     19661  0.0  0.0   5844   840 pts/1    R    11:06   0:00 grep ZHY630YUYANG
+20190313110612
+root     18858  0.8  1.2 126140 25236 pts/0    Sl+  11:04   0:01 /root/ZHY630YUYANG/App YiNuoAppStore
+root     18898  0.2  1.7 132644 37040 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     18948  1.1  1.6 214432 33004 pts/0    Sl+  11:04   0:01 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     18983  1.0  1.3 152284 28048 pts/0    Sl+  11:04   0:01 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     18991 44.5  1.5 207576 32880 pts/0    Rl+  11:04   0:46 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+root     19665  0.0  0.0   5844   836 pts/1    S    11:06   0:00 grep ZHY630YUYANG
+20190313110616
+root     18858  0.8  1.2 126140 25236 pts/0    Sl+  11:04   0:01 /root/ZHY630YUYANG/App YiNuoAppStore
+root     18898  0.2  1.7 132644 37040 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     18948  1.1  1.6 214432 33004 pts/0    Sl+  11:04   0:01 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     18983  1.0  1.3 152284 28048 pts/0    Sl+  11:04   0:01 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     18991 44.3  1.5 212000 32880 pts/0    Rl+  11:04   0:46 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+root     19687  0.0  0.0   5844   840 pts/1    S    11:06   0:00 grep ZHY630YUYANG
+20190313110617
+root     18858  0.8  1.2 126140 25236 pts/0    Sl+  11:04   0:01 /root/ZHY630YUYANG/App YiNuoAppStore
+root     18898  0.2  1.7 132644 37040 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     18948  1.1  1.6 214432 33004 pts/0    Sl+  11:04   0:01 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     18983  1.0  1.3 152284 28048 pts/0    Sl+  11:04   0:01 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     18991 44.3  1.5 212000 32880 pts/0    Rl+  11:04   0:47 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+20190313110617
+root     18858  0.8  1.2 126140 25236 pts/0    Sl+  11:04   0:01 /root/ZHY630YUYANG/App YiNuoAppStore
+root     18898  0.2  1.7 132644 37040 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     18948  1.1  1.6 214432 33004 pts/0    Sl+  11:04   0:01 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     18983  1.0  1.3 152284 28048 pts/0    Sl+  11:04   0:01 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     18991 44.5  1.5 207560 32876 pts/0    Sl+  11:04   0:48 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+root     19697  0.0  0.0   5844   840 pts/1    S    11:06   0:00 grep ZHY630YUYANG
+20190313110621
+root     18858  0.8  1.2 126140 25236 pts/0    Sl+  11:04   0:01 /root/ZHY630YUYANG/App YiNuoAppStore
+root     18898  0.2  1.7 132644 37040 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     18948  1.1  1.6 214432 33004 pts/0    Sl+  11:04   0:01 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     18983  1.0  1.3 152284 28048 pts/0    Sl+  11:04   0:01 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     18991 44.3  1.5 207560 32876 pts/0    Sl+  11:04   0:49 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+root     19719  0.0  0.0   5844   836 pts/1    S    11:06   0:00 grep ZHY630YUYANG
+20190313110622
+root     18858  0.8  1.2 126140 25236 pts/0    Sl+  11:04   0:01 /root/ZHY630YUYANG/App YiNuoAppStore
+root     18898  0.2  1.7 132644 37040 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     18948  1.1  1.6 214432 33004 pts/0    Sl+  11:04   0:01 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     18983  1.0  1.3 152284 28048 pts/0    Sl+  11:04   0:01 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     18991 44.4  1.5 211992 32880 pts/0    Rl+  11:04   0:49 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+root     19723  0.0  0.0   5844   840 pts/1    S    11:06   0:00 grep ZHY630YUYANG
+20190313110622
+root     18858  0.8  1.2 126140 25236 pts/0    Sl+  11:04   0:01 /root/ZHY630YUYANG/App YiNuoAppStore
+root     18898  0.2  1.7 132644 37040 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     18948  1.1  1.6 214432 33004 pts/0    Sl+  11:04   0:01 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     18983  1.0  1.3 152284 28048 pts/0    Sl+  11:04   0:01 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     18991 44.5  1.6 212000 33136 pts/0    Rl+  11:04   0:50 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+root     19728  0.0  0.0   5844   836 pts/1    S    11:06   0:00 grep ZHY630YUYANG
+20190313110626
+root     18858  0.8  1.2 126140 25236 pts/0    Sl+  11:04   0:01 /root/ZHY630YUYANG/App YiNuoAppStore
+root     18898  0.2  1.7 132644 37040 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     18948  1.1  1.6 214432 33004 pts/0    Sl+  11:04   0:01 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     18983  1.0  1.3 152284 28048 pts/0    Sl+  11:04   0:01 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     18991 44.3  1.5 207560 32876 pts/0    Sl+  11:04   0:51 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+root     19750  0.0  0.0   5844   836 pts/1    S    11:06   0:00 grep ZHY630YUYANG
+20190313110627
+root     18858  0.8  1.2 126140 25236 pts/0    Sl+  11:04   0:01 /root/ZHY630YUYANG/App YiNuoAppStore
+root     18898  0.2  1.7 132644 37040 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     18948  1.1  1.6 214432 33004 pts/0    Sl+  11:04   0:01 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     18983  1.0  1.3 152284 28048 pts/0    Sl+  11:04   0:01 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     18991 44.3  1.5 212000 32880 pts/0    Rl+  11:04   0:51 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+root     19754  0.0  0.0   5844   840 pts/1    S    11:06   0:00 grep ZHY630YUYANG
+20190313110627
+root     18858  0.8  1.2 126140 25236 pts/0    Sl+  11:04   0:01 /root/ZHY630YUYANG/App YiNuoAppStore
+root     18898  0.2  1.7 132644 37040 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     18948  1.1  1.6 214432 33004 pts/0    Sl+  11:04   0:01 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     18983  1.0  1.3 152284 28048 pts/0    Sl+  11:04   0:01 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     18991 44.0  1.5 207560 32876 pts/0    Sl+  11:04   0:52 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+20190313110631
+root     18858  0.8  1.2 126140 25236 pts/0    Sl+  11:04   0:01 /root/ZHY630YUYANG/App YiNuoAppStore
+root     18898  0.1  1.7 132644 37040 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     18948  1.1  1.6 214432 33004 pts/0    Sl+  11:04   0:01 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     18983  1.0  1.3 152284 28048 pts/0    Sl+  11:04   0:01 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     18991 44.2  1.5 207560 32876 pts/0    Sl+  11:04   0:53 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+root     19781  0.0  0.0   5844   836 pts/1    S    11:06   0:00 grep ZHY630YUYANG
+20190313110632
+root     18858  0.8  1.2 126140 25236 pts/0    Sl+  11:04   0:01 /root/ZHY630YUYANG/App YiNuoAppStore
+root     18898  0.1  1.7 132644 37040 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     18948  1.1  1.6 214432 33004 pts/0    Sl+  11:04   0:01 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     18983  1.0  1.3 152284 28048 pts/0    Sl+  11:04   0:01 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     18991 44.3  1.5 207560 32876 pts/0    Rl+  11:04   0:53 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+root     19785  0.0  0.0   5844   836 pts/1    S    11:06   0:00 grep ZHY630YUYANG
+20190313110632
+root     18858  0.8  1.2 126140 25236 pts/0    Sl+  11:04   0:01 /root/ZHY630YUYANG/App YiNuoAppStore
+root     18898  0.1  1.7 132644 37040 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     18948  1.1  1.6 214432 33004 pts/0    Sl+  11:04   0:01 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     18983  1.0  1.3 152284 28048 pts/0    Sl+  11:04   0:01 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     18991 44.1  1.5 207560 32876 pts/0    Sl+  11:04   0:55 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+root     19789  0.0  0.0   5844   840 pts/1    S    11:06   0:00 grep ZHY630YUYANG
+20190313110636
+root     18858  0.8  1.2 126140 25236 pts/0    Sl+  11:04   0:01 /root/ZHY630YUYANG/App YiNuoAppStore
+root     18898  0.1  1.7 132644 37040 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     18948  1.1  1.6 214432 33004 pts/0    Sl+  11:04   0:01 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     18983  1.0  1.3 152284 28048 pts/0    Sl+  11:04   0:01 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     18991 44.3  1.5 207560 32876 pts/0    Sl+  11:04   0:55 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+root     19811  0.0  0.0   5844   840 pts/1    S    11:06   0:00 grep ZHY630YUYANG
+20190313110637
+root     18858  0.8  1.2 126140 25236 pts/0    Sl+  11:04   0:01 /root/ZHY630YUYANG/App YiNuoAppStore
+root     18898  0.1  1.7 132644 37040 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     18948  1.1  1.6 214432 33004 pts/0    Sl+  11:04   0:01 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     18983  1.0  1.3 152284 28048 pts/0    Sl+  11:04   0:01 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     18991 44.3  1.5 211992 32880 pts/0    Rl+  11:04   0:55 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+root     19815  0.0  0.0   5844   840 pts/1    S    11:06   0:00 grep ZHY630YUYANG
+20190313110637
+root     18858  0.8  1.2 126140 25236 pts/0    Sl+  11:04   0:01 /root/ZHY630YUYANG/App YiNuoAppStore
+root     18898  0.1  1.7 132644 37040 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     18948  1.1  1.6 214432 33004 pts/0    Sl+  11:04   0:01 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     18983  1.0  1.3 152284 28048 pts/0    Sl+  11:04   0:01 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     18991 44.1  1.5 212000 32884 pts/0    Rl+  11:04   0:57 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+root     19820  0.0  0.0   5844   840 pts/1    S    11:06   0:00 grep ZHY630YUYANG
+20190313110641
+root     18858  0.8  1.2 126140 25236 pts/0    Sl+  11:04   0:01 /root/ZHY630YUYANG/App YiNuoAppStore
+root     18898  0.1  1.7 132644 37040 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     18948  1.1  1.6 214432 33004 pts/0    Sl+  11:04   0:01 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     18983  1.0  1.3 152284 28048 pts/0    Sl+  11:04   0:01 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     18991 44.3  1.5 207560 32876 pts/0    Sl+  11:04   0:58 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+root     19842  0.0  0.0   5844   836 pts/1    S    11:06   0:00 grep ZHY630YUYANG
+20190313110642
+root     18858  0.8  1.2 126140 25236 pts/0    Sl+  11:04   0:01 /root/ZHY630YUYANG/App YiNuoAppStore
+root     18898  0.1  1.7 132644 37040 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     18948  1.1  1.6 214432 33004 pts/0    Sl+  11:04   0:01 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     18983  1.0  1.3 152284 28048 pts/0    Sl+  11:04   0:01 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     18991 44.3  1.5 211992 32880 pts/0    Rl+  11:04   0:58 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+root     19846  0.0  0.0   5844   840 pts/1    S    11:06   0:00 grep ZHY630YUYANG
+20190313110642
+root     18858  0.8  1.2 126140 25236 pts/0    Sl+  11:04   0:01 /root/ZHY630YUYANG/App YiNuoAppStore
+root     18898  0.1  1.7 132644 37040 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     18948  1.1  1.6 214432 33004 pts/0    Sl+  11:04   0:01 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     18983  1.0  1.3 152284 28048 pts/0    Sl+  11:04   0:01 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     18991 44.1  1.5 207560 32876 pts/0    Sl+  11:04   0:59 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+root     19850  0.0  0.0   5844   840 pts/1    S    11:06   0:00 grep ZHY630YUYANG
+20190313110646
+root     18858  0.8  1.2 126140 25236 pts/0    Sl+  11:04   0:01 /root/ZHY630YUYANG/App YiNuoAppStore
+root     18898  0.1  1.7 132644 37040 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     18948  1.1  1.6 214432 33004 pts/0    Sl+  11:04   0:01 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     18983  1.0  1.3 152284 28048 pts/0    Sl+  11:04   0:01 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     18991 44.3  1.5 207560 32876 pts/0    Sl+  11:04   1:00 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+root     19872  0.0  0.0   5844   836 pts/1    S    11:06   0:00 grep ZHY630YUYANG
+20190313110647
+root     18858  0.8  1.2 126140 25236 pts/0    Sl+  11:04   0:01 /root/ZHY630YUYANG/App YiNuoAppStore
+root     18898  0.1  1.7 132644 37040 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     18948  1.1  1.6 214432 33004 pts/0    Sl+  11:04   0:01 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     18983  1.0  1.3 152284 28048 pts/0    Sl+  11:04   0:01 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     18991 44.4  1.5 211744 32880 pts/0    Rl+  11:04   1:00 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+root     19876  0.0  0.0   5844   836 pts/1    S    11:06   0:00 grep ZHY630YUYANG
+20190313110647
+root     18858  0.8  1.2 126140 25236 pts/0    Sl+  11:04   0:01 /root/ZHY630YUYANG/App YiNuoAppStore
+root     18898  0.1  1.7 132644 37040 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     18948  1.1  1.6 214432 33004 pts/0    Sl+  11:04   0:01 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     18983  1.0  1.3 152284 28048 pts/0    Sl+  11:04   0:01 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     18991 44.2  1.5 207560 32876 pts/0    Sl+  11:04   1:01 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+root     19887  0.0  0.0   5844   840 pts/1    S    11:06   0:00 grep ZHY630YUYANG
+20190313110651
+root     18858  0.8  1.2 126140 25236 pts/0    Sl+  11:04   0:01 /root/ZHY630YUYANG/App YiNuoAppStore
+root     18898  0.1  1.7 132644 37040 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     18948  1.1  1.6 214432 33004 pts/0    Sl+  11:04   0:01 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     18983  1.0  1.3 152284 28048 pts/0    Sl+  11:04   0:01 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     18991 44.3  1.6 212000 33136 pts/0    Rl+  11:04   1:02 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+root     19903  0.0  0.0   5844   836 pts/1    S    11:06   0:00 grep ZHY630YUYANG
+20190313110652
+root     18858  0.8  1.2 126140 25236 pts/0    Sl+  11:04   0:01 /root/ZHY630YUYANG/App YiNuoAppStore
+root     18898  0.1  1.7 132644 37040 pts/0    Sl+  11:04   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     18948  1.1  1.6 214432 33004 pts/0    Sl+  11:04   0:01 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     18983  1.0  1.3 152284 28048 pts/0    Sl+  11:04   0:01 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     18991 44.4  1.6 212000 33136 pts/0    Rl+  11:04   1:02 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+root     19907  0.0  0.0   5844   840 pts/1    S    11:06   0:00 grep ZHY630YUYANG
+20190313110653
+root     19917  0.0  0.0   5844   840 pts/1    S    11:06   0:00 grep ZHY630YUYANG
+20190313110656
+root     19921  0.0  0.0   5844   840 pts/1    S    11:06   0:00 grep ZHY630YUYANG
+20190313110657
+root     19925  0.0  0.0   5844   840 pts/1    S    11:06   0:00 grep ZHY630YUYANG
+20190313110658
+root     19929  0.0  0.0   5844   840 pts/1    S    11:07   0:00 grep ZHY630YUYANG
+20190313110701
+root     19933  0.0  0.0   5844   840 pts/1    S    11:07   0:00 grep ZHY630YUYANG
+20190313110702
+root     19937  0.0  0.0   5844   836 pts/1    S    11:07   0:00 grep ZHY630YUYANG
+20190313110703
+root     19941  0.0  0.0   5844   836 pts/1    S    11:07   0:00 grep ZHY630YUYANG
+20190313110706
+root     19945  0.0  0.0   5844   840 pts/1    S    11:07   0:00 grep ZHY630YUYANG
+20190313110708
+root     19949  0.0  0.0   5844   836 pts/1    S    11:07   0:00 grep ZHY630YUYANG
+20190313110708
+root     19955  0.0  0.0   5844   840 pts/1    R    11:07   0:00 grep ZHY630YUYANG
+20190313110711
+root     19959  0.0  0.0   2184   292 pts/1    R    11:07   0:00 grep ZHY630YUYANG
+20190313110713
+root     19963  0.0  0.0   5844   840 pts/1    S    11:07   0:00 grep ZHY630YUYANG
+20190313110713
+root     19967  0.0  0.0   5844   836 pts/1    S    11:07   0:00 grep ZHY630YUYANG
+20190313110716
+root     19971  0.0  0.0   5844   836 pts/1    S    11:07   0:00 grep ZHY630YUYANG
+20190313110718
+root     19974  0.0  0.0   5844   840 pts/1    S    11:07   0:00 grep ZHY630YUYANG
+20190313110718
+root     19979  0.0  0.0   5844   840 pts/1    S    11:07   0:00 grep ZHY630YUYANG
+20190313110721
+root     19983  0.0  0.0   5844   840 pts/1    S    11:07   0:00 grep ZHY630YUYANG
+20190313110723
+root     19987  0.0  0.0   5844   836 pts/1    S    11:07   0:00 grep ZHY630YUYANG
+20190313110723
+root     12695  0.0  0.7  83332 14908 pts/0    Sl+  10:38   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     12722  1.0  1.5 180184 32400 pts/0    Sl+  10:38   0:00 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     12752  1.0  1.3 152280 28044 pts/0    Sl+  10:39   0:00 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     12760  2.1  1.5 198212 31572 pts/0    Sl+  10:39   0:01 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+root     13127  0.0  0.0   5844   840 pts/1    S+   10:40   0:00 grep ZHY630YUYANG
+20190415104031
+root     12695  0.0  0.7  83332 14908 pts/0    Sl+  10:38   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     12722  1.0  1.5 180184 32404 pts/0    Sl+  10:38   0:00 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     12752  1.0  1.3 152280 28044 pts/0    Sl+  10:39   0:01 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     12760  2.1  1.5 198212 31572 pts/0    Sl+  10:39   0:01 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+root     13161  0.0  0.0   5844   836 pts/1    S+   10:40   0:00 grep ZHY630YUYANG
+20190415104036
+root     12695  0.0  0.7  83332 14908 pts/0    Sl+  10:38   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     12722  0.9  1.5 180184 32404 pts/0    Sl+  10:38   0:01 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     12752  1.0  1.3 152280 28044 pts/0    Sl+  10:39   0:01 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     12760  2.0  1.5 198212 31572 pts/0    Sl+  10:39   0:02 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+root     13185  0.0  0.0   5844   840 pts/1    S+   10:40   0:00 grep ZHY630YUYANG
+20190415104041
+root     12695  0.0  0.7  83332 14908 pts/0    Sl+  10:38   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     12722  0.9  1.5 180184 32404 pts/0    Sl+  10:38   0:01 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     12752  1.0  1.3 152280 28044 pts/0    Sl+  10:39   0:01 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     12760  2.0  1.5 198100 31448 pts/0    Sl+  10:39   0:02 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+root     13211  0.0  0.0   5844   836 pts/1    S+   10:40   0:00 grep ZHY630YUYANG
+20190415104046
+root     12695  0.0  0.7  83332 14908 pts/0    Sl+  10:38   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     12722  0.9  1.5 180184 32404 pts/0    Sl+  10:38   0:01 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     12752  1.0  1.3 152280 28044 pts/0    Sl+  10:39   0:01 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     12760  1.9  1.5 198100 31448 pts/0    Sl+  10:39   0:02 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+root     13233  0.0  0.0   5844   836 pts/1    S+   10:40   0:00 grep ZHY630YUYANG
+20190415104051
+root     12695  0.0  0.7  83332 14908 pts/0    Sl+  10:38   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     12722  0.9  1.5 180184 32404 pts/0    Sl+  10:38   0:01 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     12752  1.0  1.3 152280 28044 pts/0    Sl+  10:39   0:01 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     12760  1.9  1.5 198100 31448 pts/0    Sl+  10:39   0:02 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+root     13257  0.0  0.0   5844   836 pts/1    S+   10:40   0:00 grep ZHY630YUYANG
+20190415104056
+root     12695  0.0  0.7  83332 14908 pts/0    Sl+  10:38   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     12722  0.9  1.5 180184 32404 pts/0    Sl+  10:38   0:01 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     12752  1.0  1.3 152280 28044 pts/0    Sl+  10:39   0:01 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     12760  1.8  1.5 198100 31448 pts/0    Sl+  10:39   0:02 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+root     13279  0.0  0.0   5844   836 pts/1    S+   10:41   0:00 grep ZHY630YUYANG
+20190415104101
+root     12695  0.0  0.7  83332 14908 pts/0    Sl+  10:38   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     12722  0.8  1.5 180184 32404 pts/0    Sl+  10:38   0:01 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     12752  1.0  1.3 152280 28044 pts/0    Sl+  10:39   0:01 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     12760  1.8  1.5 198100 31448 pts/0    Sl+  10:39   0:02 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+root     13303  0.0  0.0   5844   836 pts/1    S+   10:41   0:00 grep ZHY630YUYANG
+20190415104106
+root     12695  0.0  0.7  83332 14908 pts/0    Sl+  10:38   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     12722  0.8  1.5 180184 32312 pts/0    Sl+  10:38   0:01 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     12752  1.0  1.3 152280 27952 pts/0    Sl+  10:39   0:01 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     12760  1.7  1.5 198100 31356 pts/0    Sl+  10:39   0:02 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+root     13325  0.0  0.0   5844   836 pts/1    R+   10:41   0:00 grep ZHY630YUYANG
+20190415104111
+root     12695  0.0  0.7  83332 14908 pts/0    Sl+  10:38   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     12722  0.8  1.5 180184 32312 pts/0    Sl+  10:38   0:01 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     12752  1.0  1.3 152280 27952 pts/0    Sl+  10:39   0:01 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     12760  1.7  1.5 198100 31356 pts/0    Sl+  10:39   0:02 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+root     13349  0.0  0.0   5844   836 pts/1    S+   10:41   0:00 grep ZHY630YUYANG
+20190415104116
+root     12695  0.0  0.7  83332 14908 pts/0    Sl+  10:38   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     12722  0.8  1.4 180184 30096 pts/0    Sl+  10:38   0:01 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     12752  1.0  1.2 152280 26052 pts/0    Sl+  10:39   0:01 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     12760  1.7  1.4 198100 29192 pts/0    Sl+  10:39   0:02 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+root     13371  0.0  0.0   5844   840 pts/1    S+   10:41   0:00 grep ZHY630YUYANG
+20190415104121
+root     12695  0.0  0.7  83332 14908 pts/0    Sl+  10:38   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     12722  0.8  1.4 180184 30100 pts/0    Sl+  10:38   0:01 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     12752  0.9  1.2 152280 26052 pts/0    Sl+  10:39   0:01 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     12760  1.6  1.4 198100 29192 pts/0    Sl+  10:39   0:02 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+root     13396  0.0  0.0   5844   836 pts/1    S+   10:41   0:00 grep ZHY630YUYANG
+20190415104126
+root     12695  0.0  0.7  83332 14908 pts/0    Sl+  10:38   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     12722  0.8  1.4 180184 30100 pts/0    Sl+  10:38   0:01 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     12752  0.9  1.2 152280 26052 pts/0    Sl+  10:39   0:01 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     12760  1.6  1.3 198100 28632 pts/0    Sl+  10:39   0:02 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+root     13418  0.0  0.0   5844   840 pts/1    S+   10:41   0:00 grep ZHY630YUYANG
+20190415104131
+root     12695  0.0  0.7  83332 14908 pts/0    Sl+  10:38   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     12722  0.8  1.4 180184 30100 pts/0    Sl+  10:38   0:01 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     12752  0.9  1.2 152280 26052 pts/0    Sl+  10:39   0:01 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     12760  1.6  1.3 198100 28632 pts/0    Sl+  10:39   0:02 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+root     13442  0.0  0.0   5844   836 pts/1    S+   10:41   0:00 grep ZHY630YUYANG
+20190415104136
+root     12695  0.0  0.7  83332 14908 pts/0    Sl+  10:38   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     12722  0.8  1.4 180184 30100 pts/0    Sl+  10:38   0:01 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     12752  0.9  1.2 152280 26052 pts/0    Sl+  10:39   0:01 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     12760  1.6  1.3 198100 28632 pts/0    Sl+  10:39   0:02 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+root     13473  0.0  0.0   5844   840 pts/1    S+   10:41   0:00 grep ZHY630YUYANG
+20190415104141
+root     12695  0.0  0.7  83332 14524 pts/0    Sl+  10:38   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     12722  0.8  1.3 180184 27188 pts/0    Sl+  10:38   0:01 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     12752  0.9  1.1 152280 23348 pts/0    Sl+  10:39   0:01 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     12760  1.5  1.2 198100 25836 pts/0    Sl+  10:39   0:02 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+root     13503  0.0  0.0   5844   840 pts/1    S+   10:41   0:00 grep ZHY630YUYANG
+20190415104146
+root     12695  0.0  0.7  83332 14428 pts/0    Sl+  10:38   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     12722  0.8  1.3 180184 26804 pts/0    Sl+  10:38   0:01 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     12752  0.9  1.1 152280 22968 pts/0    Sl+  10:39   0:01 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     12760  1.5  1.2 198100 25444 pts/0    Sl+  10:39   0:02 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+root     13528  0.0  0.0   5844   836 pts/1    S+   10:41   0:00 grep ZHY630YUYANG
+20190415104151
+root     12695  0.0  0.7  83332 14428 pts/0    Sl+  10:38   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     12722  0.8  1.3 180184 26804 pts/0    Sl+  10:38   0:01 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     12752  0.9  1.1 152280 22968 pts/0    Sl+  10:39   0:01 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     12760  1.5  1.2 198100 25444 pts/0    Sl+  10:39   0:02 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+root     13552  0.0  0.0   5844   840 pts/1    R+   10:41   0:00 grep ZHY630YUYANG
+20190415104157
+root     12695  0.0  0.7  83332 14428 pts/0    Sl+  10:38   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     12722  0.8  1.3 180184 26804 pts/0    Sl+  10:38   0:01 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     12752  0.9  1.1 152280 22968 pts/0    Sl+  10:39   0:01 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     12760  1.5  1.2 198100 25420 pts/0    Sl+  10:39   0:02 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+root     13574  0.0  0.0   5844   836 pts/1    S+   10:42   0:00 grep ZHY630YUYANG
+20190415104202
+root     12695  0.0  0.6  83332 14324 pts/0    Sl+  10:38   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     12722  0.8  1.2 180184 26644 pts/0    Sl+  10:38   0:01 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     12752  0.9  1.1 152280 22808 pts/0    Sl+  10:39   0:01 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     12760  1.5  1.2 198100 25260 pts/0    Sl+  10:39   0:02 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+root     13598  0.0  0.0   5844   840 pts/1    S+   10:42   0:00 grep ZHY630YUYANG
+20190415104207
+root     12695  0.0  0.6  83332 14324 pts/0    Sl+  10:38   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     12722  0.8  1.2 180184 26644 pts/0    Sl+  10:38   0:01 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     12752  0.9  1.1 152280 22808 pts/0    Sl+  10:39   0:01 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     12760  1.5  1.2 198100 25260 pts/0    Sl+  10:39   0:02 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+root     13620  0.0  0.0   5844   836 pts/1    S+   10:42   0:00 grep ZHY630YUYANG
+20190415104212
+root     12695  0.0  0.6  83332 14324 pts/0    Sl+  10:38   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     12722  0.7  1.2 180184 26644 pts/0    Sl+  10:38   0:01 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     12752  0.9  1.1 152280 22808 pts/0    Sl+  10:39   0:01 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     12760  1.4  1.2 198100 25260 pts/0    Sl+  10:39   0:02 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+root     13644  0.0  0.0   5844   836 pts/1    S+   10:42   0:00 grep ZHY630YUYANG
+20190415104217
+root     12695  0.0  0.6  83332 14324 pts/0    Sl+  10:38   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     12722  0.7  1.2 180184 26644 pts/0    Sl+  10:38   0:01 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     12752  0.9  1.1 152280 22808 pts/0    Sl+  10:39   0:01 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     12760  1.4  1.2 198100 25260 pts/0    Sl+  10:39   0:02 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+root     13666  0.0  0.0   5844   836 pts/1    S+   10:42   0:00 grep ZHY630YUYANG
+20190415104222
+root     12695  0.0  0.6  83332 14324 pts/0    Sl+  10:38   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     12722  0.7  1.2 180184 26624 pts/0    Sl+  10:38   0:01 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     12752  0.9  1.1 152280 22788 pts/0    Sl+  10:39   0:01 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     12760  1.4  1.2 198100 25228 pts/0    Sl+  10:39   0:03 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+root     13690  0.0  0.0   5844   840 pts/1    S+   10:42   0:00 grep ZHY630YUYANG
+20190415104227
+root     12695  0.0  0.6  83332 14324 pts/0    Sl+  10:38   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     12722  0.7  1.2 180184 26624 pts/0    Sl+  10:38   0:01 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     12752  0.9  1.1 152280 22788 pts/0    Sl+  10:39   0:01 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     12760  1.4  1.2 198100 25228 pts/0    Rl+  10:39   0:03 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+root     13712  0.0  0.0   5844   840 pts/1    S+   10:42   0:00 grep ZHY630YUYANG
+20190415104232
+root     12695  0.0  0.6  83332 14324 pts/0    Sl+  10:38   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     12722  0.8  1.2 180184 26624 pts/0    Sl+  10:38   0:01 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     12752  0.9  1.1 152280 22788 pts/0    Sl+  10:39   0:02 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     12760  1.4  1.2 198100 25228 pts/0    Sl+  10:39   0:03 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+root     13736  0.0  0.0   5844   836 pts/1    S+   10:42   0:00 grep ZHY630YUYANG
+20190415104237
+root     12695  0.0  0.6  83332 14324 pts/0    Sl+  10:38   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     12722  0.8  1.2 180184 26624 pts/0    Sl+  10:38   0:01 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     12752  0.9  1.1 152280 22788 pts/0    Sl+  10:39   0:02 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     12760  1.4  1.2 198100 25228 pts/0    Sl+  10:39   0:03 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+root     13758  0.0  0.0   5844   840 pts/1    S+   10:42   0:00 grep ZHY630YUYANG
+20190415104242
+root     12695  0.0  0.6  83332 14324 pts/0    Sl+  10:38   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     12722  0.8  1.2 180184 26624 pts/0    Sl+  10:38   0:01 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     12752  0.9  1.1 152280 22788 pts/0    Sl+  10:39   0:02 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     12760  1.4  1.2 198100 25228 pts/0    Sl+  10:39   0:03 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+root     13782  0.0  0.0   5844   836 pts/1    S+   10:42   0:00 grep ZHY630YUYANG
+20190415104247
+root     12695  0.0  0.6  83332 14324 pts/0    Sl+  10:38   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     12722  0.7  1.2 180184 26624 pts/0    Sl+  10:38   0:01 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     12752  0.9  1.1 152280 22788 pts/0    Sl+  10:39   0:02 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     12760  1.3  1.2 198100 25228 pts/0    Sl+  10:39   0:03 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+root     13804  0.0  0.0   5844   840 pts/1    S+   10:42   0:00 grep ZHY630YUYANG
+20190415104252
+root     12695  0.0  0.5  83332 11476 pts/0    Sl+  10:38   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     12722  0.8  1.1 180184 22860 pts/0    Sl+  10:38   0:01 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     12752  0.9  0.9 152280 19076 pts/0    Sl+  10:39   0:02 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     12760  1.3  1.0 198100 21452 pts/0    Sl+  10:39   0:03 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+root     13828  0.0  0.0   5844   840 pts/1    S+   10:42   0:00 grep ZHY630YUYANG
+20190415104257
+root     12695  0.0  0.5  83332 11476 pts/0    Sl+  10:38   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     12722  0.8  1.1 180184 22860 pts/0    Sl+  10:38   0:01 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     12752  0.9  0.9 152280 19076 pts/0    Sl+  10:39   0:02 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     12760  1.3  1.0 198100 21452 pts/0    Sl+  10:39   0:03 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+root     13850  0.0  0.0   5844   836 pts/1    S+   10:43   0:00 grep ZHY630YUYANG
+20190415104302
+root     12695  0.0  0.5  83332 11476 pts/0    Sl+  10:38   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     12722  0.7  1.1 180184 22860 pts/0    Sl+  10:38   0:01 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     12752  0.9  0.9 152280 19076 pts/0    Sl+  10:39   0:02 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     12760  1.3  1.0 198100 21452 pts/0    Sl+  10:39   0:03 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+20190415104307
+root     12695  0.0  0.5  83332 11476 pts/0    Sl+  10:38   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     12722  0.7  1.1 180184 22860 pts/0    Sl+  10:38   0:02 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     12752  0.9  0.9 152280 19076 pts/0    Sl+  10:39   0:02 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     12760  1.3  1.0 198100 21452 pts/0    Sl+  10:39   0:03 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+root     13896  0.0  0.0   5844   836 pts/1    S+   10:43   0:00 grep ZHY630YUYANG
+20190415104312
+root     12695  0.0  0.5  83332 11108 pts/0    Sl+  10:38   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     12722  0.7  1.0 180184 22372 pts/0    Sl+  10:38   0:02 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     12752  0.9  0.9 152280 18584 pts/0    Sl+  10:39   0:02 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     12760  1.3  1.0 198100 20964 pts/0    Sl+  10:39   0:03 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+root     13920  0.0  0.0   5844   840 pts/1    S+   10:43   0:00 grep ZHY630YUYANG
+20190415104317
+root     12695  0.0  0.5  83332 11108 pts/0    Sl+  10:38   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     12722  0.7  1.0 180184 22372 pts/0    Sl+  10:38   0:02 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     12752  0.9  0.9 152280 18584 pts/0    Sl+  10:39   0:02 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     12760  1.3  1.0 198100 20964 pts/0    Sl+  10:39   0:03 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+root     13942  0.0  0.0   5844   840 pts/1    S+   10:43   0:00 grep ZHY630YUYANG
+20190415104322
+root     12695  0.0  0.5  83332 11108 pts/0    Sl+  10:38   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     12722  0.7  1.0 180184 22372 pts/0    Sl+  10:38   0:02 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     12752  0.9  0.9 152280 18584 pts/0    Sl+  10:39   0:02 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     12760  1.3  1.0 198100 20964 pts/0    Sl+  10:39   0:03 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+root     13966  0.0  0.0   5844   840 pts/1    S+   10:43   0:00 grep ZHY630YUYANG
+20190415104327
+root     12695  0.0  0.5  83332 11108 pts/0    Sl+  10:38   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     12722  0.7  1.0 180184 22372 pts/0    Sl+  10:38   0:02 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     12752  0.9  0.9 152280 18584 pts/0    Sl+  10:39   0:02 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     12760  1.3  1.0 198100 20964 pts/0    Sl+  10:39   0:03 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+root     13990  0.0  0.0   5844   840 pts/1    S+   10:43   0:00 grep ZHY630YUYANG
+20190415104332
+root     12695  0.0  0.5  83332 11108 pts/0    Sl+  10:38   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     12722  0.7  1.0 180184 22372 pts/0    Sl+  10:38   0:02 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     12752  0.9  0.9 152280 18584 pts/0    Sl+  10:39   0:02 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     12760  1.3  1.0 198100 20964 pts/0    Sl+  10:39   0:03 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+root     14012  0.0  0.0   5844   836 pts/1    S+   10:43   0:00 grep ZHY630YUYANG
+20190415104338
+root     12695  0.0  0.5  83332 11108 pts/0    Sl+  10:38   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     12722  0.7  1.0 180184 22372 pts/0    Sl+  10:38   0:02 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     12752  0.9  0.9 152280 18584 pts/0    Sl+  10:39   0:02 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     12760  1.3  1.0 198100 20964 pts/0    Sl+  10:39   0:03 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+root     14036  0.0  0.0   5844   840 pts/1    S+   10:43   0:00 grep ZHY630YUYANG
+20190415104343
+root     12695  0.0  0.5  83332 11108 pts/0    Sl+  10:38   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     12722  0.7  1.0 180184 22372 pts/0    Sl+  10:38   0:02 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     12752  0.9  0.9 152280 18584 pts/0    Sl+  10:39   0:02 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     12760  1.2  1.0 198100 20964 pts/0    Sl+  10:39   0:03 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+root     14058  0.0  0.0   5844   836 pts/1    S+   10:43   0:00 grep ZHY630YUYANG
+20190415104348
+root     12695  0.0  0.5  83332 11108 pts/0    Sl+  10:38   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     12722  0.7  1.0 180184 22372 pts/0    Sl+  10:38   0:02 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     12752  0.9  0.9 152280 18584 pts/0    Sl+  10:39   0:02 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     12760  1.2  1.0 198100 20964 pts/0    Sl+  10:39   0:03 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+root     14083  0.0  0.0   5844   840 pts/1    S+   10:43   0:00 grep ZHY630YUYANG
+20190415104353
+root     12695  0.0  0.5  83332 11080 pts/0    Sl+  10:38   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     12722  0.7  1.0 180184 22340 pts/0    Sl+  10:38   0:02 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     12752  0.9  0.9 152280 18552 pts/0    Sl+  10:39   0:02 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     12760  1.2  1.0 198100 20936 pts/0    Sl+  10:39   0:03 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+root     14105  0.0  0.0   5844   840 pts/1    S+   10:43   0:00 grep ZHY630YUYANG
+20190415104358
+root     12695  0.0  0.5  83332 11080 pts/0    Sl+  10:38   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     12722  0.7  1.0 180184 22340 pts/0    Sl+  10:38   0:02 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     12752  0.9  0.9 152280 18552 pts/0    Sl+  10:39   0:02 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     12760  1.2  1.0 198100 20936 pts/0    Sl+  10:39   0:03 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+root     14129  0.0  0.0   5844   840 pts/1    S+   10:44   0:00 grep ZHY630YUYANG
+20190415104403
+root     12695  0.0  0.5  83332 11080 pts/0    Sl+  10:38   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     12722  0.7  1.0 180184 22340 pts/0    Sl+  10:38   0:02 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     12752  0.9  0.9 152280 18552 pts/0    Sl+  10:39   0:02 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     12760  1.2  1.0 198100 20936 pts/0    Rl+  10:39   0:03 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+20190415104408
+root     12695  0.0  0.5  83332 11080 pts/0    Sl+  10:38   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     12722  0.7  1.0 180184 22340 pts/0    Sl+  10:38   0:02 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     12752  0.9  0.9 152280 18552 pts/0    Sl+  10:39   0:02 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     12760  1.2  1.0 198100 20936 pts/0    Sl+  10:39   0:03 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+root     14175  0.0  0.0   5844   836 pts/1    S+   10:44   0:00 grep ZHY630YUYANG
+20190415104413
+root     12695  0.0  0.5  83332 11080 pts/0    Sl+  10:38   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     12722  0.7  1.0 180184 22340 pts/0    Sl+  10:38   0:02 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     12752  0.9  0.9 152280 18552 pts/0    Sl+  10:39   0:02 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     12760  1.2  1.0 198100 20936 pts/0    Sl+  10:39   0:03 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+root     14197  0.0  0.0   5844   836 pts/1    S+   10:44   0:00 grep ZHY630YUYANG
+20190415104418
+root     12695  0.0  0.5  83332 11080 pts/0    Sl+  10:38   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     12722  0.7  1.0 180184 22340 pts/0    Sl+  10:38   0:02 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     12752  0.9  0.9 152280 18552 pts/0    Sl+  10:39   0:02 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     12760  1.2  1.0 198100 20936 pts/0    Sl+  10:39   0:04 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+root     14221  0.0  0.0   5844   840 pts/1    S+   10:44   0:00 grep ZHY630YUYANG
+20190415104423
+root     12695  0.0  0.5  83332 11080 pts/0    Sl+  10:38   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     12722  0.7  1.0 180184 22340 pts/0    Sl+  10:38   0:02 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     12752  0.9  0.9 152280 18552 pts/0    Sl+  10:39   0:03 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     12760  1.2  1.0 198100 20936 pts/0    Sl+  10:39   0:04 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+root     14243  0.0  0.0   5844   836 pts/1    S+   10:44   0:00 grep ZHY630YUYANG
+20190415104428
+root     12695  0.0  0.5  83332 11080 pts/0    Sl+  10:38   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     12722  0.7  1.0 180184 22340 pts/0    Sl+  10:38   0:02 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     12752  0.9  0.9 152280 18552 pts/0    Sl+  10:39   0:03 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     12760  1.2  1.0 198100 20936 pts/0    Sl+  10:39   0:04 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+root     14267  0.0  0.0   5844   836 pts/1    S+   10:44   0:00 grep ZHY630YUYANG
+20190415104433
+root     12695  0.0  0.5  83332 11080 pts/0    Sl+  10:38   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     12722  0.7  1.0 180184 22340 pts/0    Sl+  10:38   0:02 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     12752  0.9  0.9 152280 18552 pts/0    Sl+  10:39   0:03 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     12760  1.2  1.0 198100 20936 pts/0    Sl+  10:39   0:04 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+root     14289  0.0  0.0   5844   836 pts/1    S+   10:44   0:00 grep ZHY630YUYANG
+20190415104438
+root     12695  0.0  0.5  83332 11080 pts/0    Sl+  10:38   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     12722  0.7  1.0 180184 22340 pts/0    Sl+  10:38   0:02 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     12752  0.9  0.9 152280 18552 pts/0    Sl+  10:39   0:03 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     12760  1.2  1.0 198100 20936 pts/0    Sl+  10:39   0:04 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+20190415104443
+root     12695  0.0  0.5  83332 11080 pts/0    Sl+  10:38   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     12722  0.7  1.0 180184 22340 pts/0    Sl+  10:38   0:02 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     12752  0.9  0.9 152280 18552 pts/0    Sl+  10:39   0:03 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     12760  1.2  1.0 198100 20936 pts/0    Sl+  10:39   0:04 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+20190415104448
+root     12695  0.0  0.5  83332 11080 pts/0    Sl+  10:38   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     12722  0.7  1.0 180184 22340 pts/0    Sl+  10:38   0:02 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     12752  0.9  0.9 152280 18552 pts/0    Sl+  10:39   0:03 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     12760  1.2  1.0 198100 20936 pts/0    Sl+  10:39   0:04 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+root     14359  0.0  0.0   5844   836 pts/1    S+   10:44   0:00 grep ZHY630YUYANG
+20190415104453
+root     12695  0.0  0.5  83332 11080 pts/0    Sl+  10:38   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     12722  0.7  1.0 180184 22340 pts/0    Sl+  10:38   0:02 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     12752  0.9  0.9 152280 18552 pts/0    Sl+  10:39   0:03 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     12760  1.2  1.0 198100 20936 pts/0    Sl+  10:39   0:04 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+root     14381  0.0  0.0   5844   840 pts/1    S+   10:44   0:00 grep ZHY630YUYANG
+20190415104458
+root     12695  0.0  0.5  83332 11080 pts/0    Sl+  10:38   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     12722  0.7  1.0 180184 22340 pts/0    Sl+  10:38   0:02 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     12752  0.9  0.9 152280 18552 pts/0    Sl+  10:39   0:03 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     12760  1.2  1.0 198100 20936 pts/0    Sl+  10:39   0:04 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+20190415104503
+root     12695  0.0  0.5  83332 11080 pts/0    Sl+  10:38   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     12722  0.7  1.0 180184 22340 pts/0    Sl+  10:38   0:02 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     12752  0.9  0.9 152280 18552 pts/0    Sl+  10:39   0:03 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     12760  1.2  1.0 198100 20936 pts/0    Sl+  10:39   0:04 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+root     14427  0.0  0.0   5844   836 pts/1    S+   10:45   0:00 grep ZHY630YUYANG
+20190415104508
+root     12695  0.0  0.5  83332 11080 pts/0    Sl+  10:38   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     12722  0.7  1.0 180184 22340 pts/0    Sl+  10:38   0:02 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     12752  0.9  0.9 152280 18552 pts/0    Sl+  10:39   0:03 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     12760  1.1  1.0 198100 20936 pts/0    Rl+  10:39   0:04 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+root     14451  0.0  0.0   5844   840 pts/1    S+   10:45   0:00 grep ZHY630YUYANG
+20190415104513
+root     12695  0.0  0.5  83332 10832 pts/0    Sl+  10:38   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     12722  0.7  1.0 180184 21952 pts/0    Sl+  10:38   0:02 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     12752  0.9  0.8 152280 18164 pts/0    Sl+  10:39   0:03 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     12760  1.1  0.9 198100 20548 pts/0    Sl+  10:39   0:04 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+root     14473  0.0  0.0   5844   840 pts/1    S+   10:45   0:00 grep ZHY630YUYANG
+20190415104518
+root     12695  0.0  0.5  83332 10832 pts/0    Sl+  10:38   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     12722  0.7  1.0 180184 21952 pts/0    Sl+  10:38   0:02 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     12752  0.9  0.8 152280 18164 pts/0    Sl+  10:39   0:03 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     12760  1.1  0.9 198100 20548 pts/0    Sl+  10:39   0:04 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+20190415104523
+root     12695  0.0  0.5  83332 10832 pts/0    Sl+  10:38   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     12722  0.7  1.0 180184 21952 pts/0    Sl+  10:38   0:02 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     12752  0.9  0.8 152280 18164 pts/0    Sl+  10:39   0:03 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     12760  1.1  0.9 198100 20548 pts/0    Sl+  10:39   0:04 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+20190415104529
+root     12695  0.0  0.5  83332 10832 pts/0    Sl+  10:38   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     12722  0.7  1.0 180184 21936 pts/0    Sl+  10:38   0:02 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     12752  0.9  0.8 152280 18164 pts/0    Sl+  10:39   0:03 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     12760  1.1  0.9 198100 20540 pts/0    Sl+  10:39   0:04 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+root     14543  0.0  0.0   5844   836 pts/1    S+   10:45   0:00 grep ZHY630YUYANG
+20190415104534
+root     12695  0.0  0.5  83332 10832 pts/0    Sl+  10:38   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     12722  0.7  1.0 180184 21936 pts/0    Sl+  10:38   0:02 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     12752  0.9  0.8 152280 18164 pts/0    Sl+  10:39   0:03 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     12760  1.1  0.9 198100 20540 pts/0    Sl+  10:39   0:04 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+root     14565  0.0  0.0   5844   840 pts/1    S+   10:45   0:00 grep ZHY630YUYANG
+20190415104539
+root     12695  0.0  0.5  83332 10832 pts/0    Sl+  10:38   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     12722  0.7  1.0 180184 21936 pts/0    Sl+  10:38   0:02 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     12752  0.9  0.8 152280 18164 pts/0    Sl+  10:39   0:03 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     12760  1.1  0.9 198100 20540 pts/0    Sl+  10:39   0:04 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+root     14589  0.0  0.0   5844   840 pts/1    S+   10:45   0:00 grep ZHY630YUYANG
+20190415104544
+root     12695  0.0  0.5  83332 10832 pts/0    Sl+  10:38   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     12722  0.7  1.0 180184 21936 pts/0    Sl+  10:38   0:03 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     12752  0.9  0.8 152280 18164 pts/0    Sl+  10:39   0:03 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     12760  1.1  0.9 198100 20540 pts/0    Sl+  10:39   0:04 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+root     14611  0.0  0.0   5844   840 pts/1    S+   10:45   0:00 grep ZHY630YUYANG
+20190415104549
+root     12695  0.0  0.5  83332 10832 pts/0    Sl+  10:38   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     12722  0.7  1.0 180184 21936 pts/0    Sl+  10:38   0:03 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     12752  0.9  0.8 152280 18164 pts/0    Sl+  10:39   0:03 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     12760  1.1  0.9 198100 20540 pts/0    Sl+  10:39   0:04 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+root     14635  0.0  0.0   5844   840 pts/1    S+   10:45   0:00 grep ZHY630YUYANG
+20190415104554
+root     12695  0.0  0.5  83332 10832 pts/0    Sl+  10:38   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     12722  0.7  1.0 180184 21936 pts/0    Sl+  10:38   0:03 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     12752  0.9  0.8 152280 18164 pts/0    Sl+  10:39   0:03 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     12760  1.1  0.9 198100 20540 pts/0    Sl+  10:39   0:04 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+root     14657  0.0  0.0   5844   840 pts/1    S+   10:45   0:00 grep ZHY630YUYANG
+20190415104559
+root     12695  0.0  0.5  83332 10832 pts/0    Sl+  10:38   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     12722  0.7  1.0 180184 21936 pts/0    Sl+  10:38   0:03 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     12752  0.8  0.8 152280 18164 pts/0    Sl+  10:39   0:03 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     12760  1.1  0.9 198100 20540 pts/0    Sl+  10:39   0:04 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+root     14681  0.0  0.0   5844   840 pts/1    S+   10:46   0:00 grep ZHY630YUYANG
+20190415104604
+root     12695  0.0  0.5  83332 10808 pts/0    Sl+  10:38   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     12722  0.7  1.0 180184 21852 pts/0    Sl+  10:38   0:03 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     12752  0.8  0.8 152280 18080 pts/0    Sl+  10:39   0:03 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     12760  1.1  0.9 198100 20456 pts/0    Sl+  10:39   0:04 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+root     14703  0.0  0.0   5844   840 pts/1    R+   10:46   0:00 grep ZHY630YUYANG
+20190415104609
+root     12695  0.0  0.5  83332 10808 pts/0    Sl+  10:38   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     12722  0.7  1.0 180184 21852 pts/0    Sl+  10:38   0:03 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     12752  0.9  0.8 152280 18080 pts/0    Sl+  10:39   0:03 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     12760  1.1  0.9 198100 20456 pts/0    Sl+  10:39   0:04 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+20190415104614
+root     12695  0.0  0.5  83332 10808 pts/0    Sl+  10:38   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     12722  0.7  1.0 180184 21852 pts/0    Sl+  10:38   0:03 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     12752  0.8  0.8 152280 18080 pts/0    Sl+  10:39   0:03 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     12760  1.1  0.9 198100 20456 pts/0    Sl+  10:39   0:05 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+20190415104619
+root     12695  0.0  0.5  83332 10808 pts/0    Sl+  10:38   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     12722  0.7  1.0 180184 21832 pts/0    Sl+  10:38   0:03 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     12752  0.8  0.8 152280 18060 pts/0    Sl+  10:39   0:03 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     12760  1.1  0.9 198100 20436 pts/0    Rl+  10:39   0:05 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+20190415104624
+root     12695  0.0  0.5  83332 10808 pts/0    Sl+  10:38   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     12722  0.7  1.0 180184 21832 pts/0    Sl+  10:38   0:03 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     12752  0.8  0.8 152280 18060 pts/0    Sl+  10:39   0:04 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     12760  1.1  0.9 198100 20436 pts/0    Sl+  10:39   0:05 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+root     14795  0.0  0.0   5844   840 pts/1    R+   10:46   0:00 grep ZHY630YUYANG
+20190415104629
+root     12695  0.0  0.5  83332 10808 pts/0    Sl+  10:38   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     12722  0.7  1.0 180184 21832 pts/0    Sl+  10:38   0:03 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     12752  0.8  0.8 152280 18060 pts/0    Sl+  10:39   0:04 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     12760  1.1  0.9 198100 20436 pts/0    Sl+  10:39   0:05 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+root     14819  0.0  0.0   5844   836 pts/1    S+   10:46   0:00 grep ZHY630YUYANG
+20190415104634
+root     12695  0.0  0.5  83332 10808 pts/0    Sl+  10:38   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     12722  0.7  1.0 180184 21832 pts/0    Sl+  10:38   0:03 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     12752  0.8  0.8 152280 18060 pts/0    Sl+  10:39   0:04 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     12760  1.1  0.9 198100 20436 pts/0    Sl+  10:39   0:05 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+root     14841  0.0  0.0   5844   836 pts/1    S+   10:46   0:00 grep ZHY630YUYANG
+20190415104639
+root     12695  0.0  0.3  83332  7260 pts/0    Sl+  10:38   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     12722  0.7  0.8 180184 17740 pts/0    Sl+  10:38   0:03 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     12752  0.8  0.6 152280 13944 pts/0    Sl+  10:39   0:04 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     12760  1.1  0.7 198100 16244 pts/0    Sl+  10:39   0:05 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+root     14865  0.0  0.0   5844   840 pts/1    S+   10:46   0:00 grep ZHY630YUYANG
+20190415104644
+root     12695  0.0  0.3  83332  6620 pts/0    Sl+  10:38   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     12722  0.7  0.8 180184 17016 pts/0    Sl+  10:38   0:03 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     12752  0.8  0.6 152280 13224 pts/0    Sl+  10:39   0:04 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     12760  1.1  0.7 198100 15524 pts/0    Sl+  10:39   0:05 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+root     14887  0.0  0.0   5844   836 pts/1    S+   10:46   0:00 grep ZHY630YUYANG
+20190415104649
+root     12695  0.0  0.3  83332  6620 pts/0    Sl+  10:38   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     12722  0.7  0.8 180184 17016 pts/0    Sl+  10:38   0:03 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     12752  0.8  0.6 152280 13224 pts/0    Sl+  10:39   0:04 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     12760  1.1  0.7 198100 15524 pts/0    Sl+  10:39   0:05 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+root     14911  0.0  0.0   5844   840 pts/1    S+   10:46   0:00 grep ZHY630YUYANG
+20190415104654
+root     12695  0.0  0.3  83332  6620 pts/0    Sl+  10:38   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     12722  0.7  0.8 180184 17016 pts/0    Sl+  10:38   0:03 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     12752  0.8  0.6 152280 13224 pts/0    Sl+  10:39   0:04 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     12760  1.1  0.7 198100 15524 pts/0    Sl+  10:39   0:05 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+root     14933  0.0  0.0   5844   840 pts/1    S+   10:46   0:00 grep ZHY630YUYANG
+20190415104659
+root     12695  0.0  0.3  83332  6620 pts/0    Sl+  10:38   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     12722  0.7  0.8 180184 16988 pts/0    Sl+  10:38   0:03 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     12752  0.8  0.6 152280 13196 pts/0    Sl+  10:39   0:04 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     12760  1.1  0.7 198100 15492 pts/0    Sl+  10:39   0:05 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+root     14957  0.0  0.0   5844   836 pts/1    S+   10:47   0:00 grep ZHY630YUYANG
+20190415104704
+root     12695  0.0  0.3  83332  6620 pts/0    Sl+  10:38   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     12722  0.6  0.8 180184 16988 pts/0    Sl+  10:38   0:03 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     12752  0.8  0.6 152280 13196 pts/0    Sl+  10:39   0:04 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     12760  1.1  0.7 198100 15492 pts/0    Sl+  10:39   0:05 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+root     14979  0.0  0.0   5844   836 pts/1    S+   10:47   0:00 grep ZHY630YUYANG
+20190415104709
+root     12695  0.0  0.3  83332  6620 pts/0    Sl+  10:38   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     12722  0.6  0.8 180184 16988 pts/0    Sl+  10:38   0:03 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     12752  0.8  0.6 152280 13196 pts/0    Sl+  10:39   0:04 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     12760  1.1  0.7 198100 15492 pts/0    Sl+  10:39   0:05 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+root     15003  0.0  0.0   5844   840 pts/1    S+   10:47   0:00 grep ZHY630YUYANG
+20190415104714
+root     12695  0.0  0.3  83332  6620 pts/0    Sl+  10:38   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     12722  0.6  0.8 180184 16988 pts/0    Sl+  10:38   0:03 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     12752  0.8  0.6 152280 13196 pts/0    Sl+  10:39   0:04 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     12760  1.1  0.7 198100 15492 pts/0    Sl+  10:39   0:05 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+root     15025  0.0  0.0   5844   836 pts/1    S+   10:47   0:00 grep ZHY630YUYANG
+20190415104719
+root     12695  0.0  0.3  83332  6620 pts/0    Sl+  10:38   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     12722  0.6  0.8 180184 16988 pts/0    Sl+  10:38   0:03 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     12752  0.8  0.6 152280 13196 pts/0    Sl+  10:39   0:04 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     12760  1.1  0.7 198100 15492 pts/0    Sl+  10:39   0:05 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+root     15049  0.0  0.0   5844   840 pts/1    S+   10:47   0:00 grep ZHY630YUYANG
+20190415104725
+root     12695  0.0  0.3  83332  6620 pts/0    Sl+  10:38   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     12722  0.6  0.8 180184 16988 pts/0    Sl+  10:38   0:03 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     12752  0.8  0.6 152280 13196 pts/0    Sl+  10:39   0:04 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     12760  1.1  0.7 198100 15492 pts/0    Sl+  10:39   0:05 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+root     15071  0.0  0.0   5844   840 pts/1    R+   10:47   0:00 grep ZHY630YUYANG
+20190415104730
+root     12695  0.0  0.3  83332  6620 pts/0    Sl+  10:38   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     12722  0.6  0.8 180184 16988 pts/0    Sl+  10:38   0:03 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     12752  0.8  0.6 152280 13196 pts/0    Sl+  10:39   0:04 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     12760  1.1  0.7 198100 15492 pts/0    Sl+  10:39   0:05 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+root     15095  0.0  0.0   5844   836 pts/1    S+   10:47   0:00 grep ZHY630YUYANG
+20190415104735
+root     12695  0.0  0.3  83332  6620 pts/0    Sl+  10:38   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     12722  0.6  0.8 180184 16988 pts/0    Sl+  10:38   0:03 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     12752  0.8  0.6 152280 13196 pts/0    Sl+  10:39   0:04 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     12760  1.1  0.7 198100 15492 pts/0    Sl+  10:39   0:05 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+root     15117  0.0  0.0   5844   840 pts/1    S+   10:47   0:00 grep ZHY630YUYANG
+20190415104740
+root     12695  0.0  0.3  83332  6620 pts/0    Sl+  10:38   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     12722  0.6  0.8 180184 16988 pts/0    Sl+  10:38   0:03 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     12752  0.8  0.6 152280 13196 pts/0    Sl+  10:39   0:04 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     12760  1.0  0.7 198100 15492 pts/0    Sl+  10:39   0:05 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+root     15141  0.0  0.0   5844   840 pts/1    S+   10:47   0:00 grep ZHY630YUYANG
+20190415104745
+root     12695  0.0  0.3  83332  6620 pts/0    Sl+  10:38   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     12722  0.6  0.8 180184 16988 pts/0    Sl+  10:38   0:03 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     12752  0.8  0.6 152280 13196 pts/0    Sl+  10:39   0:04 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     12760  1.0  0.7 198100 15492 pts/0    Sl+  10:39   0:05 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+root     15163  0.0  0.0   5844   840 pts/1    S+   10:47   0:00 grep ZHY630YUYANG
+20190415104750
+root     12695  0.0  0.3  83332  6620 pts/0    Sl+  10:38   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     12722  0.6  0.8 180184 16988 pts/0    Sl+  10:38   0:03 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     12752  0.8  0.6 152280 13196 pts/0    Sl+  10:39   0:04 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     12760  1.1  0.7 198100 15492 pts/0    Sl+  10:39   0:05 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+root     15187  0.0  0.0   5844   840 pts/1    S+   10:47   0:00 grep ZHY630YUYANG
+20190415104755
+root     12695  0.0  0.3  83332  6620 pts/0    Sl+  10:38   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     12722  0.6  0.8 180184 16988 pts/0    Sl+  10:38   0:03 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     12752  0.8  0.6 152280 13196 pts/0    Sl+  10:39   0:04 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     12760  1.1  0.7 198100 15492 pts/0    Sl+  10:39   0:05 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+root     15209  0.0  0.0   5844   840 pts/1    S+   10:48   0:00 grep ZHY630YUYANG
+20190415104800
+root     12695  0.0  0.3  83332  6620 pts/0    Sl+  10:38   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     12722  0.6  0.8 180184 16988 pts/0    Sl+  10:38   0:03 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     12752  0.8  0.6 152280 13196 pts/0    Sl+  10:39   0:04 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     12760  1.1  0.7 198100 15492 pts/0    Sl+  10:39   0:06 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+root     15233  0.0  0.0   5844   840 pts/1    S+   10:48   0:00 grep ZHY630YUYANG
+20190415104805
+root     12695  0.0  0.3  83332  6620 pts/0    Sl+  10:38   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     12722  0.6  0.8 180184 16988 pts/0    Sl+  10:38   0:03 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     12752  0.8  0.6 152280 13196 pts/0    Sl+  10:39   0:04 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     12760  1.1  0.7 198100 15492 pts/0    Sl+  10:39   0:06 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+20190415104810
+root     12695  0.0  0.3  83332  6620 pts/0    Sl+  10:38   0:00 /root/ZHY630YUYANG/App ShareMemInit /root/ZHY630YUYANG/
+root     12722  0.6  0.8 180184 16988 pts/0    Sl+  10:38   0:03 /root/ZHY630YUYANG/App Collector /root/ZHY630YUYANG/
+root     12752  0.8  0.6 152280 13196 pts/0    Sl+  10:39   0:04 /root/ZHY630YUYANG/App AdapterPro /root/ZHY630YUYANG/
+root     12760  1.0  0.7 198100 15492 pts/0    Sl+  10:39   0:06 /root/ZHY630YUYANG/App BusinessL /root/ZHY630YUYANG/
+root     15279  0.0  0.0   5844   840 pts/1    S+   10:48   0:00 grep ZHY630YUYANG
+20190415104815

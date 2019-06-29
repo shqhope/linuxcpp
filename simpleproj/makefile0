@@ -1,2 +1,4 @@
 Debug:
 	g++ -o test1d -g main.cpp src/functions.cpp ../zw/basefun/basefun.cpp ../basestruct/linklist.cpp -lpthread
+
+

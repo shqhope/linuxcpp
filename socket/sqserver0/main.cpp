@@ -10,6 +10,7 @@
 #include <cstdio>
 #include <netinet/in.h>
 #include <netinet/tcp.h>
+#include <sys/errno.h>
 
 #define FLG_START "#$$START"
 #define FLG_END	"#$#END"
@@ -26,8 +27,8 @@ typedef struct recallfun
 
 RECall g_recall[] =
 {
-	"str", NULL,
-	"file", NULL
+	{"str", NULL},
+	{"file", NULL}
 };
 
 int g_irecalllen = sizeof(g_recall)/sizeof(RECall);
@@ -132,7 +133,7 @@ public:
 			{
 				cout<<"recv start flags"<<endl;
 				cout<<"start to receive data"<<endl;
-				sprintf(buffDestname, "%s/recv_%010d_%03d.bak", SAVEPATH, time(0), iseq++);
+				sprintf(buffDestname, "%s/recv_%010ld_%03d.bak", SAVEPATH, time(0), iseq++);
 				ifile = open(buffDestname, O_RDWR|O_CREAT);
 				if (ifile < 0)
 				{

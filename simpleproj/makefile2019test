@@ -1,0 +1,5 @@
+Debug:	queen.o
+	g++ -o 2019test ../2019test/c2019test.cpp queen.o
+
+queen.o:	../basestruct/queen.cpp ../basestruct/queen.h
+	g++ -c ../basestruct/queen.cpp
